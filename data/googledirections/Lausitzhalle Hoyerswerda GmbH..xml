@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and A4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>7585</value>
+    <text>2 hours 6 mins</text>
+   </duration>
+   <distance>
+    <value>196504</value>
+    <text>197 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.4381510</lat>
+    <lng>14.2626519</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Lausitzer Pl. 4, 02977 Hoyerswerda, Germany</end_address>
+  <location>Lausitzhalle Hoyerswerda GmbH</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJpMp@|QLdYuAxJvBdEdF`SlV~QzUhLhLpPBh^iYnh@s[`Uae@hPuI|_@oFhb@aD~]mX~ZsCng@`Iba@|@rgAwU`b@ei@~GoCdAtAsB`IeCmI~@ip@a@wnB{Gaf@}Ogc@g_@ee@iNuVoOqo@_Ck_@tAyr@TkaAkFm`@yLg_@qQcXqQ_Nmx@af@aN_RwH}WcNmmA{WgiAce@}aAio@seAsR_WoKe[@aQbMq~BdTizBfS}w@he@kgAda@u_Aj]umAv[ezAfX_bAdf@}~@bTim@fo@}hDvGko@r@kdA}EcdCmCubC`Jmx@nZybA|Eqa@Dyp@yH_~@k@_t@lGqr@tTey@|s@{bC|f@sdCtw@ixBzT_lAtJgz@dVopA|Z_|@r|@ezAtS_f@vNuk@fd@y`D`XguAhf@kcAtk@ccAlW{jAnDk_AsAux@x@a}@jG_l@l]goA`Si}@|N}nArXckAb^yp@nz@i}@vf@sz@vLcMr[qQbz@w^lZu^|V{{@nNi_AhZw`Ada@qaAtQ}gAdKonBtIskAlYokBjNgeBdFqXxPsc@~Xas@xJe`@zY{u@ze@_t@hMs[`He^pDk{@vE}q@|Bui@uEiOqI}G_LiWq@uq@Ncx@iJqjAiBui@tJc~@jEe\Aiu@_OstAzFmrCoDmgCoDqlAhBq`BsGqqImEmzCme@{iDuM{gBwBkiB}Hyo@iLmk@yRo[}XsU_^yNi_@}UoW{_@iQss@qV_cBua@qnAoP}TqMqImb@cPqwAk\sQiPuYee@mr@__BuvAojCcf@i_AaKsm@bEmaB{C_mClDieFjBunB~Cie@bMs]xTaYrOiZtF_^{@qdE~c@eqC]urAeFkkAsSojAmEsdA_Hqf@ce@{`BkO{jA_K_xAsVwjAZk`@fKcgApBq`AkEoj@}Bag@eKo\i@{HlJpP`AhD}EvB_XxBw[rBwMmA_TsMwNkTeJyLaYiOet@uHkx@cMqOdEkRpPaOzKuKtBkMqB{M}KeMsXsZqs@aNeQeRkK_]g@mRxI{IxKwm@`pAob@`h@}u@jPgTjRsWtk@q[~_@oTlgAoRlm@}KnToVvM{Rb_@wLlMsMx@gQgBeNhF{n@|c@_i@|p@aXv\kPvJuOKyJdC{RnKmOfByJqBqMwLsd@em@wNyFuRaAiHBu|@SyHgDKUQLyK{Cw]~@_E[aFxGsd@cbAc^{cAczAieGip@ulCqg@khE_RwsCrFyeAkMuTk_@k]}ImSsIyOpAkEvHgWyLmd@iLm^uDdKJ\</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.0535400</lat>
+    <lng>12.3600035</lng>
+   </southwest>
+   <northeast>
+    <lat>51.4382134</lat>
+    <lng>14.2647507</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJKWxKoqhDCEcR1rMxCm5U-4U</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

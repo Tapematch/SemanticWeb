@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and A2</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>14602</value>
+    <text>4 hours 3 mins</text>
+   </duration>
+   <distance>
+    <value>417169</value>
+    <text>417 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.9503406</lat>
+    <lng>7.9998874</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Breuelweg, 48231 Warendorf, Germany</end_address>
+  <location>Freibad am Emssee - Warendorf</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAaIdRgMeDgByb@gR_@mR{YoO{f@~F{MmBwMcf@_f@oW_G}u@tWw\nZuc@rQ{d@aLgVeP}o@rWw_@nDoLcRtChLw\xiD}QbpBeGb}E_a@nlJguAfrPcoAnbEc~A|aE{{EnmGeaD``EmvAtt@{hBdp@ex@deAga@f{BbAruEsWxeFm`AzeCm`Axx@mgAhQ{nAvGco@dZcp@~r@kaA|wBm|BpuD}wAzvCalAfeGoo@jkAinAfgAcg@pfAk[z{AgUrfAqr@fhA_{@rLalA{]__BmAguAyTapB}x@acAtAgbBnv@g~@gCwvAiwAwh@wWqe@d@grAvh@{gAyEkzA}t@mmBoQk~Ah_@scCzeBq|All@m{Bvj@ecGnoD{dAt}@_aAtyEie@vcCki@xxAyn@lbAqhAh_AgiA|]erAh@wgAuZy{Aut@agCeVwObp@rMhpA_@n|Ay_BtzGwh@xuCuCjeA~E|{EZnqFe[~aIgw@pfMcMncGy_@bbDZ`~Fwd@lgDkRj_Dmr@neDw`AdbCoh@haAodBpsBs`@jx@i_@hjC}s@pqC}TnnAsOjdCw]|xA{cBdlGkXnsAmOhiCaK`wEl`@~|HmHdtQ_TnhNeA~vC_r@hrFwn@lgEgi@reGsW~|L`^fhHeIxfFiBddCkKnw@s~AhyEcZvkBqRhbEsQjeHgQftCkd@`cC}}@h`FoZx_CiNzsF}d@hiIqZtvDsiBhvEa{@r~BmRv_ClWhgDiAxcGoQnlDnXn}Fda@v|EuOvcGdLrxD~Sv_DzmAfyC|xBlzDvcBpbDbzAdnBvkBz|A~eAzsBpz@|gApzC~iCxcBvzCflAdhCfk@fq@lj@|wAhiAndB`_@tvDpOvbAzg@ndAlGbyAjf@`cDcArbB_StiBcH~eCr@||A_BdmB_CfuDrRvvB{Uh~CpBtl@vNv`B|K~xBRhgBjPprAbXtoCCdiDaFpuEnc@x_D`b@jt@nz@dc@rz@|QxeAnp@~zArg@f[r^tYhaAn]bpBtH|jAp\ncCbRhTx_@nIjx@aHzV`Hry@xnA~s@rlBjh@vw@ns@l`BfVlr@tq@py@l_@tOrgBjm@tpApsAveCv{@~|@jr@lkA~b@nq@`A`k@rDtWtTnx@vfDf|@zwBzx@tqC~dAzx@d`C``CxZ~n@~^ljClXz|Bto@dlB`cBxkEvp@lmGlw@bjGmEt^mb@nm@kkAteA{[~[mFdf@bi@pcCp[jz@qmA`}CwjBr_FopBl{G}_AzfDqMhiAo{@`yFsw@zrJ_Ff}A</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>7.9998874</lng>
+   </southwest>
+   <northeast>
+    <lat>52.4311039</lat>
+    <lng>12.3996343</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJv_Zw20iQuUcR1Y3uQDcXSIU</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>B87</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>1015</value>
+    <text>17 mins</text>
+   </duration>
+   <distance>
+    <value>7886</value>
+    <text>7.9 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.3455105</lat>
+    <lng>12.4506439</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Riesaer Str. 56 - 64, 04328 Leipzig, Germany</end_address>
+  <location>SKY CLUB</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAPvCBnA@XMxAoAM]@c@POL{@bASZyAtCi@z@_@^i@He@CSGo@g@eEeDc@q@i@i@m@g@@gB@aB?aEKwIA_FEcBScCKqB?eBHaBLeAPw@xAwEl@qBF[JkBF{@Jy@N_AL_@HWDg@?c@EOKIc@Mm@Iy@e@Sk@m@kC[w@Wg@k@s@yBmCa@w@Sm@q@_Cs@oCw@}ASs@Ii@E}DDgDX}F@i@}@T_Ad@q@b@]VSD]EYSu@qAsCaFgAaBm@i@a@Qg@IqG]k@?WMYGw@Qc@[a@a@wFiHQ_@EWEa@Ds@Nk@rAuDnA_DjBkFRw@RqAViARi@|@_BR[l@aA\{@Rs@ViAHs@TgBNkBP}EByBVyOTcELyBNiGTcN@u@HoAA_BCq@SyAOs@Qa@uCoFa@_AQg@Mo@Ku@WgFEu@CeBGkAk@oE{@aGK[_@wCKkAAa@D}@JUn@gDRm@^eCLgBXgNXkJNyELaHLsI@_BXaJPiF?}A@_Z@wBBWHk@d@wBLg@Jq@\qD~@RTFJ@PEj@RZNh@`@|B~Ah@XfGjBlAZt@FX@?eANyCjAwHRmBPgGAcABuA</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396549</lat>
+    <lng>12.3694604</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3535368</lat>
+    <lng>12.4506439</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJlywZ3pD4pkcROCC60YYaqT8</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

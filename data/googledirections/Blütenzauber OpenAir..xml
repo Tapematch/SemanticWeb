@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>5798</value>
+    <text>1 hour 37 mins</text>
+   </duration>
+   <distance>
+    <value>163869</value>
+    <text>164 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.3912483</lat>
+    <lng>12.9244230</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Eisenbahnstraße 102, 14542 Werder (Havel), Germany</end_address>
+  <location>Blütenzauber OpenAir</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFKrBmBKoBbBmBpDsBdBsIkGuAyD@cHS{Si@gBkBFqM~@iEn@Ss@qAeD}HqTaI{PmE_UtA}AhD}Jd@wLsC_@yUmWiOqMqFiAiJcGsDlAuMlB{HfCsOrDyGv@}CrHaB`KuB`C_VjJsVbIaLnGqEf@oHaBoNoEiEwCkLiM{H{A_IlD_HtE}\nKsVhGcHyAsGwF{CkJl@yB~AYz@dAs@vN_Gbm@wTt{B}QbpBeGb}EoB`qBkEffAcWdsDm`@vnFyGrj@oBzEyKpLaD`AkKaCuE{AwiAsi@ox@_`@aV{IqZcEqWZq|@vK}R`FaMrFim@x`@{VfPoTdHeHnA}[tF_|@lOqZvDiZp@{~@dBs_ApUyo@hQ_h@~MoVzAa[cEwYqFmZwFyUyA}QnBiR~F}s@hVe\bKyKpAgVk@soAe_@maD{`Ai|@mN_lAwMagFak@y_De]w\}Dyc@iHk]wLy[iQyo@qd@i`@yXmPuLwP_QaQa[ev@efBwRoa@oOsRqS_Om[mPk`Asu@_TyPeTs[mUmd@wQg]iRgU_v@_v@aXcXqVeSqx@cb@wXcRqVyZeRya@yJiZ_^cgA{c@}wAyPau@wQcg@oS{[gWiV{|@gt@yo@ei@yUwSgHwIaOoXkg@}pAqRad@mG{J{IiK{K_JgIoEo`As[k`Csv@{O{HoJ}HuScYid@gmAmRak@{Gi\wYidBus@mxC}Pgj@gLkV{u@kpAk[eg@{s@c}@iJgPgJmVkLy_@s]miA_Mi]kGiKiXa[_LiVgEaTmG}_@mFcOaI{LsQePmKiLyIuRea@{kAkO{WePqP_|@qg@}^wS_a@cX{UkTs\i`@_z@{pAsRwa@{Oq`@}Wof@ks@}iAeUsi@if@i{A{M{^kLaTmf@im@{jD{cEuNgQwMqTkO_d@mMmw@_`@_kCcHa`@yGsTcNgYid@wn@g[ef@wJgXwJag@oDoW_Jak@_Ko\uJiSg]ib@cz@u~@qeA}jAgSuTyP{M}NkG{S_DaXrAwTxHg`Abe@aSrHiSxBySmAmj@mMel@kNkU_HmJiFaIoD}Gu@iLxAeO|K{K~VgMn_@k`AvbCa]v{@g]`|@yObb@sGjWqMtq@{g@hiCiGxQiFbJsQpOwDtAwXhBmv@dBg|@hBag@mB}n@iC}g@{DqWoL_YqZ{^ok@eFmRwHyg@wZqtBuJ{n@wEmOkIiScNoc@uNuxAqFsSUmK[oGwFcR~KyNdFkFlIg@~JtBpVqAvDuCvEoOxKag@pDmUV}@~EiErPcKtEmFy@U</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>12.1832363</lng>
+   </southwest>
+   <northeast>
+    <lat>52.4116227</lat>
+    <lng>12.9244230</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJm_ZX1a_zqEcRuBlUqdVTdQY</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

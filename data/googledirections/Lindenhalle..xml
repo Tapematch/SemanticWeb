@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>16797</value>
+    <text>4 hours 40 mins</text>
+   </duration>
+   <distance>
+    <value>505626</value>
+    <text>506 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>48.2821044</lat>
+    <lng>9.7273442</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Lindenstraße 51, 89584 Ehingen (Donau), Germany</end_address>
+  <location>Lindenhalle</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHbyAtrAvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@foHmhAzfH_{Fb_CwEfz@z[dw@jbAbq@zF~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrAz|B`Yd_C`eAxaAxNdoAqzAtiCo_BntBfj@`nBp\xjAoiAxrB|HjsAx\|hA}VbrBhaAp{A~_Btv@toA~r@_IjXyz@jdAg}Ara@mK|mAfbA`qAkf@dpA}B~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@|jDpnBnyBnqBdrAcRxbAxXpvAzSvgAntAtoCldEdhBxsEhr@`gExx@rgA`bAbErnEpsAtlAye@xo@dV`iFhFtlBmAh_BxU`{ByPj}B`n@pd@t{CxKhhCtc@px@d[||B~q@|Qp~Arx@jdCx{@|lBcEvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@~fA`{CrdBbaBdfAvwAjh@`eCn\p`Bxx@rr@vm@toAzdAb]pxBdqBhuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIli@x{Cbo@zeDffFzuIjyArfEpvB``EzQb~Frk@rkJyr@v_Dw\tuExw@~fI|JbtHtdAzoDjwA`tBvzBpcH`~@ngI_zAjvQh|A`oIc^tlEhHjsDzx@ntDdLbxD~u@fgFve@`wEdi@bsBbiAfnAvWhdBbpB{e@lbDg}CdlA}LllA`]ns@bMx^rkBj|ArrBlo@~|@`zAh`@f|C`kDbgAxHdpBk|AzyAyWdbBrSbhBiCpdBfw@xfEmv@`oBzGnrAlx@xsBpsBtdAaUhn@g}Atr@}tAv~@HzpBgdB`tA{H`sAn_@viE`@hzBfhAb}BmKjxDa}Aj}AAj_BagAjgAme@hs@px@fbApk@laBiLp`DtnD|dChnDx`ChlGjtClfE|rAbd@jwAoFvtCmkCxhA}z@rxAcMzgCfyAzbBxr@xcBnT`tCpc@naBnTxiBk\j~Ar@mx@ryHmtBxvCydBj~AlV~c@lpA~}DhoChdBrhAxtAddBp`@rcErbBngAjJpp@ry@tmAdwCe{@`fBouAj|Cw]hGiSzT`Pr_BjCnwCcgAp`DaApgD^b{@aKiMy@kF</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>48.2399635</lat>
+    <lng>9.7238696</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJKds0-dvVm0cRpzj--n8Eecs</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

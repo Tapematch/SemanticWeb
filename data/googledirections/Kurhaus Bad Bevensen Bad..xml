@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and B4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>11522</value>
+    <text>3 hours 12 mins</text>
+   </duration>
+   <distance>
+    <value>297975</value>
+    <text>298 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>53.0822255</lat>
+    <lng>10.5870179</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Dahlenburger Str. 1, 29549 Bad Bevensen, Germany</end_address>
+  <location>Kurhaus Bad Bevensen Bad</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAcBnI}EtGgMeDgByb@gR_@oHiD}HqToO{f@~F{MmBwMcf@_f@oW_Geh@hLwLjJwEbO_VjJuc@rQ{d@aLgVeP}o@rWw_@nDoLcRlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFys@nbIwb@l`Bkk@`aBc~A|aE{{EnmGeaD``Ecn@pb@ig@bQ{hBdp@{b@zb@iTha@_V~z@gJf_AbAruEcF`kCoPvyAy[bkAsc@vy@m`Axx@wb@jMuc@|B{nAvGco@dZcp@~r@kaA|wBm|BpuD}wAzvCih@r`Cwb@rcCoo@jkAinAfgAcXhb@_Nfc@k[z{AgUrfAwTji@y\z]q\rLm]?alA{]u_@wFi~@hDoj@{Awi@}QapB}x@mb@eCs_@zEgbBnv@a]jDe`@sHmm@}i@ih@kl@wh@wWqe@d@grAvh@m^lBmh@gIkzA}t@iu@qOcw@}@cp@xIgm@nTscCzeB_n@`[qm@jPm{Bvj@idAnc@{}D~jC{dAt}@cR|d@{m@vsDie@vcCki@xxAyn@lbAqhAh_AgiA|]erAh@wgAuZy{Aut@}qA{Pct@iDwObp@rMhpA_@n|A{Z~qAs^~kAid@tzBwh@xuCuCjeA~E|{EZnqFe[~aIgw@pfMcMncGy_@bbDfAxrBk@fjCePjdBqS`bAqK`x@yEhfBcMteAid@x~Auf@xxAaYjh@oh@haAq\rj@}fA|gAs`@jx@gWpnAaGvz@sLnv@if@`zA}TnnAsOjdCw]|xAm}@htCme@zvBkXnsAmOhiCaK`wEl`@~|HmHdtQ}ClvDaO`qHkAxtCiCj^yGpF}XmQql@qLmg@LuZvBgQkF_|@wbA_YyGew@gC_}@vLoQpEy}Ab`@iiAfYyQsDcfAqm@wiAh@qKuCqb@mPqq@aBgfA|z@gj@nR}c@lEyxA}L_gAPaa@GoZzGcz@ne@eoAtjAsb@nIqf@aKg]aYc[oMgw@bVeoE`lBs`FbuBipBl~@kLpFyX_F_\aGaeE}u@oxBu`@srHssAau@oIerAdL_{Dx]{bAkMo_@@yn@hOmwAgPk}Cy`@a|AegAw_Aii@osAm_@{Xqy@aS}f@w`@c_@gg@my@mTcw@ut@eeBkYws@cZe`@y`@aLo_@zFov@nc@}j@nfAkh@`h@g@uMyPaJsPiFiLsZ_j@csAic@o}@i@qZBwLo{@la@{LkAiq@q[mn@_Dip@pBcYzImNsC{^{Zw^_OuDy@qNnR{Yjb@ue@pe@yc@zSqLdKEnLoFtBqD`CiCq@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>10.4622106</lng>
+   </southwest>
+   <northeast>
+    <lat>53.0822255</lat>
+    <lng>12.3996343</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJLZ7yMqUorkcRokRXHXwrKb0</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

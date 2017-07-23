@@ -1,0 +1,1923 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with WebVOWL (version 1.0.3), http://vowl.visualdataweb.org -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   class="vowlGraph"
+   width="1497.6"
+   height="934"
+   version="1.1"
+   id="svg616"
+   sodipodi:docname="vocab.svg"
+   inkscape:export-filename="D:\Benutzer\philt\Documents\HTWK\SemanticWeb\vocab.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96"
+   inkscape:version="0.92.1 r15371">
+  <metadata
+     id="metadata622">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs620" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="828"
+     inkscape:window-height="480"
+     id="namedview618"
+     showgrid="false"
+     inkscape:zoom="0.23370727"
+     inkscape:cx="748.79999"
+     inkscape:cy="467"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg616" />
+  <g
+     transform="translate(-786.5595301005253,-476.5298124339149)scale(1.741101126592249)"
+     id="g614">
+    <g
+       class="linkContainer"
+       id="g137">
+      <defs
+         id="defs59">
+        <marker
+           id="marker0"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path2" />
+        </marker>
+        <marker
+           id="marker3"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path5" />
+        </marker>
+        <marker
+           id="marker12"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path8" />
+        </marker>
+        <marker
+           id="marker13"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path11" />
+        </marker>
+        <marker
+           id="marker14"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path14" />
+        </marker>
+        <marker
+           id="marker16"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path17" />
+        </marker>
+        <marker
+           id="marker19"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path20" />
+        </marker>
+        <marker
+           id="marker20"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path23" />
+        </marker>
+        <marker
+           id="marker21"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path26" />
+        </marker>
+        <marker
+           id="marker23"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path29" />
+        </marker>
+        <marker
+           id="marker25"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path32" />
+        </marker>
+        <marker
+           id="marker26"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path35" />
+        </marker>
+        <marker
+           id="marker28"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path38" />
+        </marker>
+        <marker
+           id="marker29"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path41" />
+        </marker>
+        <marker
+           id="marker31"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path44" />
+        </marker>
+        <marker
+           id="marker32"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path47" />
+        </marker>
+        <marker
+           id="marker33"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="white"
+             style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path50" />
+        </marker>
+        <marker
+           id="marker34"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="white"
+             style="fill: rgb(255, 255, 255); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path53" />
+        </marker>
+        <marker
+           id="marker35"
+           viewBox="-14 -10 28 20"
+           markerWidth="10"
+           markerHeight="10"
+           orient="auto">
+          <path
+             d="M0,0L -12,8L-12,-8L0,0"
+             class="filled"
+             style="fill: rgb(0, 0, 0); stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 100;"
+             id="path56" />
+        </marker>
+      </defs>
+      <g
+         class="link"
+         marker-end="url(#marker0)"
+         id="g63">
+        <path
+           class="link-path node1 node2 normal"
+           d="M672.4376874417641,517.7000691172999Q765.4229817159045,612.900919973876,775.7546810796979,623.4787922912733Q786.0863804434913,634.0566646086706,775.7546810796979,623.4787922912733"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path61" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker3)"
+         id="g67">
+        <path
+           class="link-path node1 node4 normal"
+           d="M675.8614586418341,448.42258233578275Q709.7114195439631,420.00309646316146,718.1739097694954,412.8982249950061Q726.6363999950277,405.79335352685075,760.4863608971566,377.3738676542295"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path65" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker12)"
+         id="g71">
+        <path
+           class="link-path node1 node7 normal"
+           d="M640.4583366577293,430.34679588043934Q643.4474305254131,388.7578160998476,644.1947039923341,378.36057115469964Q644.9419774592551,367.96332620955167,647.9310713269388,326.3743464289599"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path69" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker14)"
+         id="g75">
+        <path
+           class="link-path node15 node6 normal"
+           d="M927.4767391483533,432.0496303878877Q905.6755429274323,395.3630015195069,900.225243872202,386.1913443024117Q894.7749448169717,377.01968708531655,872.9737485960507,340.3330582169358"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path73" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker16)"
+         id="g79">
+        <path
+           class="link-path node2 node9 normal"
+           d="M818.748786568336,650.9106513830641Q862.222685790099,678.6486369526738,873.0911605955398,685.5831333450761Q883.9596354009806,692.5176297374785,927.4335346227437,720.2556153070882"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path77" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker19)"
+         id="g83">
+        <path
+           class="link-path node1 node17 normal"
+           d="M624.6920389592807,530.7568968371024Q604.1884555514573,614.6341966904326,599.0625596995014,635.6035216537653Q593.9366638475456,656.5728466170979,573.4330804397222,740.4501464704281"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path81" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker20)"
+         id="g87">
+        <path
+           class="link-path node15 node1 normal"
+           d="M902.5377700958692,476.7495153672786Q816.6406945165986,478.1931386942156,795.166425621781,478.55404452594985Q773.6921567269633,478.9149503576841,687.7950811476927,480.3585736846211"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path85" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker21)"
+         id="g91">
+        <path
+           class="link-path node22 node15 normal"
+           d="M1173.1234060484896,429.42700570860364Q1105.2443627415885,443.79010566363326,1088.274601914863,447.38088065239066Q1071.3048410881377,450.97165564114806,1003.4257977812365,465.3347555961777"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path89" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker23)"
+         id="g95">
+        <path
+           class="link-path node1 node11 normal"
+           d="M604.0455050681261,520.3051387204334Q563.0375917934703,569.2410031155609,552.7856134748063,581.4749692143428Q542.5336351561423,593.7089353131246,501.52572188148645,642.644799708252"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path93" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker26)"
+         id="g99">
+        <path
+           class="link-path node15 node27 normal"
+           d="M990.9638414047511,441.2550991766154Q1021.2707171734626,413.2118213668149,1028.8474361156404,406.2010019143647Q1036.4241550578183,399.19018246191456,1066.73103082653,371.146904652114"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path97" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker28)"
+         id="g103">
+        <path
+           class="link-path node22 node24 normal"
+           d="M1227.3021744611988,469.6890452143058Q1242.3781988296284,648.550569727637,1244.0533126483429,668.4240724513405Q1245.7284264670573,688.297575175044,1244.0533126483429,668.4240724513405"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path101" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker31)"
+         id="g107">
+        <path
+           class="link-path node15 node5 normal"
+           d="M963.8338776085076,425.94411669878025Q973.1566826167815,380.74901157827566,975.48738386885,369.45023529814955Q977.8180851209185,358.15145901802344,987.1408901291921,312.95635389751897"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path105" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker33)"
+         id="g111">
+        <path
+           class="link-path node24 node22 dotted"
+           d="M1267.3685001647239,623.0654786561622Q1303.075092330186,573.330603256372,1301.1460496991274,557.3528547430552Q1299.2170070680688,541.3751062297384,1248.0780738541391,463.2879935229949"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 3;"
+           id="path109" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker34)"
+         id="g115">
+        <path
+           class="link-path node2 node1 dotted"
+           d="M724.9158605390679,619.4273325496962Q650.9197669513335,621.5709027050241,642.3220865022502,612.8452492744232Q633.7244060531668,604.1195958438223,638.939056048235,532.1707982436872"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2; stroke-dasharray: 3;"
+           id="path113" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker29)"
+         id="g119">
+        <path
+           class="link-path node24 node30 normal"
+           d="M1211.7405738365237,628.9666661696403Q1182.9439662936832,593.8028427014508,1175.744814407973,585.0118868344034Q1168.545662522263,576.220930967356,1139.7490549794225,541.0571074991665"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path117" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker13)"
+         id="g123">
+        <path
+           class="link-path node1 node10 normal"
+           d="M602.4431016551436,443.52676656803885Q562.4062037854914,399.6100265636615,552.3969793180783,388.6308415625672Q542.3877548506651,377.65165656147286,502.35085698101295,333.73491655709563"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path121" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker35)"
+         id="g127">
+        <path
+           class="link-path node2 node36 normal"
+           d="M824.8208168363398,609.5678497671022Q876.6544425917133,594.8722847387356,889.6128490305566,591.198393481644Q902.5712554694,587.5245022245523,954.4048812247735,572.8289371961856"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path125" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker32)"
+         id="g131">
+        <path
+           class="link-path node2 node8 normal"
+           d="M826.4617221448934,628.937362288312Q878.7458865854295,634.5657082801122,891.8169276955634,635.9727947780623Q904.8879688056974,637.3798812760124,957.1721332462332,643.0082272678126"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path129" />
+      </g>
+      <g
+         class="link"
+         marker-end="url(#marker25)"
+         id="g135">
+        <path
+           class="link-path node2 node18 normal"
+           d="M780.6783444392436,674.2405647103079Q783.2166422659612,700.4097983078427,783.8512167226406,706.9521067072264Q784.48579117932,713.4944151066102,787.0240890060377,739.663648704145"
+           style="fill: none; stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="path133" />
+      </g>
+    </g>
+    <g
+       class="cardinalityContainer"
+       id="g139" />
+    <g
+       class="labelContainer"
+       id="g340">
+      <g
+         class="labelGroup"
+         transform="translate(775.7546810796979,623.4787922912733)"
+         id="g156">
+        <g
+           class="label"
+           id="0">
+          <rect
+             class="objectproperty property object"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(170, 204, 255);"
+             id="rect143">
+            <title
+               id="title141">hat</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text147">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan145">hat</tspan>
+          </text>
+          <g
+             class="hidden-in-export"
+             transform="translate(20,-25)"
+             style="display: none;"
+             id="g153">
+            <circle
+               class="class pin feature"
+               r="12"
+               style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+               id="circle149" />
+            <line
+               x1="0"
+               x2="0"
+               y1="12"
+               y2="16"
+               style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+               id="line151" />
+          </g>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(718.1739097694954,412.8982249950061)"
+         id="g167">
+        <g
+           class="label"
+           id="3">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect160">
+            <title
+               id="title158">stadt</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text164">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan162">stadt</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(644.1947039923341,378.36057115469964)"
+         id="g178">
+        <g
+           class="label"
+           id="12">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect171">
+            <title
+               id="title169">bundesland</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text175">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan173">bundesland</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(900.225243872202,386.1913443024117)"
+         id="g189">
+        <g
+           class="label"
+           id="14">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect182">
+            <title
+               id="title180">beschreibung</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text186">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan184">beschreibung</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(873.0911605955398,685.5831333450761)"
+         id="g200">
+        <g
+           class="label"
+           id="16">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect193">
+            <title
+               id="title191">entfernung</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text197">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan195">entfernung</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(599.0625596995014,635.6035216537653)"
+         id="g211">
+        <g
+           class="label"
+           id="19">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect204">
+            <title
+               id="title202">adresse</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text208">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan206">adresse</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(795.166425621781,478.55404452594985)"
+         id="g222">
+        <g
+           class="label"
+           id="20">
+          <rect
+             class="objectproperty property object"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(170, 204, 255);"
+             id="rect215">
+            <title
+               id="title213">findet_statt_bei</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text219">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan217">findet_stat...</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(1088.274601914863,447.38088065239066)"
+         id="g233">
+        <g
+           class="label"
+           id="21">
+          <rect
+             class="objectproperty property object"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(170, 204, 255);"
+             id="rect226">
+            <title
+               id="title224">spielt_auf</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text230">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan228">spielt_auf</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(552.7856134748063,581.4749692143428)"
+         id="g244">
+        <g
+           class="label"
+           id="23">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect237">
+            <title
+               id="title235">plz</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text241">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan239">plz</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(1028.8474361156404,406.2010019143647)"
+         id="g255">
+        <g
+           class="label"
+           id="26">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect248">
+            <title
+               id="title246">titel</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text252">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan250">titel</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(1244.0533126483429,668.4240724513405)"
+         id="g272">
+        <g
+           class="label"
+           id="28">
+          <rect
+             class="objectproperty property object"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(170, 204, 255);"
+             id="rect259">
+            <title
+               id="title257">besitzt</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text263">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan261">besitzt</tspan>
+          </text>
+          <g
+             class="hidden-in-export"
+             transform="translate(20,-25)"
+             style="display: none;"
+             id="g269">
+            <circle
+               class="class pin feature"
+               r="12"
+               style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+               id="circle265" />
+            <line
+               x1="0"
+               x2="0"
+               y1="12"
+               y2="16"
+               style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+               id="line267" />
+          </g>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(975.48738386885,369.45023529814955)"
+         id="g283">
+        <g
+           class="label"
+           id="31">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect276">
+            <title
+               id="title274">beginn</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text280">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan278">beginn</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(1175.744814407973,585.0118868344034)"
+         id="g294">
+        <g
+           class="label"
+           id="29">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect287">
+            <title
+               id="title285">tagname</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text291">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan289">tagname</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(552.3969793180783,388.6308415625672)"
+         id="g305">
+        <g
+           class="label"
+           id="13">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect298">
+            <title
+               id="title296">locationname</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text302">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan300">locationname</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(889.6128490305566,591.198393481644)"
+         id="g316">
+        <g
+           class="label"
+           id="35">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect309">
+            <title
+               id="title307">startadresse</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text313">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan311">startadresse</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(891.8169276955634,635.9727947780623)"
+         id="g327">
+        <g
+           class="label"
+           id="32">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect320">
+            <title
+               id="title318">endadresse</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text324">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan322">endadresse</tspan>
+          </text>
+        </g>
+      </g>
+      <g
+         class="labelGroup"
+         transform="translate(783.8512167226406,706.9521067072264)"
+         id="g338">
+        <g
+           class="label"
+           id="25">
+          <rect
+             class="datatypeproperty property datatype"
+             x="-40"
+             y="-14"
+             width="80"
+             height="28"
+             style="fill: rgb(153, 204, 102);"
+             id="rect331">
+            <title
+               id="title329">anfahrtsdauer</title>
+          </rect>
+          <text
+             class="text"
+             text-anchor="middle"
+             style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             y="-6.3125px"
+             id="text335">
+            <tspan
+               class="text"
+               x="0"
+               dy="12px"
+               style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+               id="tspan333">anfahrtsdauer</tspan>
+          </text>
+        </g>
+      </g>
+    </g>
+    <g
+       class="nodeContainer"
+       id="g612">
+      <g
+         class="node"
+         id="5"
+         transform="translate(989.4057066555413,301.97697366848246)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect344">
+          <title
+             id="title342">dateTime</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text348">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan346">dateTime</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g354">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle350" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line352" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="6"
+         transform="translate(866.5203436623954,329.4733939425877)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect359">
+          <title
+             id="title357">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text363">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan361">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g369">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle365" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line367" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="7"
+         transform="translate(648.7214812440874,315.37691927617914)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect374">
+          <title
+             id="title372">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text378">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan376">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g384">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle380" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line382" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="9"
+         transform="translate(943.9496119766158,730.7934948971233)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect389">
+          <title
+             id="title387">int</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text393">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan391">int</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g399">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle395" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line397" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="4"
+         transform="translate(773.1630551340606,366.73086768684766)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect404">
+          <title
+             id="title402">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text408">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan406">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g414">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle410" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line412" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="15"
+         transform="translate(953.5305689896654,475.8925083796431)">
+        <circle
+           class="class"
+           r="50"
+           style="fill: rgb(170, 204, 255); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="circle419">
+          <title
+             id="title417">Event</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text423">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan421">Event</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(20,-35)"
+           style="display: none;"
+           id="g429">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle425" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line427" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="22"
+         transform="translate(1223.0186348400607,418.8692529251382)">
+        <circle
+           class="class"
+           r="50"
+           style="fill: rgb(170, 204, 255); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="circle434">
+          <title
+             id="title432">Interpret</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text438">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan436">Interpret</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(20,-35)"
+           style="display: none;"
+           id="g444">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle440" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line442" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="36"
+         transform="translate(985.3669623180409,564.0507498807342)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect449">
+          <title
+             id="title447">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text453">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan451">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g459">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle455" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line457" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="27"
+         transform="translate(1078.272196795745,360.46773976578015)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect464">
+          <title
+             id="title462">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text468">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan466">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g474">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle470" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line472" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="30"
+         transform="translate(1130.9262009891365,530.283432866192)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect479">
+          <title
+             id="title477">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text483">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan481">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g489">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle485" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line487" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="17"
+         transform="translate(570.7511512206174,751.4215448266016)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect494">
+          <title
+             id="title492">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text498">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan496">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g504">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle500" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line502" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="11"
+         transform="translate(492.5035018338669,653.4112616307652)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect509">
+          <title
+             id="title507">int</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text513">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan511">int</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g519">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle515" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line517" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="10"
+         transform="translate(492.560601596751,322.99592020211094)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect524">
+          <title
+             id="title522">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text528">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan526">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g534">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle530" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line532" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="1"
+         transform="translate(636.8022822538965,481.2155806722566)">
+        <circle
+           class="class"
+           r="50"
+           style="fill: rgb(170, 204, 255); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="circle539">
+          <title
+             id="title537">Location</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text543">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan541">Location</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(20,-35)"
+           style="display: none;"
+           id="g549">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle545" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line547" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="2"
+         transform="translate(775.7546810796979,623.4787922912733)">
+        <circle
+           class="class"
+           r="50"
+           style="fill: rgb(170, 204, 255); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="circle554">
+          <title
+             id="title552">Anfahrtsdauer</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text558">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan556">Anfahrtsdauer</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(20,-35)"
+           style="display: none;"
+           id="g564">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle560" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line562" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="8"
+         transform="translate(988.166388953394,646.344732627416)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect569">
+          <title
+             id="title567">string</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text573">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan571">string</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g579">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle575" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line577" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="24"
+         transform="translate(1244.0533126483429,668.4240724513405)">
+        <circle
+           class="class"
+           r="50"
+           style="fill: rgb(170, 204, 255); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="circle584">
+          <title
+             id="title582">Tag</title>
+        </circle>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text588">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan586">Tag</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(20,-35)"
+           style="display: none;"
+           id="g594">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle590" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line592" />
+        </g>
+      </g>
+      <g
+         class="node"
+         id="18"
+         transform="translate(788.0905863978389,750.6589775751064)">
+        <rect
+           class="class datatype"
+           x="-30"
+           y="-10"
+           width="60"
+           height="20"
+           style="fill: rgb(255, 204, 51); stroke: rgb(0, 0, 0); stroke-width: 2;"
+           id="rect599">
+          <title
+             id="title597">int</title>
+        </rect>
+        <text
+           class="text"
+           text-anchor="middle"
+           style="fill: rgb(0, 0, 0); font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+           y="-6.3125px"
+           id="text603">
+          <tspan
+             class="text"
+             x="0"
+             dy="12px"
+             style="font-family: Helvetica, Arial, sans-serif; font-size: 12px; pointer-events: none;"
+             id="tspan601">int</tspan>
+        </text>
+        <g
+           class="hidden-in-export"
+           transform="translate(15,-22)"
+           style="display: none;"
+           id="g609">
+          <circle
+             class="class pin feature"
+             r="12"
+             style="fill: rgb(255, 0, 0); stroke: rgb(0, 0, 0); cursor: pointer; stroke-width: 2;"
+             id="circle605" />
+          <line
+             x1="0"
+             x2="0"
+             y1="12"
+             y2="16"
+             style="stroke: rgb(0, 0, 0); stroke-width: 2;"
+             id="line607" />
+        </g>
+      </g>
+    </g>
+  </g>
+</svg>

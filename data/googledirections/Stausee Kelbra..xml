@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>4607</value>
+    <text>1 hour 17 mins</text>
+   </duration>
+   <distance>
+    <value>126999</value>
+    <text>127 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.4258010</lat>
+    <lng>11.0028894</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Seecamping Kelbra, Lange Str. 150, 06537 Kelbra (Kyffhäuser), Germany</end_address>
+  <location>Stausee Kelbra</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJbFl@lFBnL`@lDSfM}A|JFvF^`CvAdEdFpJnNnG|F~QzU`EfFfF`E|ElArCC~DeApLuKvPsLd_@qQhHaI`Uae@vEqEtBgAzE{@hUkArIcDxTy@nLgB~]mXnGoBnRc@dLz@hZdGzO`BfPc@bl@_LdQmChHiDzEqEpFqH~F_KvDy@xDbDx@|Dx@jXhAx`@`Brp@b@py@hA`lDoBfp@gHpv@cNhu@cLx`@sP~c@{LtZyJzZqEbTmEz[uBp[e@fRh@pk@fBdXrCtUtKbg@|Xfu@r|A~uDlKjXpFdRxE`WhCvVdAfWFtS}@tYaC`WeNl{@eHvl@_Cjj@H~i@~Cll@vO|~AtKxpApAh_@T`d@yChoAqJbuCo@dz@DtjAmB|g@mDpX{FdWeF`OeI|PsJvNqLlMsMzNuFlIgKnTiGvRgElSoOhbAkKfk@uIbXoHxO_H|K_NvOqQdMqNvFsQvCcTBua@_CqWmAaM\{PlD_PzHmPxNoJrMuSxc@wSxf@iLnUeIfLuNbNeO`Jal@rYu^`TiRlRgNtOwNjMcShNmq@jd@mVbPeR~HkvAdZoKfB}Jl@gc@?oS|BkU`HmKhF{P|LaS`ToGdJaRj^sMj`@wHh]gEnY}Ers@cCbmAqDxhB{AfcBn@r_ApDfqAvUzsGvBhr@z@tr@c@xeAcCbw@mFdz@{Ftk@wPxiAaM|l@eRls@aWv|@}I|`@mFx`@mDpc@wArZ}Cdf@kGj_@kIzX{KfU}OzSmz@dbAoQnWoPr_@aFjPaJje@qD~]wAx\OnVhA~d@hUruFhHpeBfDl{@Shb@o@dMsC`Y_ElW{Db^gAv[R`\jDrf@pNxsApVr~Bl`@htD`Fpe@lExl@p@fj@u@b_@yFpr@gLjz@}XbrBqXzoBmEpT_GpQwLvX_P`]iK~`@mCtQoBfU{@b\j@x^vErh@nHlp@zCxa@v@lg@IpKuC|s@gIp~AeGpkAmBn`@i@t]Aj|@cCn`@kFp\aI|X}JxUwH|QeHnVsEzWsCn\c@hg@nBdyAdAtz@iAxf@mAxNaFn[gL|d@yC|NqE`\cBtVaAr`@{Azp@uAzVi@bEmAnAeBd@s@h@[x@bDdF~Ct@vGu@lIm@zA^rBvBp@pBf@jGq@bIh@p]tArUbCvLdA~MrBfNn@dKzJ~D`DF~CVvCpAbFzB|B|@j@vRjHvUbHtIdJpIhb@`]ps@xk@tFnEv@hQb@jHVrE@n@h@PpBs@|@xIbCvPdFj`@`ElT~JbUfBrDjCzMtEhWhBxWtFnr@xBjXuA^</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2345941</lat>
+    <lng>11.0028894</lng>
+   </southwest>
+   <northeast>
+    <lat>51.4711093</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>campground</type>
+  <type>establishment</type>
+  <type>lodging</type>
+  <type>park</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJD8JC6vlNpEcR60F7tlxAV3Y</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

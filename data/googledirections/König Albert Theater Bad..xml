@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A72</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>6822</value>
+    <text>1 hour 54 mins</text>
+   </duration>
+   <distance>
+    <value>173184</value>
+    <text>173 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.2826893</lat>
+    <lng>12.2384718</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Theaterplatz 1, 08645 Bad Elster, Germany</end_address>
+  <location>König Albert Theater Bad</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJpMp@|QLdYuA~P|I`f@hm@hLhLpPBh^iYnh@s[`Uae@hPuI|_@oFhb@aD~]mX~ZsCng@`Iba@|@rgAwU|d@ml@f[aEp_@|Sri@xH`s@hC|[HfQuF`RsS`Lc\~l@oxBlUwx@nTirAm@ip@|B_k@hNo`Av^ujAjZyYdm@ug@xgAwbAlp@eq@tWqNp]_Fnk@_AlUPbAzCrFnDd@kD~GmQpPkSnVqNd{AaB|h@iGx]iNtn@in@rdA_{@vR_a@vJen@FktCLc`AlGwy@nIud@v[w{@jj@ko@bWeOna@q]bRi`@|Hm[vPqrCfFgv@|P{q@hTm]xVuQv\wGjx@vNjc@xGje@gGz}@}f@br@cLlD_AfSqHri@mMlc@xHpPfKjQxKjWxGtk@eCvn@Up`@|H~h@tKv_@iE|_Aoa@nj@kf@xYcp@hFkVdHe~@nL}aA|Qwc@xTgVff@{TxQmPxQmf@tDeh@Eu{@zHgj@r[mg@tg@a\hQmTnLua@pDmy@~Nyk@vWiWrWi`@pKmy@zKki@fX{[jb@oFbw@gCh[yMfz@yk@pWoKz^}Fx^J`_@xQpa@ff@bT`u@tVvm@ba@`k@vcAf`Adx@ti@p\|Sxc@vd@d_@ng@fShb@dWtYdl@tTv_@hIhSjVfU~f@zl@xx@`^`M~QnQx[hk@|a@~pBvOtbA|Bhz@a@`xA`Kfy@{Et~@Whd@pE|x@~IjZnYfa@hFvQ`A`dAsRb`BqMfl@oDln@|Pr|@j^buAd_@z}AZjt@kFtcArJp`Ahh@|pAlYrp@bg@xz@~Zrg@hO~i@rKl_AaDdgAdHreAhSrq@`]nq@tQjl@`v@xvAbz@dx@`v@pu@vOpi@Vhr@cExp@hDfc@tW`i@pXrq@`LvlBlWbbApXh`@|P`\fJ|w@hKnf@`M|XtRzg@vK|d@vNbRrFjCra@fEnYbCbTdK|h@|n@xk@`z@dUxc@`Ura@~o@ju@f|Ap{Bfe@dr@pMx_@xQnh@ha@|m@jf@dm@ll@rRdy@dP`b@gM`Mc@tPhFl[|^pr@b_Axl@d|@|D`P}BAg@qLlNaHzXFnVuFpOjGd^xeApPtJxUmEp[uK`Duc@jF}k@aIqSv@gOtCiQdGgPtH_VpKiJhHuH~LU|JgAzGwMhJyIfJyCh]yG~[a\~JoOtQ}Wdn@ic@|WuVjJ{MzPgW~J{_@fR_Shf@}N|QiMfIgAxEs[hUeNx`@w_A|x@}i@zd@uStQ[|NNhWdI`UdSdZy@lb@k@tJfFpVvVnn@jj@z]fQrHcA</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.2826893</lat>
+    <lng>12.1474141</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.8588524</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJzRuryFXhoEcR-uMOk2H9uuw</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

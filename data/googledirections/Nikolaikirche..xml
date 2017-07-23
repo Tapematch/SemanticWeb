@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>14023</value>
+    <text>3 hours 54 mins</text>
+   </duration>
+   <distance>
+    <value>394874</value>
+    <text>395 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>53.8561982</lat>
+    <lng>13.6896254</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Nikolaikirchstraße 7, 17389 Anklam, Germany</end_address>
+  <location>Nikolaikirche</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAaIdRgMeDgByb@gR_@mR{YoO{f@~F{Mqi@wt@oW_G}u@tWw\nZuc@rQc|@g]}o@rWw_@nDoLcRtChLw\xiDcZfnI_a@nlJm`@vnFe]baAy|Aqp@qoA{j@cs@gDq~AlZeeA`r@sz@jRwrD|Y}pDvy@ahBgWezAxa@g`AhLsoAe_@maD{`AiiCe]{gKgiAw|Bin@cqAk~@eb@u^ghAgbCgc@cu@_p@m`@kuAmgAupAquBsfBicB{iBaqA_}@geCmhAcvDsiBmhB}_BebBc{AeyCclEwyAap@}l@id@gmAav@umDus@mxCauA_sCgpAieB}b@ohA_t@atBqk@mgAqk@coAmx@{lBq`@mi@_|@qg@muBqcBmwBu|DqiAqtBif@i{AubAgbB{jD{cEm]yf@y]m|A}q@uaEm{AmiCgg@ciCadBivBqeA}jA{iA}p@ym@lKg`Abe@e|@~ImlCit@o\vNcZnw@m~An_EgeAfjD{g@hiCga@nm@g{D`H{wAeIqq@ah@yo@wgBem@{tDeh@oqCmaAuiDie@{x@gj@eBkmAwO_cC}y@{iBscCobCtNas@rB}aAc`@ehAaCgbAdQax@uGgiBum@e`B|A{q@dK_eA{FodAcf@y`Amh@sqAqy@wxA{z@_xHiu@y\kk@nb@smFq@olEcJgdDtImtGMywBnO_{DxUotFgBc`D`R{gCza@etBfo@eeDjTsrFbg@akBj}@ez@~yAydApd@ym@bh@sjAvg@ugCvQgwBri@}lCrc@kdGgUeyAcSe[}w@gJocCiTysAyEguAfa@opDhzAi_Bro@qgA|G}eBaMa_Ao]ysBceDyjD}pH_cAi~Bq~BkyBkuAe`@}iA}bAc{CqvEwxEi~JkrAchBwfBocBkrBiv@axBa[srGycA{kLypCoyBy_Co}B{}B{u@i_@a~@ofAezCi_CyvB}uB}wBw{D_vB_bEvJjDe\~Ued@nf@}x@v^y[bMg{@t`@gqA~Ywb@bAkjAgk@m_@kHcn@~MyfBt|@qx@tg@kbA~Dq`Bix@mbAwb@uxCsk@itAaC}v@bGmv@nZae@bg@scAj~A{d@fWec@{z@ss@oj@s_CgFml@te@mWzFyx@eFqhAnQecAbY{oBb[wvAlwBol@fk@odAbF}wBoJsaErzCc}Bx`Bsf@zgAefBff@uz@jh@eyBbwFi|C~wH_}@f]{e@jVg^oFgV{AyTlWc~BhfCic@lh@_r@bk@y}@~k@axArm@icBpnAeeArz@oH|l@|AjPSpH{CtD</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>12.1834638</lng>
+   </southwest>
+   <northeast>
+    <lat>53.8561982</lat>
+    <lng>14.0140710</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>church</type>
+  <type>establishment</type>
+  <type>museum</type>
+  <type>place_of_worship</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJm5QjKXGuq0cRPqMygfLr0VA</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

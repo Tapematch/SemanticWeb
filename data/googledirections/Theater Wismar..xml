@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A24</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>13173</value>
+    <text>3 hours 40 mins</text>
+   </duration>
+   <distance>
+    <value>402433</value>
+    <text>402 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>53.8886408</lat>
+    <lng>11.4441734</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Bürgermeister-Haupt-Straße 14, 23966 Wismar, Germany</end_address>
+  <location>Theater Wismar</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAaIdRgMeDgByb@gR_@mR{YoGwu@qi@wt@oW_G}u@tWw\nZuc@rQc|@g]}o@rWw_@nDoLcRtChLw\xiDc|@v{Tm`@vnFe]baAy|Aqp@qoA{j@cs@gDq~AlZeeA`r@sz@jRwrD|Y}pDvy@ahBgWezAxa@g`AhLsoAe_@maD{`AiiCe]{gKgiAw|Bin@cqAk~@mkB}aDgc@cu@_p@m`@kuAmgAupAquBsfBicB{iBaqA_}@geCmhAcvDsiBmhB}_BebBc{AeyCclEwyAap@}l@id@gmAav@umDus@mxCauA_sCetBynD_t@atBcxAqwCmx@{lBq}A_rAmuBqcBmwBu|DqiAqtBif@i{AubAgbB{jD{cEm]yf@y]m|A}q@uaEm{AmiCgg@ciCadBivBqeA}jA{iA}p@aoBpq@e|@~ImlCit@o\vNcZnw@m~An_EgeAfjD{g@hiCga@nm@g{D`H{wAeIqq@ah@yo@wgBem@{tDeh@oqCmaAuiDie@{x@gj@eBkmAwO_cC}y@{iBscCobCtNas@rB}aAc`@ehAaCgbAdQibDkv@e`B|A{q@dK_eA{FodAcf@y`Amh@sqAqy@wxA{z@{pHyt@mTsKwUpG{T`qBgq@psHmdB|oEqm@tjCy]xcD}w@vdEcfAxtBqoBrxAmdBjSkvBr@iiAr]ws@fr@miBj|A}`Fb~BobAvzA}pBntCg_A`tCmr@hlBuuA`wBwbA`gBeiAxaA}mDznEq|AjuAy`BjtB{sAjjB{sBlz@wx@ji@i~@prAywBlcFyz@dm@iUuBya@iN}StwAkXjmCaj@vjBu`AnbBsx@|eCkc@v~Fkc@r`DifAxhCsmArgBaoAvuC_sBlyFgwBhoEyuAb|Eq}AnsIuq@x{Bym@n_JeMniKgq@niDyxAtnCoiApvCsy@|dF{eAtiJaz@vyCi[tsD_BtbHsd@ffFm~CxyIceAbsBmf@hzBu`@jeBi^hb@oq@npAumAtSglAxp@whB~]ikBpkAs|Ahd@mnA`^sjAsMwgB}b@ggBc`B_xBe_B}~Bsu@kr@qIqbC{FktArTgdAiD}_Bl]cdA|Imz@k`@{aAqy@{m@ae@}_@_z@ok@wdCqk@c`Buu@au@_cBcJeyAyuAicBmr@ehA}Fgm@hj@mq@tuAae@rVid@iAymAwz@um@y@mc@bWso@`mBuHjgA{c@~tA}m@bvABaRzLhb@psAlzCrn@zsD}h@lnF{IuWur@ce@oTiHqMm\oHiTeKsLwH~c@{Qnk@qKjV</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>11.4391053</lng>
+   </southwest>
+   <northeast>
+    <lat>53.8886408</lat>
+    <lng>13.0135638</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJmxlzo6a4rUcRjPA_6dNqsBE</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

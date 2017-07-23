@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A70</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>13514</value>
+    <text>3 hours 45 mins</text>
+   </duration>
+   <distance>
+    <value>386038</value>
+    <text>386 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.4952100</lat>
+    <lng>9.7821780</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Erholungs- und Freizeitpark Bad Mergentheim GmbH, Lothar-Daiker-Straße 4, 97980 Bad Mergentheim, Germany</end_address>
+  <location>Wandelhalle Bad</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJyoAfkF{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rY`t@fGnaC_b@|nAyJpqEqc@t|A{c@vmBcdAxx@cdAh~BwpBb_CwEfz@z[dw@jbAbq@zFdlAzoAxcBnwA`a@zTlj@_Bn}@o\t`@lFjvBbbBfjCr`BxfBhwAp`Ari@`pBpg@z|B`Yd_C`eAxaAxNdoAqzAtiCo_Bh`Ap_@ds@tI|~@n[bn@`@hj@u_An_@yHvbA`U`o@cKjsAx\|hA}Vzz@hSfv@~l@p{A~_B`c@~[rRtr@~r@_IjXyz@jdAg}Ara@mK|mAfbAhe@oFvj@{^dpA}B~yCkwAzjCy|@nx@zTfaDnfB`_A`kAhi@fR|iBs_@`wA~g@zrApeAnyBnqBdrAcRxbAxXpvAzSzf@`[z_@lx@lfAbdCfhAh_AdhBxsEhr@`gExx@rgA`bAbEfuA`j@t|@d]jTlWoRf~Bm^n{BoOdjGkUbnCfKn}AhcApwDhRb~C~h@f|FnVvwAvYneDsK|jBDdqA`a@z{CaH|~EuUpuAdM`kArn@h`CfJdwCle@psCvLpfExZhwDjMlfAa@p}AfEtdDpXp}B|w@h{Arg@|_CzaBv_CzdA|bBty@x{Fl]thE~UjpBkKb_D}p@paGeb@`iBgeBn{By}AfnEqoAjoGu@~qHzZjwEsf@hsGiy@ppCqeAl_B}`@hcD~OhpG|BdvEwY`dE{Or|C{p@xgBwkA~iGpPvjGp[nfEfDdeEa@`~Alc@xcA~v@`v@~XzvAzQ~kHkQreAbm@zHf[hj@pt@nsCzz@n_AzzAl\ry@|c@xy@ndBjy@tw@jaAfOrbCq[twChw@hsAmIdj@g]lr@}|@f[zYx_@z{@hmBxpAzeBf}Bd^by@fcArcAzt@qIh[vIrs@pt@bPdW~YOjTpR}Gh{Alm@njDvHxfBiR`hCnCp}Cn]fCx|@qf@bz@`ArfAdlA|dAncB`wAn_ArlBbdBbaBraDbu@|v@j{@n\x~@zCjt@|`@lb@loA~CztAvWz}@mEx@xzA_iBloBsl@bk@uPhd@ah@pvAw}@fhB{iAbZ}`@phAuSddAkNdb@gh@lPubAgEmg@hGeZ</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.4952100</lat>
+    <lng>9.6870540</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>amusement_park</type>
+  <type>establishment</type>
+  <type>park</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ_ZwAsxtxmEcRmRFViIR4eAQ</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

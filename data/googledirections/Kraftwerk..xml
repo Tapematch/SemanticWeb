@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A6</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>18950</value>
+    <text>5 hours 16 mins</text>
+   </duration>
+   <distance>
+    <value>568926</value>
+    <text>569 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>48.1772236</lat>
+    <lng>8.6205237</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Neckartal 68, 78628 Rottweil, Germany</end_address>
+  <location>Kraftwerk</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHbyAtrAvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@foHmhAzfH_{Fb_CwEfz@z[dw@jbAbq@zF~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrAz|B`Yd_C`eAxaAxNdoAqzAtiCo_BntBfj@`nBp\xjAoiAxrB|HjsAx\|hA}VbrBhaAp{A~_Btv@toA~r@_IjXyz@jdAg}Ara@mK|mAfbA`qAkf@dpA}B~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@|jDpnBnyBnqBdrAcRxbAxXpvAzSvgAntAtoCldEdhBxsEhr@`gExx@rgA`bAbErnEpsAtlAye@xo@dV`iFhF~lEjS`{ByPj}B`n@pd@t{Cnp@zaEd[||BpqCpkAjdCx{@|lBcEvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@~fA`{CrdBbaBpoBx}EhvAdtCvm@toAl~DhoChuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIli@x{Cbo@zeDffFzuI|pEtgKn~@vjRqpAlvJxw@~fI|JbtHtdAzoDjwA`tBvzBpcH`~@ngI_zAjvQh|A`oIc^tlEhHjsDzx@ntDdLbxD~u@fgFve@`wEhsBjbEr_@d_BkMzvA{TbuEZtuEj_C|bHdYlbIlv@~pDuLnxPxDliHxLzaHyDxzFge@xqDwpCbaRuqAr~Rh}@|oNf_BzeL~vAplApf@`rDlcAlxBiE`wEx]lkCT`[zs@kV~`B~BdmAtJvtAqHleCzhAp{Ch~BdcCdlAdgCx`AxlDf~AzoBrVbdBlcBxnC`uDzf@nuBty@nv@lbEpz@`rEbyC`rBbiEbqB`uCd|@hyCbiB`kC`b@bWrVk\~lAaqAfrDcp@f_AgtCb`@hXjvAxm@|qA|_GtlAhdGtbDbhAfeC~zF~oB`~@vkA`aA|qCmS`xCrw@tlCaCvkBtbC~lC|mFzpAldExoCdtC~iDh{DfjAj~AtdAnYzwAuOts@hb@x{@||CnrDx|FfdBzcAbz@eB~bAvx@j~AdJvtBwRf~FefAdjAzX~jAj}AvxA`qFnrB~sBnGw}CkQkf@~[cs@nVo}@aHkMmd@~a@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>48.1697782</lat>
+    <lng>8.5737848</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ52HNSeqkkEcRencU6B4qOCs</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

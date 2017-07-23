@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>2646</value>
+    <text>44 mins</text>
+   </duration>
+   <distance>
+    <value>45700</value>
+    <text>45.7 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.4869250</lat>
+    <lng>11.9641756</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Friedemann-Bach-Platz 5, 06108 Halle (Saale), Germany</end_address>
+  <location>Turm</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFKrBmBKc@PkApAmBpDiAzAi@He@CcAo@eEeDc@q@i@i@m@g@@gB@aB?aEKwIGcIKsAAS[?W?sAFmH\cD`@iEn@I@Ei@CKQq@_AsBq@oCSu@u@iBoB_FmAkCCUmBqDsEiKqDeP[{AI[Ha@Ps@N_@r@Iv@_A|AcFRyAPyER}EgAQ[BQ?]Q{A{A}RqToJyJi@a@oBu@oCc@aBe@cEuCmBoAw@]k@E[PkB`AuDRY?qCn@sBh@mBt@mEpAeKdCmCl@cDTu@H_AVs@l@q@jAa@xAU~A{@lGe@rBm@hAgAv@sEtBoIdD{DnAqMfEaHzBeBt@aBfAuBxAcBv@gB^iBFkBQcEoAoNoE{Aq@e@]gAgAiDyEe@m@mBgBmByAmAo@uA_@aAKuA?cBX_A\oAt@kA~@kB|AsDvB}\nK}NrEiCn@}APMKYIy@GmB]aBi@{@c@yAiAcAaAy@gAkAoBeAeCIuBHw@b@aAXUXIj@D`@ZXh@RdA@fAiAhJiA~KoAzLk@nFy@vJ?LBn@m@pFmCjXMlAeG~l@kFjh@aLhhAqBzTiA|Py@zTg@d^cD`hDoB`qBg@dTa@jL{@vQeA|PwJbwAqDnh@yEpq@uTx`DaEdj@uDva@eBbSwExe@qBhTeBtR_Gfs@uThgCmB`S_B|MiBvL}ApIeBhImB|HuEtO}FdQgG~Pg@vAiSxk@yUnq@oMr^_Ojb@uY~y@mDpJ{ErLaElJcD~GmExI_GnKoEpH{EnHyJbNeh@pp@c`@hf@kAdBeBzBaMxOo_@ze@_c@hj@cKvMsFxH{F~HsDxEyGpIoFxGiFzGa@j@]LyAxA}D|EwNzQkCfDu@`AQDSJYDo@UQWQg@IkAJeFLgAZk@b@OZFTRb@z@tBnJ|CzLvCdLxAxFLR^pBz@|EzCbOlC|Mn@tF^pGFpD?fDIfEQhDgAvKm@vHG`GDnGb@hIrBvXrCp_@fAxQ`@dLVtNF`TVlH`A|Jx@hHVlDThG@`FSjGg@lGg@~Ds@tBS|@CNPRx@`An@z@bAnB`A|EfAxFV\f@StBeApCw@lF}@|H_A~@K|@?nARf@Vh@Pj@TtA`@xCtDpDhC|@f@t@^`@j@V`@RJp@Rn@BpBm@`D_Aa@|HIdBHN|@rAVf@d@hAjBnCtFxFWf@oClG@d@QbBS`B_@nByBjFq@~B]zBGvARnF`@zGHz@jDu@Dl@ZGNBVLFFENGFIDiBt@eA\</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>11.9641756</lng>
+   </southwest>
+   <northeast>
+    <lat>51.5076440</lat>
+    <lng>12.4000459</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>night_club</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ7ZkbwlJjpkcRg6nFOreQePU</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

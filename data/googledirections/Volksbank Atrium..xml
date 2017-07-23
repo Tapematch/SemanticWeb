@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>15598</value>
+    <text>4 hours 20 mins</text>
+   </duration>
+   <distance>
+    <value>447571</value>
+    <text>448 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.6675598</lat>
+    <lng>8.9937387</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Helmholtzstraße 1, 64711 Erbach, Germany</end_address>
+  <location>Volksbank Atrium</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@riA~JrgAwUd[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBf_@rY`t@fGnaC_b@|nAyJjfDkP`SpbBts@vbHxV~mFqm@vnBeUd_G}LrdKwBzsA`k@ttAjM~q@ub@fmDaAheF`DvlBgsB~fJ_{@vbColCdtD{x@tjB{IpbDsf@dwI_g@d}Krb@doJ|iBjjE~zAraJplAldSpp@dhFmCvsGbh@jvEp|@p~CiKj{Egf@poDweBh}FcIbqIs_@v_DzHl|Eo@j_Cix@v|BkVd_D{Ip{C{o@t`CidAfeBc~@nb@_rAcPsrAlTq`AhnBe}@hbIgdAn`Dys@~aD~LpxExHvjD`k@bcD}RbvF}@hoDdYlwAqX|sDcm@`uGlhA~vCv{ArdAbu@htArqApn@ps@rlBhQvwAeSluBna@hmDb~@tgEtMljBly@ncAba@v{@`|@nmAr{B~pFbi@vuAz[jkCrU|hC~aAnpBfh@rJjY~cAf[|iBbBh}BxSv~Cdi@r}FyNxeD`y@`qGHdtA|Y|u@`|@n^ll@lbAdMrwA`r@|`Ahn@I`i@{bA`|@us@pZ}aBzRsnAnv@i\t}BahGjmAokAb{A}m@|_C_sD`jBeL`{Bzb@|dBme@jfBri@vyAue@nuAlH`sByfDh}AunBpdA_a@ldCgCvkAip@ljAu@dgAvv@vr@llApLrpCtVxeB~nBb|Exu@dwBhu@hf@nh@|`AzqAxuB~{AjgB|o@rOz[jaAl~@dhCzxBfvC`eAtgAbnAu@fnBvbCla@foD|hA~kCb]nf@rJd`BbUtz@z}AfsAnkBrzAfy@heBvnBxzDvHdsB~j@`fBxq@ljAtKzy@xYdoCfaCtgCpv@rkHoy@dpEzl@pfFvcAl}Cxz@|`E`Y~~C~wAx{@tyBlhEfgBfaFl|AjvD`sAljB|mAxj@xjAsLtnCdHd}Esq@roDhbEbhBh_B`k@zuB`WxHj|@az@d|Au_@z{@uMh]e{@le@adAd|@`YjTbe@z[ouCbwAi}DpvA{g@d~@ijB`_Bar@br@}wBdPcd@jZuRl[~MdRaXrh@w_A`pAyV~^{MrIy\`^dIte@lMbl@qVjt@qUl~@}IdWnh@vo@xEblBhQz~Ass@vUgg@lj@wEz_B`f@pw@rTsCxP</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.6668231</lat>
+    <lng>8.8306066</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJA1f99Xjil0cR6ORa4Xjh2Zw</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

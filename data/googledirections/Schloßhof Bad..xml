@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>12304</value>
+    <text>3 hours 25 mins</text>
+   </duration>
+   <distance>
+    <value>288101</value>
+    <text>288 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.9828994</lat>
+    <lng>9.2487757</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Schloßstraße 13, 31812 Bad Pyrmont, Germany</end_address>
+  <location>Schloßhof Bad</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdYuA~P|I`f@hm@z]lLxgA}u@jf@wo@fcAqK~]mX~ZsCriA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~AkWdiBuBjuAtd@pcHuPhlJwOtyAqi@d_Aqa@xn@a^njBq_@duAcy@rr@miAZse@o@{a@hNkeA`jBkv@||@sdEzuC_aChu@u{@tC{i@~K{y@nt@mj@`~AiPf|CmG`mEx\vfLJ|dFa`@tqDgcA`aEqSdhCqo@jdBm~Ah{BmYpsBbWbsH|LheE_Qx~AhRfuD~w@|sHjLv~C_n@`aFqXzoBe[z`Agd@~gB`UxnF{Zf`HqJl{B}g@dzA{GzwDCnbBwUfqAqOheB_Q|hCqTfpBdX|zBbY|r@fO~fAwLziBu]vrBbEzhBjPx{AgBluAaJblF}\fgDcGfvBxXfoAzb@f`A`l@`sBiBdfBg~@`qCqkA|lC{k@tnByFrwB}Eba@qg@j^wk@jeCgSsCmOmJ{CtMgGpVkX`fAcW`{@qIluAoHnyAySdgAac@xfBep@~t@yT|uAeRpkA_NpaBaEjlAwOf`Aag@`mAml@hWqs@lb@i|@fe@}l@lfB_g@jx@ug@dj@_ZhiAip@~vDea@f[cJnWdAvpBj@jh@cRtc@kZnzCwXdl@}Zn]e}@vbBqArT~@lXmLzAgJnHsQrBsXfFqJ|Ukj@|vAcb@`]}g@lPaq@|`Aqs@ngAwiAl}@}_@dk@qo@xlCa`@bi@uRdDoZfi@ch@rIii@jt@_m@rh@k_AwPkx@~h@_m@veAmwA~Ti`@rf@oq@bFweB}W{MfJkg@|l@ahAh|@kfAtrBoc@pcA}BreAp@jg@x]lRyAtQ_OpB}MrWmBhgAzX`t@}D~rEiI~kC`TztAcQpx@kDleA{Q`_A^rfBiIbqAv_@fPng@_JrHbTgDxlAhHfrAuF`s@}PrTyV`nCqFv|CrQn{@[z}@u\jwB}Ir`CXb_@kh@v~B{`ArcGoHpyBsUpfB_n@frBugAboCkr@~c@w^h~A{N~|@B\gDtLeQzNuYOyTzE_^`Y{~@xaBsz@~fAcj@zc@ak@vrA{hAt|AaMzRpE|Wl^r~AvLhoB{T|bD|LhjAiGb{AzH~`AkKvfBo_@lcAca@`U{r@tn@qaAdFmOx^|XngA`d@d~@dn@~eAzQ~r@j@rvBcAd_@eQlKsB`JbY|JvAx`@bMnQnSba@n@|dApOfj@jVxo@xg@z}AkAls@rGjn@hGl_@eRpd@gO~s@RjYeJpBTlN</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2345941</lat>
+    <lng>9.2487757</lng>
+   </southwest>
+   <northeast>
+    <lat>52.0183429</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>museum</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ8SLWOLn0ukcRCYIKxV1OEp4</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

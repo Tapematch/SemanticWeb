@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>5225</value>
+    <text>1 hour 27 mins</text>
+   </duration>
+   <distance>
+    <value>132116</value>
+    <text>132 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.1378251</lat>
+    <lng>11.6700156</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Tessenowstraße 7, (Ahornallee), 39114 Magdeburg, Germany</end_address>
+  <location>Seebühne Elbauenpark</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFKrBmBKoBbBmBpDsBdBiBs@iFwEi@i@k@oC@cHS{Si@gBkBFqM~@iEn@Ss@qAeD}HqTaI{PmE_UtA}AhD}Jd@wLsC_@yUmWyK{KoBu@qFiAiJcGsDlAuMlB{HfCsOrDyGv@eBxBw@xDaB`KuB`C_VjJsVbIaLnGqEf@oHaBoNoEiEwCkLiMcDoAwCKcDv@{CtB_HtE}\nK}NrEuFt@cHyAsGwFqCuFIuBl@yB~AYz@dAs@vN_Gbm@wTt{B}QbpBaB`t@cD`hDoB`qBkEffAcWdsDuTx`DwJ|lAuO|bB_Gfs@c[hjD{Kpk@{Uzs@kk@`aBex@~|BiKdXsXvj@eXda@eh@pp@ws@d~@wdBpzBev@daAqXt]mpAd_BeRnP}Z`Qig@bQqaAv[oSbHyQhJcPlMwQlTiFfI_M`W}K|[aI`^aFl_@eCx^s@rj@hAlwAl@pqAw@bkAkD|~@eHnw@iGfa@eKrd@sOne@{LrXwUb`@oM~O}OnOiO~KuPhJsStHcNtCgRfBmPTwe@AcPbA_WtEyZfLiS|LmWdUuWx\wMnU}Trh@u\xw@or@|jA}hAriB{`@dq@gQt\}Qra@{Pjd@kMhb@eG|VwQjeAuShwAaNhk@mK`Y_JrQaXt^inAfgAgOhS{G~M_Nfc@k[z{AgUrfAyLv\}FrKqMxPgN`LsL`G}NpD}Mt@oNu@_TcFgQyFyd@}NuImB_UiCe[Vcb@pCcWLkRiBoOyDgYcL}~@_b@aW{KaXaIeOmBgRWgMt@kQdDgMhEm[lOe]lQkYhMaNjC_N^iOsA{O_FkIuEmKuIsVqXih@kl@_NoKaLkFuL{CgT_AiPdBeOzEo_@xRsSlI}LrCcO|AiNNyUqBsQuEkQaI}b@sVad@gS{_@yJmTwC_ZyAc\ZeYhC}UnEaWxHeUtJyTlMka@zYsa@h[yh@f`@_TjM_YtLqm@jPcx@vQibA~W}f@jRk\bPmo@t`@mmChiB}n@xc@oHrHmKfOkI~PwG|RsL`n@g`@tdCuTpqAsOdq@oOvf@{FxLqAhAuEzAqF\yDcFsKqz@cJcg@mI_\aLi\cOk\_PaXiVs]eNkOeU}KsPaH}EReGbEiHjEsFKeFmDwF}GoOaGcNyFqE}FoGkR_D}FuBiBsDeAiEDyHDwO}GmM{I{JaCsFcBoKuGoNeHkIoGqLgJiR}PoBeCwEoEkBkANaA`AcPj@yQbCat@pAq[nDuTjTmr@xF{RoAiBgBsBmG{IiHsJcHqE</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>11.5595062</lng>
+   </southwest>
+   <northeast>
+    <lat>52.1398567</lat>
+    <lng>12.4000215</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>amusement_park</type>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJDRV4QaVYr0cRA1arNysl7Hk</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38 and A44</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>15703</value>
+    <text>4 hours 22 mins</text>
+   </duration>
+   <distance>
+    <value>455831</value>
+    <text>456 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.9520180</lat>
+    <lng>7.6456912</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>48155 Münster, Germany</end_address>
+  <location>Coconut Beach</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAt`@nLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJyoAfkF{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuPhlJwOtyAqi@d_As`AhzCq_@duAcy@rr@}rCtMw|B~gDsdEzuC_aChu@u{@tC{i@~K{y@nt@mj@`~AiPf|CmG`mEx\vfLJ|dFa`@tqDgcA`aEqSdhCqo@jdBm~Ah{BmYpsBbWbsH|LheE_Qx~AhRfuD~w@|sHjLv~C_n@`aF_zAvzG`UxnF{Zf`HqJl{B}g@dzA{GzwD{UvtDqa@foFqTfpBdX|zBji@|zBwLziBu]vrBbEzhBbMfrDaJblFae@n~GviBpdGiBdfBg~@`qCmxBr|FyFrwBzXhnBjp@tlAxjBpo@`qAdh@vXdzA|y@`yF|AvjCbjAjjBhVpbBoExhBgYr}ChHv}An@znDjiArvBfg@xjChBdaAoCrqCni@~eHiOpcDz@f{Cvd@vhDi^fdCg^~|EsKtnDwYtwE|mB~{H{WjqCsKnsAzLz~@~IhcBk^~}Ami@hfEvo@l`FgElvCeTh`Cyp@brAo|@zd@iaBztBehA|`Ami@~w@yTaLhYbGn}@~|@rpAlr@jx@xXtc@vl@hrAlwErg@|jCgUzwAsw@juD~PxyBhj@`cBw@rwAzV`lB~{A`{@|r@xoArt@h}Cvm@fr@v`BtpBryB~nDjx@~[f`AwNjj@~Pp{A|`Dx`AheBba@|EvQduCkTldFu\n_Dwj@rlBuZheBw@npAoj@xfBk~AdmGgc@dxBoiAloB_lAx]inAgL_vAnT_{@uFuc@hVqi@hqB_OflD}cA|tB}c@vdCgk@l|B{fA~dAwkBjd@yzAvgCadA|}@wv@rdB_d@dsD_c@|wFgm@xiBm\b_Dmq@hqBsSheCqy@|qA_q@bjCy~@fqC{SvcB{ZrlGcqA|fFs|@poHsxBr|Eoc@roFsAxpHch@~jEmBnxLha@z~Irf@t`UnSphNjU|nE|t@pcFtyA`wEpd@tqEd[foCaIbxF~JnoFbu@rxIm@tgIjRv`Lu@xfExa@bvChRjsBmGthC_Q~`D~NvdCbe@fiE{LxpCgHrKw|AyJ{nCcRmhAeYagB{~A{xBy]coAlD_hEx_@shBhMqhBrr@ybErmBobKrbBqsBrj@itBluBodDx|DkgBfh@e_ClBemBjk@qlApg@aOmb@sIwdBof@a}@igAabAqHucCaVm~AaOe`@qNxEoRn]qSxZ[qz@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2345941</lat>
+    <lng>7.5621590</lng>
+   </southwest>
+   <northeast>
+    <lat>51.9520180</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>bar</type>
+  <type>establishment</type>
+  <type>night_club</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJO6-f5ii7uUcRRKJ5db5VTio</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

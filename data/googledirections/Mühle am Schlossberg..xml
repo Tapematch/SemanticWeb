@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4 and A5</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>16290</value>
+    <text>4 hours 32 mins</text>
+   </duration>
+   <distance>
+    <value>488010</value>
+    <text>488 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.5306230</lat>
+    <lng>7.8517493</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Schlossberg 16, 67681 Wartenberg-Rohrbach, Germany</end_address>
+  <location>Mühle am Schlossberg</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@riA~JrgAwUd[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cDbvAviGjyAxmAfo@riBf_@rY`t@fGnaC_b@|nAyJjfDkP`SpbBts@vbHf\tqCmDh{Aqm@vnBeUd_G}LrdKwBzsA`k@ttAjM~q@ub@fmDaAheF`DvlBgsB~fJ_{@vbColCdtD{x@tjB{IpbDsf@dwI_g@d}Krb@doJ|iBjjE~zAraJz\|jItn@nxHpp@dhFmCvsGbh@jvEp|@p~CiKj{Egf@poDweBh}FcIbqIs_@v_DzHl|Eo@j_Cix@v|BkVd_D{Ip{C{o@t`CidAfeBc~@nb@_rAcPsrAlTq`AhnBe}@hbIgdAn`Dys@~aD~LpxExHvjD`k@bcD}RbvF}@hoDdYlwAqX|sDcm@`uGlhA~vCv{ArdAbu@htA`s@bIp]ld@ps@rlBhQvwAeSluBna@hmDb~@tgEtMljBly@ncAba@v{@`|@nmAr{B~pFbi@vuAz[jkCrU|hC~aAnpBfh@rJjY~cAf[|iBbBh}BxSv~Cdi@r}FyNxeD|_@`vBbX~yCHdtA|Y|u@`|@n^ll@lbAdMrwAvn@|lAtAj{Bh]dxAzcAdiDdKtx@aDppBd}Ar}H|{A|uDdi@~bEkM~dCfgAnqB`_@fpDv|@jeFlnAfwDz^b}B{PltG{KhgIdn@noBrj@|_B~r@nq@rsAl|@jmBffAloBzvCxb@jlG`lBvtJ~x@lbDnAzuCjDbqA`q@p_ApeDxeBfdEn_C~eChlCphB`~AjzDtdBt{BplAnq@|dBp{@pZhgCuVbbGmk@|hB`~@`eArN|pAgOzvBza@|~BpkBfeCnl@vwCjPhlET|{A~jB|vAltCp{DvrB~jD|nAxwDubCds@ac@f~AfGbzBv~@dRjq@ra@nvHbmBfxGtWp_Atf@gRji@xAhp@jz@bp@hfAhlArq@zj@n]rFvmAfU`hJsLx|D_i@viBvHr{@~_AjyCi[viDv_AhiGpeAjkAhyA|oClyCj_AvzA~XrgBzpAbrDxbDfmBpe@`~CsBzbBfStjAt|Alu@hoBftA~lB|cB|`@~wBr_@tvC|yClzCnnDfdA`MfvDox@p|Axn@`oAllC`}AzrG`w@tlCvb@bpCzj@hmA`cAvt@xZjnBgMz}@vh@tbAp~BbJ</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.5306230</lat>
+    <lng>7.8517493</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>food</type>
+  <type>lodging</type>
+  <type>point_of_interest</type>
+  <type>restaurant</type>
+  <place_id>ChIJKYj-tT4RlkcRs4Qfz-aPEq8</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

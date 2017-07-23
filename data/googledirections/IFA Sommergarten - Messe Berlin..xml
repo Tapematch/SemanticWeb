@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>6642</value>
+    <text>1 hour 51 mins</text>
+   </duration>
+   <distance>
+    <value>181051</value>
+    <text>181 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.5036375</lat>
+    <lng>13.2727678</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Summer Garden, Berlin Fair, 14055 Berlin, Germany</end_address>
+  <location>IFA Sommergarten - Messe Berlin</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFKrBmBKoBbBmBpDsBdBsIkGuAyD@cHS{Si@gBkBFqM~@}ECqAeD}HqTaI{PmE_U~F{Md@wLsC_@yUmWiOqM{QmIsDlAeh@hLyGv@}CrHaB`KuB`C_VjJuc@rQqEf@oHaByTgJkLiM{H{A_IlD_HtE}\nKsVhGcHyAsGwF{CkJlCsCz@dAs@vN_Gbm@wTt{B}QbpBeGb}EoB`qBkEffAcWdsDm`@vnFyGrj@oBzEyKpLaD`AaR}EwiAsi@qoA{j@qZcEqWZq|@vK_a@tMeeA`r@u]tJ}[tF_|@lOqZvDiZp@{~@dBmpBzg@_h@~MoVzAyu@uLmZwFyUyA}QnBiR~F}s@hVe\bKyKpAgVk@soAe_@maD{`Ai|@mN_lAwMagFak@y_De]qaAgNk]wLy[iQyo@qd@i`@yXmPuLwP_QaQa[ev@efBwRoa@oOsRqS_Om[mPk`Asu@_TyPeTs[mUmd@wQg]iRgU_v@_v@aXcXqVeSqx@cb@wXcRqVyZeRya@yJiZ_^cgA{c@}wAyPau@wQcg@oS{[gWiV{|@gt@yo@ei@yUwSiXgc@kg@}pA_[}o@wViVwjAcb@k`Csv@k[yRuScYid@gmAmRak@{Gi\wYidBus@mxC}Pgj@ccAwgBk[eg@{s@c}@qUug@kLy_@s]miA_Mi]kGiKiXa[_LiVgEaTmG}_@mFcOaI{LsQePmKiLyIuRea@{kAkO{WePqP_|@qg@}`A{l@{UkTs\i`@_z@{pAsRwa@{Oq`@}Wof@ks@}iAeUsi@if@i{A{M{^kLaTmf@im@{jD{cEm]yf@kO_d@mMmw@_`@_kC}Puu@cNgYid@wn@g[ef@wJgXgPq_A_Jak@_Ko\uJiSg]ib@cz@u~@qeA}jAgSuTyP{M}NkG{S_DaXrAwTxHg`Abe@aSrHiSxBySmAmj@mMel@kNkj@qMeKgCeJyGoHgSqTu|Acr@c_FaF}e@p@m`EfAce@lLeq@dLmm@zA}PaAcb@{Luk@o@ef@tBygB`Eww@iBsZaIuOqZsQ{~@si@oo@oq@uWyYqJaVo^alBwOyn@aSgWoN}FyIs@su@d@_c@ZqJ}@sO}LyQy\oNuJcTu@w^R_RsBiTmLoSuL}HgKmFuNsUi{AsIm]_OqWoWsZya@ef@mVyTqNkAaGt@oWtDsWdE_IxJyFnIwFtBa_@}E}HiBsIyH}m@iz@mYk`@oaCcdDsnAs|A}}AyvBuOsUyBqXyCsQqEeCwCtAoDpHsBKQjC|GzKrBzEyAmBQj@{GvQ</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>12.1832363</lng>
+   </southwest>
+   <northeast>
+    <lat>52.5036918</lat>
+    <lng>13.2812042</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>park</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ6_qwRS1XqEcRuA9QZZETuBU</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

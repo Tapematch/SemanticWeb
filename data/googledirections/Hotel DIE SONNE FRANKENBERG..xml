@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>11895</value>
+    <text>3 hours 18 mins</text>
+   </duration>
+   <distance>
+    <value>325336</value>
+    <text>325 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.0590152</lat>
+    <lng>8.8011847</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Marktpl. 2, 35066 Frankenberg (Eder), Germany</end_address>
+  <location>Hotel DIE SONNE FRANKENBERG</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuPhlJwOtyAqi@d_Aqa@xn@a^njBq_@duAcy@rr@miAZohAxLkeA`jBkv@||@sdEzuC_aChu@u{@tC{i@~K{y@nt@mj@`~AiPf|CmG`mEx\vfLJ|dFa`@tqDgcA`aEqSdhCqo@jdBm~Ah{BmYpsBbWbsH|LheE_Qx~AhRfuD~w@|sHjLv~C_n@`aFwt@vqDgd@~gB`UxnF{Zf`HqJl{B}g@dzA{GzwDCnbBwUfqAqOheB_Q|hCqTfpBdX|zBji@|zBwLziBu]vrBbEzhBjPx{AgBluAaJblF}\fgDcGfvBxXfoAzb@f`A`l@`sBiBdfBg~@`qCqkA|lC{k@tnByFrwBzXhnBjp@tlAfl@x^p}@vOzu@pNdZrXvXdzAvBp}@lXfz@v\f_C|AvjCjZxq@vn@pw@hVpbBoExhBgYr}ChHv}AqEfaB`GrlAjiArvBfg@xjChBdaAoCrqCbYndCjOn`DiOpcDz@f{Cvd@vhDi^fdCg^~|EsKtnDkZt{BR~zAha@z~B~]pbArl@pxB{WjqCsKnsAzLz~@~IhcBk^~}Ami@hfEvo@l`F`DrxAiJx|@eTh`Cyp@brAo|@zd@iaBztBehA|`Ami@~w@wNVaEyLhYbGn}@~|@rpAlr@jx@xXtc@vl@ln@xaBzb@rtBrg@|jCgUzwAsg@d~A_OdvArA|kAjNzl@hj@`cBw@rwAYbv@tW|t@~{A`{@z]zZ`T|s@rt@h}Cvm@fr@v`BtpBryB~nDjx@~[f`AwNjj@~PnyA~}CfD~g@_^xc@{Qhq@qFtqA~DnvAlXpm@tf@jp@`TbaAxcBblB|iBvzAzZfNzk@pE|m@np@rcApWzbBrcBdc@vkAbl@vqDle@rlAhLn}@bp@t|B~m@hvApc@~Rlg@_Dx~Bi`A~n@nFno@p_@lh@r}@i[byBw`AteBai@`~@iKpyG{PlaBtDlcB|Mhq@vX~UlZpx@f_@blA`o@hm@d_@|]ph@aBbb@bHb[zd@dN`x@}Bbo@eBfdB_\lcA{T|y@|ZppAbOdm@eEdwAtPbbA~_@x`@yCrw@j[`s@jVxgAvEbJ_GngAcb@vv@`ZxaArY|a@xS|aAiGlWs[b[aC|vAqAr}BkIxnC}Zra@nEp^xRtkDlXdyAhUdm@DVH?zDz_@bJvBf@E</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.0590152</lat>
+    <lng>8.8011457</lng>
+   </southwest>
+   <northeast>
+    <lat>51.4902109</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>bar</type>
+  <type>cafe</type>
+  <type>establishment</type>
+  <type>food</type>
+  <type>lodging</type>
+  <type>night_club</type>
+  <type>point_of_interest</type>
+  <type>restaurant</type>
+  <type>spa</type>
+  <place_id>ChIJZx4iqI6doUcRUWD3a4tT4vg</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

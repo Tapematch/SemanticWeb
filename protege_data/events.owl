@@ -1,0 +1,240 @@
+<?xml version="1.0"?>
+<rdf:RDF xmlns="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#"
+     xml:base="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb"
+     xmlns:SemanticWeb="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#"
+     xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+     xmlns:owl="http://www.w3.org/2002/07/owl#"
+     xmlns:xml="http://www.w3.org/XML/1998/namespace"
+     xmlns:xsd="http://www.w3.org/2001/XMLSchema#"
+     xmlns:rdfs="http://www.w3.org/2000/01/rdf-schema#">
+    <owl:Ontology rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb">
+        <owl:imports rdf:resource="file:/D:/Benutzer/philt/Documents/HTWK/SemanticWeb/protege_data/googledirections.ttl"/>
+        <owl:imports rdf:resource="file:/D:/Benutzer/philt/Documents/HTWK/SemanticWeb/protege_data/eventful.ttl"/>
+        <owl:imports rdf:resource="file:/D:/Benutzer/philt/Documents/HTWK/SemanticWeb/protege_data/lastfm.ttl"/>
+    </owl:Ontology>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Object Properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- SemanticWeb#besitzt -->
+
+    <owl:ObjectProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#besitzt">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Interpret"/>
+        <rdfs:range rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Tag"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- SemanticWeb#findet_statt_bei -->
+
+    <owl:ObjectProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#findet_statt_bei">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Event"/>
+        <rdfs:range rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- SemanticWeb#hat -->
+
+    <owl:ObjectProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#hat">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+        <rdfs:range rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Anfahrtsdauer"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- SemanticWeb#spielt_auf -->
+
+    <owl:ObjectProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#spielt_auf">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Interpret"/>
+        <rdfs:range rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Event"/>
+    </owl:ObjectProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Data properties
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- SemanticWeb#adresse -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#adresse">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#anfahrtsdauer -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#anfahrtsdauer">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Anfahrtsdauer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#beginn -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#beginn">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Event"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#dateTime"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#beschreibung -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#beschreibung">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Event"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#bundesland -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#bundesland">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#endadresse -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#endadresse">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Anfahrtsdauer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#entfernung -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#entfernung">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Anfahrtsdauer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#locationname -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#locationname">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#plz -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#plz">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#int"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#stadt -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#stadt">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#startadresse -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#startadresse">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Anfahrtsdauer"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#tagname -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#tagname">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Tag"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- SemanticWeb#titel -->
+
+    <owl:DatatypeProperty rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#titel">
+        <rdfs:domain rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Event"/>
+        <rdfs:range rdf:resource="http://www.w3.org/2001/XMLSchema#string"/>
+    </owl:DatatypeProperty>
+    
+
+
+    <!-- 
+    ///////////////////////////////////////////////////////////////////////////////////////
+    //
+    // Classes
+    //
+    ///////////////////////////////////////////////////////////////////////////////////////
+     -->
+
+    
+
+
+    <!-- SemanticWeb#Anfahrtsdauer -->
+
+    <owl:Class rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Anfahrtsdauer">
+        <rdfs:subClassOf rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+    </owl:Class>
+    
+
+
+    <!-- SemanticWeb#Event -->
+
+    <owl:Class rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Event"/>
+    
+
+
+    <!-- SemanticWeb#Interpret -->
+
+    <owl:Class rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Interpret"/>
+    
+
+
+    <!-- SemanticWeb#Location -->
+
+    <owl:Class rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Location"/>
+    
+
+
+    <!-- SemanticWeb#Tag -->
+
+    <owl:Class rdf:about="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Tag">
+        <rdfs:subClassOf rdf:resource="https://gitlab.hrz.tu-chemnitz.de/ptaubert--htwk-leipzig.de/SemanticWeb#Interpret"/>
+    </owl:Class>
+</rdf:RDF>
+
+
+
+<!-- Generated by the OWL API (version 4.2.8.20170104-2310) https://github.com/owlcs/owlapi -->
+

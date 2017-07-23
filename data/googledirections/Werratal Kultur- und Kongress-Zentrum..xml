@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>8242</value>
+    <text>2 hours 17 mins</text>
+   </duration>
+   <distance>
+    <value>232585</value>
+    <text>233 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.2684913</lat>
+    <lng>9.9635165</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Im Kurpark 1, 37242 Bad Sooden-Allendorf, Germany</end_address>
+  <location>Werratal Kultur- und Kongress-Zentrum</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJpMp@|QLdYuA~P|I`f@hm@hLhLpPBxgA}u@`Uae@hPuIfcAqK~]mX~ZsCng@`Iba@|@rgAwUd[}\rF`Jx@jXnE~lCe@h}EkWzlBmw@j}B{Px`BdHl{Are@j}Ar|A~uD~Rpk@bJxn@qBt~AkWdiBuBjuAvTjlC|NdvCkOleFi@zeCwOtyAqi@d_Aqa@xn@a^njBq_@duA_Wt\ca@|Twf@zCua@_Cse@o@{a@hN}[l]mh@rkAoVvb@{^dYwkAtn@qa@bc@iuA`bAsi@bZkvAdZu{@tC{i@~Ki]fTq[f_@aRj^kWt~@eLbnAcCbmAmG`mEx\vfLrD~eBgD|}Ba`@tqDgcA`aEqSdhCwQfy@y\bj@mz@dbA_c@bx@cQvv@iGx{@bWbsH|LheE_Qx~As@xx@|Sl{B~w@|sHnLjsACjjA_n@`aFqXzoBe[z`Ai\`_A}F|g@O|{@vErh@xNfhC{Zf`HAj|@oJ`~@}g@dzAgJju@jAnaCCnbBwUfqAqOheB_Q|hCqTfpB~Cr~@dSh{@bY|r@fO~fAWzp@_L~w@sRnv@aJf{@bEzhBjPx{AgBluAmJr{BJnoBeEjjAwVz{AqI||@lAhx@xXfoAzb@f`Ar`@|bAlJbo@~Apg@iEr}@iV`dA}f@~kAqkA|lCoUjj@kUhcAyFrwBlI~~@lNhn@jp@tlAfl@x^p}@vOzu@pNdZrXbS`m@rDbl@vBp}@lXfz@|U|z@xEhcA_EfqA|Gnx@jZxq@vn@pw@`Mnf@fH`{@t@~u@eGxq@gYr}ChHv}AqEfaB`GrlA`c@f|@he@jy@xW~}@lNxkAhBdaAoCrqCbYndCjOn`DiOpcD}DftAxF~eAtVxnA`M|xAyIheAoS|}@oL`sAwP|hCsKtnDkZt{BR~zAha@z~B~]pbAr\d|@~Nj{@_Crt@{Sv{AsKnsAzLz~@fL`n@gAft@k^~}Ami@hfEpBje@lPlq@pRz}@dGvhA`DrxAiJx|@eTh`CaT`n@w[`c@eFt@`A}EfE|@d@fJKnCnEzQ`MnFlx@u`@pYoCt`@bAj\sApZeD~RyLdUhAbVbAhOvMdXb\zNdBbOvJ`JpWjXhj@dSfPhR^|`@yGnWxJdXpD`c@w@|OkNhA{\wHkp@m@m_@iJa]j@qIrWuH|`@yMxQe_@tGk~@jH}QtPgJ~HoI~Wqu@vNmcBfLyVrNkHvN{Bv_@nLxLv@dMhSzRjA|a@aV~F{AeFrEHtMd@hEfA^lDoHrAfDdClIpDt@tCqDf@kCb@y@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2345941</lat>
+    <lng>9.8858408</lng>
+   </southwest>
+   <northeast>
+    <lat>51.4902109</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJuwLuQdvJpEcR-l95yTZnY0Y</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

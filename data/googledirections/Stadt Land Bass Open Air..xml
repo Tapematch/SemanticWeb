@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>13635</value>
+    <text>3 hours 47 mins</text>
+   </duration>
+   <distance>
+    <value>404529</value>
+    <text>405 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.0436352</lat>
+    <lng>8.9774995</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Kleine Maingasse 17, 63500 Seligenstadt, Germany</end_address>
+  <location>Stadt Land Bass Open Air</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAt`@nLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJyoAfkF{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rY`t@fGnaC_b@|nAyJjfDkP`SpbBvPbyD|a@rhBf\tqCmDh{Aqm@vnBeUd_GtCpiDsQ`zEwBzsA`k@ttAjM~q@ub@fmDoO~gDlMh|@`DvlBgsB~fJ_{@vbColCdtD{x@tjB{IpbDq^haEaGztC_g@d}K`Fd_Ep[~nDrm@ppBh{@xxA~zAraJz\|jItn@nxHpp@dhFmCvsGbh@jvEp|@p~CiKj{Egf@poD}cA`kCy`@fqBcIbqIs_@v_DzHl|Eo@j_Cix@v|BkVd_D{Ip{C{o@t`CidAfeBc~@nb@_rAcPsrAlTq`AhnBe}@hbIgdAn`Dys@~aD~LpxExHvjD`k@bcD}RbvF}@hoDdYlwAqX|sDcm@`uGlhA~vCv{ArdAbu@htA`s@bIp]ld@ps@rlBhQvwAeSluBna@hmDb~@tgEtMljBly@ncAba@v{@nb@tSpXxx@xw@~}BxbA~qBbi@vuAz[jkCrU|hC~aAnpBfh@rJjY~cAf[|iBbBh}BxSv~Cdi@r}FyNxeD|_@`vBbX~yCHdtA|Y|u@`|@n^ll@lbAdMrwA`r@|`AdX~KbUiL`i@{bAj`@qKtZcg@pZ}aBzRsnAnv@i\ho@}_BjmAcgDjmAokAb{A}m@jcA{mBp{@cdA`jBeL`{Bzb@|dBme@jfBri@vyAue@nuAlHzj@}a@dgA{cCh}AunBpdA_a@ldCgCvkAip@ljAu@dgAvv@vr@llApLrpCtVxeB~nBb|Exu@dwBhu@hf@nh@|`AzqAxuB~{AjgB|o@rOz[jaAl~@dhCzxBfvC`eAtgAbnAu@fnBvbCla@foDjc@v}Apd@fm@b]nf@rJd`BbUtz@z}AfsAnkBrzAfy@heBvnBxzDvHdsB~j@`fBxq@ljAtKzy@xYdoCfaCtgCpv@rkHoy@dpEr`@|sBfKrqBnYfdBfi@dx@nYfcCh`@t|@tH`fCjO|W~wAx{@zsB|fDly@lTlr@eLfv@glAl[}kCt|@qzAjfAqStpBaYfbBghA~sAwg@zlA|t@bjA||B}D`]sdCt`Emh@xy@_HpNmCj[wJuA</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.0106540</lat>
+    <lng>8.9770674</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJOcWgZy0-vUcR6hw8ZXHeG-M</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

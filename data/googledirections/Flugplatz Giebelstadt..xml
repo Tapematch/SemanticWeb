@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>12262</value>
+    <text>3 hours 24 mins</text>
+   </duration>
+   <distance>
+    <value>353838</value>
+    <text>354 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.6542070</lat>
+    <lng>9.9795412</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Flugplatz Giebelstadt, Hermann-Köhl-Straße 1, 97232 Giebelstadt, Germany</end_address>
+  <location>Flugplatz Giebelstadt</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rY`t@fGnaC_b@|nAyJpqEqc@t|A{c@vmBcdAxx@cdAj~@_l@|~@wcAb_CwEha@|B|W|Wdw@jbAbq@zFdlAzoAxcBnwA`a@zTlj@_Bn}@o\t`@lFjvBbbBfjCr`BxfBhwAp`Ari@`pBpg@z|B`Yd_C`eAj^`Plb@g@doAqzAzt@}UzTs]|}@}i@h`Ap_@ds@tI|~@n[bn@`@hj@u_An_@yHvbA`U`o@cKjsAx\|hA}Vhd@bCpUdOfv@~l@~y@naAp`@n]`c@~[rRtr@~r@_IjXyz@jdAg}Ara@mK|mAfbAhe@oFvj@{^dpA}BljAoa@pnA{t@zjCy|@nx@zTfaDnfB`_A`kAhi@fR|iBs_@`wA~g@zrApeAnyBnqBdrAcRxbAxXpvAzSzf@`[z_@lx@lfAbdCfhAh_AdhBxsEhr@`gExx@rgA`bAbEfuA`j@t|@d]jTlWoRf~Bm^n{BoOdjG_VvdARjhAfKn}AhcApwDhRb~CjW|sCvQxm@c@nx@nVvwAvYneDvCvp@kPdy@DdqA`a@z{CcJpnB`AjoBuUpuAdM`kArn@h`CfJdwCle@psCvLpfExZhwDjMlfAa@p}AfEtdDpXp}B|w@h{Arg@|_CldAnsAl\fk@zdA|bBbn@`hFgJ`@dKkSne@ux@~eA}vA~_A}e@jcBwJdbBtPj}Aa|@|aAba@hrAiAl}@s~@hc@eVpk@d^tt@leAz\z|Ajw@vyAxsAvdFnx@f|@ra@laA`RbfCbq@peAls@~Jbq@pXmn@|eB{NrpBpEzbCxc@tiG`AzkHiT`tAk_@zz@a_@dlCyvAhwDiGliAs@voDuh@`kJyQdeDgYtdB}k@ntA_ZzbBvSvtBji@f_ClIn`CkFtyBfAn~Egq@~|DnN~kEaEb`Fgi@lxD_CvzAxOh|AfDfdEtc@|dEtbAj|ClwAt~BzeAzcDtQ|dBeBjiAL|QxPiEndAcRnc@ew@vd@epA~i@m_@tbAcQ~x@{Vvo@i`AlVrQv@}Etg@a~@xJfJfh@zr@|c@pt@|PaCoCn_@~c@l{Fem@dR</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.6468236</lat>
+    <lng>9.9795412</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>airport</type>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJYzaVsaKDokcRVlkXlwzC8-8</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

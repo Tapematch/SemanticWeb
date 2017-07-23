@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38 and A44</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>18858</value>
+    <text>5 hours 14 mins</text>
+   </duration>
+   <distance>
+    <value>545570</value>
+    <text>546 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.8194965</lat>
+    <lng>6.2699780</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Marktstraße 19, 52249 Eschweiler, Germany</end_address>
+  <location>Eschweiler Marktplatz - Open Air -</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuPhlJiz@zyCs`AhzCq_@duAcy@rr@}rCtMw|B~gDsdEzuCu}D~y@wdBnaAmj@`~AiPf|CjTxtRJ|dFa`@tqDywAfjI_oCt`FmYpsBbWbsHaCbeHhkAdjNjLv~C_n@`aF_zAvzG`UxnF{Zf`HqJl{B}g@dzAw^rmJqa@foFqTfpBdX|zBji@|zBwLziBqWr|EbMfrDaJblFae@n~GviBpdGiBdfBg~@`qCmxBr|F`Q|fFjp@tlAxjBpo@`qAdh@vXdzA|y@`yF|AvjCbjAjjBxOjlE}Oj|Fn@znDjiArvBpj@~lEoCrqCni@~eHmMx_Ivd@vhDi^fdCg^~|Ekf@jgK|mB~{H{WjqCf@jsC~IhcBk^~}Ami@hfEvo@l`FmZvwGyp@brAo|@zd@iaBztBsrB|yByTaLhYbGboClpB`}ApfAhrAlwErg@|jCgUzwAsw@juD~PxyBhj@`cBw@rwAzV`lB~{A`{@|r@xoAjcBppEj{Et`Hjx@~[f`AwNjj@~Pp{A|`Dx`AheBba@|EvQduCkTldFu\n_Dwj@rlBm\xvDoj@xfBk~AdmGgc@dxBoiAloB_lAx]inAgL_vAnTu_BrNqi@hqB_OflD}cA|tB}c@vdCgk@l|B{fA~dAwkBjd@yzAvgCadA|}@wv@rdB_hAblLgm@xiBm\b_DafArwFqy@|qA_q@bjCusA~uF{ZrlGcqA|fFs|@poHsxBr|Eoc@roFsAxpHch@~jEmBnxL|hAp``@nSphNhkAnsLtyA`wEpd@tqEd[foCaIbxF~JnoFbu@rxIm@tgIjRv`Lu@xfExa@bvCzI`}F_AvfHbe@fiEmMdfDwC~BvxBhaA~bC~rDdq@r}A~cBtkFl`AjiDraB|f@|hBruCh|BbiKblBd~AllBd~GdzA`rFxuBbxE`j@ncDdwA~}BvtB`h@zbAkMzi@dj@taBraD~jCeY~eBifCvbAfPvfAblA`sB}F`z@d`@t}@deBxTpbAr`AfqAlhA`t@zl@znCxv@|zAxl@h]pzAdd@|pAbqAz`BtyIxaBtrHbm@hnCsAjbBlhAjbEpfD~rHdv@tfDzhAd{BztBfEjeE`VkF`eJpc@~gFxdBv~BxuAzlFtWtiBqQd_DBlbApt@t{AbqAp_E|vCfkKqXpuCbTruC|eAzmGnCllLlb@dxNtI{Uhk@c^pNf_CiEps@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.8184918</lat>
+    <lng>6.2699780</lng>
+   </southwest>
+   <northeast>
+    <lat>51.5971698</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ8V-nxENgv0cRquC3B8Imo8o</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and A2</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>9966</value>
+    <text>2 hours 46 mins</text>
+   </duration>
+   <distance>
+    <value>277572</value>
+    <text>278 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.2376324</lat>
+    <lng>9.6688298</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Am Gut 11, 31832 Springe, Germany</end_address>
+  <location>St. Martin Kirche Springe</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFyBfB}EtGsBdBsIkGgByb@uC_BqM~@}ECqAeD}HqToO{f@~F{MmBwMcf@_f@{QmIsDlAeh@hLyGv@}CrHwEbO_VjJuc@rQaOy@yTgJgVeP}o@rWsVhGcHyAoLcRlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFys@nbIwb@l`Bkk@`aBex@~|B}d@|cAcvB|qCwdBpzBeaD``Ecn@pb@ig@bQ{hBdp@{b@zb@iTha@_V~z@gJf_AbAruEcF`kCoPvyAy[bkAsc@vy@m^n`@_a@hWwb@jMuc@|Bwe@Ach@xGco@dZcp@~r@kaA|wBm|BpuDcs@znAyc@~fAih@r`Cwb@rcCmVtk@aXt^inAfgAcXhb@_Nfc@k[z{AgUrfAwTji@y\z]q\rLm]?alA{]u_@wFi~@hDoj@{Awi@}QapB}x@mb@eCs_@zEgbBnv@a]jDe`@sHmm@}i@ih@kl@wh@wWqe@d@grAvh@m^lBmh@gIkzA}t@iu@qOcw@}@cp@xIgm@nTscCzeB_n@`[qm@jPm{Bvj@idAnc@{}D~jC}n@xc@}TzXcR|d@{m@vsDie@vcCki@xxAyn@lbAqhAh_Aar@jWeVpE_g@xCej@oBwgAuZy{Aut@}qA{Pgc@sD{OHwObp@rMhpAjBrp@kCzj@{Z~qAs^~kAid@tzBwh@xuCuCjeA~E|{EZnqFe[~aIi_@ptF}V~pEcMncGy_@bbDfAxrBlBx_AyCliAePjdBqS`bAqK`x@yEhfBcMteAid@x~Auf@xxAaYjh@_Wj^oP|a@q\rj@}fA|gAs`@jx@gWpnAaGvz@sLnv@if@`zA}TnnAsOjdCw]|xAm}@htCme@zvBkXnsAmOhiCwH~uBiA``Bl`@~|HqBhwG{Dz{H}ClvDmLphDsAngCeA~vCaE~s@}k@h}Dwn@lgEgi@reGqQ~_FaE~{E`^fhHeIxfFiBddCkKnw@sRrr@_kAteDkO~o@wIvz@qRhbEaIzhCqGn{CgQftCkd@`cC}}@h`FoZx_CiNzsFsg@|wIaD|OiBaBfDaIrk@aAx`A`Lpk@bNhq@vUx\dZvd@|o@nj@hr@vq@fa@bq@|Ldf@Sz|@cUpT}GdIjBnJnU`LtlAvVlfAzLfcApEbg@lN`Qx_@fSb]d@dUxDjXve@vIbZdLdL{@rh@|Rr\hCrWtK|gAjZfv@zE~LhEY`KbTrYtUdLdJzFbc@pKb\bg@tt@pHlp@sKnlEnJpaAxNfg@rFjMjB|FZdFjDrL\pJfAbHCfB</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>9.6688298</lng>
+   </southwest>
+   <northeast>
+    <lat>52.3986848</lat>
+    <lng>12.4000215</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJgyQgyD6fukcR9Be6JaNi4VE</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

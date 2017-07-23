@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38 and A44</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>16809</value>
+    <text>4 hours 40 mins</text>
+   </duration>
+   <distance>
+    <value>479734</value>
+    <text>480 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.9492159</lat>
+    <lng>7.1702117</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Osterwicker Str. 1, 48653 Coesfeld, Germany</end_address>
+  <location>Stadthalle Coesfeld</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAt`@nLdk@fG|dAvz@doBufBfcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGb^j{AqBt~Aa[p_Etd@pcHuPhlJwOtyAqi@d_As`AhzCq_@duAcy@rr@}rCtMw|B~gDsdEzuC_aChu@u{@tCwdBnaAmj@`~AiPf|CmG`mEx\vfLJ|dFa`@tqDywAfjIqo@jdBm~Ah{BmYpsBbWbsH|LheE_Qx~AhkAdjNjLv~C_n@`aF_zAvzG`UxnF{Zf`HqJl{B}g@dzA{GzwD{UvtDqa@foFqTfpBdX|zBji@|zBwLziBu]vrBbEzhBbMfrDaJblFae@n~GviBpdGiBdfBg~@`qCmxBr|FyFrwBzXhnBjp@tlAxjBpo@`qAdh@vXdzA|y@`yF|AvjCbjAjjBhVpbBoExhB}Oj|Fn@znDjiArvBpj@~lEoCrqCni@~eHmMx_Ivd@vhDi^fdCg^~|EsKtnDwYtwE|mB~{H{WjqCf@jsC~IhcBk^~}Ami@hfEvo@l`FgElvCeTh`Cyp@brAo|@zd@iaBztBsrB|yByTaLhYbGn}@~|@rpAlr@`}ApfAhrAlwErg@|jCgUzwAsw@juD~PxyBhj@`cBw@rwAzV`lB~{A`{@|r@xoArt@h}Cvm@fr@v`BtpBryB~nDjx@~[f`AwNjj@~Pp{A|`Dx`AheBba@|EvQduCkTldFu\n_Dwj@rlBm\xvDoj@xfBk~AdmGgc@dxBoiAloB_lAx]inAgL_vAnT_{@uFuc@hVqi@hqB_OflD}cA|tB}c@vdCgk@l|B{fA~dAwkBjd@yzAvgCadA|}@wv@rdB_hAblLgm@xiBm\b_Dmq@hqBsSheCqy@|qA_q@bjCusA~uF{ZrlGcqA|fFs|@poHsxBr|Eoc@roFsAxpHch@~jEmBnxLha@z~Irf@t`UnSphNjU|nE|t@pcFtyA`wEpd@tqEd[foCaIbxF~JnoFbu@rxIm@tgIjRv`Lu@xfExa@bvCzI`}F_Q~`D~NvdCbe@fiE{LxpCgHrKw|AyJixEil@agB{~A{xBy]coAlD_hEx_@shBhMqhBrr@ybErmBobKrbBqsBrj@itBluBodDx|DkgBfh@e_ClBemBjk@udBhm@|`AfiH~d@rfEyKb{ByXleHqSd}AgPzd@bNlYbIvOfKjf@eAfgBiIxdApLvq@pWbq@xCrJcJxo@oNvEcJlQ{o@lqAkt@txAsn@`g@{LlyBg_@trEjp@dlF}z@lwBwXpMgSpRyRi@rKpN</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2345941</lat>
+    <lng>7.1702117</lng>
+   </southwest>
+   <northeast>
+    <lat>51.9512406</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ06lmO2VQuEcR737977_vdkA</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

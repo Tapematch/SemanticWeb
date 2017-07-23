@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38 and A44</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>12291</value>
+    <text>3 hours 25 mins</text>
+   </duration>
+   <distance>
+    <value>358497</value>
+    <text>358 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.5605550</lat>
+    <lng>8.3302220</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Im Hagen 2, 59609 Anröchte, Germany</end_address>
+  <location>Bürgerhaus Anröchte</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdYuA~P|I`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~AkWdiBuBjuAtd@pcHuPhlJwOtyAqi@d_Aqa@xn@a^njBq_@duAcy@rr@miAZohAxLkeA`jBkv@||@sdEzuC_aChu@u{@tC{i@~K{y@nt@mj@`~AiPf|CmG`mEx\vfLJ|dFa`@tqDgcA`aEqSdhCqo@jdBm~Ah{BmYpsBbWbsH|LheE_Qx~AhRfuD~w@|sHjLv~C_n@`aFqXzoBe[z`Agd@~gB`UxnF{Zf`HqJl{B}g@dzA{GzwDCnbBwUfqAqOheB_Q|hCqTfpBdX|zBbY|r@fO~fAwLziBu]vrBbEzhBjPx{AgBluAaJblF}\fgDcGfvBxXfoAzb@f`A`l@`sBiBdfBg~@`qCqkA|lC{k@tnByFrwBzXhnBjp@tlAfl@x^p}@vOzu@pNdZrXvXdzAvBp}@lXfz@|U|z@xEhcA|AvjCjZxq@vn@pw@hVpbBoExhBgYr}ChHv}AqEfaB`GrlAjiArvBfg@xjChBdaAoCrqCbYndCjOn`DiOpcDz@f{Cvd@vhDi^fdCg^~|EsKtnDkZt{BR~zAha@z~B~]pbArl@pxB{WjqCsKnsAzLz~@~IhcBk^~}Ami@hfEvo@l`F`DrxAiJx|@eTh`Cyp@brAo|@zd@iaBztBehA|`Ami@~w@wNVaEyLhYbGn}@~|@rpAlr@jx@xXtc@vl@ln@xaBzb@rtBrg@|jCgUzwAsg@d~A_OdvArA|kAjNzl@hj@`cBw@rwAYbv@tW|t@~{A`{@z]zZ`T|s@rt@h}Cvm@fr@v`BtpBryB~nDjx@~[f`AwNjj@~Pp{A|`Dx`AheBba@|EvQduCkTldFu\n_DuNl}@a[dn@uZheBw@npAoj@xfBsp@xyBwl@jrCgc@dxBa^h}@mj@bq@qf@vWmd@`EinAgL_vAnT_{@uFuc@hVqi@hqB_OflDgUvy@um@dz@}c@vdCgk@l|B_\`f@{i@|]qaA~Jei@jXyzAvgCadA|}@wv@rdB_d@dsDkLbaDsUxuAgm@xiBm\b_Dmq@hqBsSheCqy@|qA_q@bjCy~@fqC{SvcBcCrlCwV~~BcqA|fFe]tkEm^zbBqaAbiBav@nrBo]trC_E|{AsAxpHch@~jEmBnxLxS`{FnLxbBrf@t`UfCdhGDcHt}@bNnj@~Lf`@c~@pM{h@`EcOsAmA_FuH</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2345941</lat>
+    <lng>8.3089004</lng>
+   </southwest>
+   <northeast>
+    <lat>51.5971698</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJQevHCgvQu0cRoSSzRgvAvbA</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

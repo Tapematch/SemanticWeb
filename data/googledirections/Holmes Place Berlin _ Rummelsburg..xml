@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>8087</value>
+    <text>2 hours 15 mins</text>
+   </duration>
+   <distance>
+    <value>201622</value>
+    <text>202 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.5048151</lat>
+    <lng>13.4736711</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Hirschberger Str. 3, 10317 Berlin, Germany</end_address>
+  <location>Holmes Place Berlin _ Rummelsburg</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFyBfB}EtGsBdBsIkGsA}MS{SuC_BqM~@}ECqAeD}HqToO{f@~F{Md@wLsC_@cf@_f@{QmIsDlAeh@hLyGv@}CrHwEbO_VjJuc@rQaOy@yTgJkLiM{H{A}o@rWsVhGcHyAoLcRlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFiKnq@{PrNaR}EwiAsi@qoA{j@qZcEqWZq|@vK_a@tMeeA`r@sz@jR_|@lO{u@hF{~@dBmpBzg@_h@~MoVzAyu@uLgq@qIge@nJ}s@hV_i@tMgVk@soAe_@maD{`AiiCe]{gKgiAqaAgNez@a_@cqAk~@eb@u^ghAgbCgc@cu@_p@m`@kuAmgAsj@aaAae@os@sfBicBqx@cb@wXcRqVyZ_^c}@_^cgA{c@}wAyPau@wQcg@oS{[gWiV{|@gt@yo@ei@yUwSiXgc@kg@}pA_[}o@wViVclEwyAk[yRuScYid@gmAi[khAwYidBus@mxC}Pgj@ccAwgBgpAieBqUug@kLy_@s]miAkUsi@iXa[gRkk@{Nap@u[a^gV_`@ea@{kAq`@mi@_|@qg@}`A{l@os@uu@_z@{pAsRwa@yh@ahAks@}iAeUsi@if@i{Ag[}s@mf@im@{jD{cEm]yf@kO_d@mMmw@_`@_kC}Puu@ms@_iAg[ef@wJgXgPq_A_VqhAuJiSg]ib@cz@u~@qeA}jAae@qc@yc@kLaXrAwTxHg`Abe@aSrHiSxBySmAmj@mMel@kNkj@qMkVaLoHgSqTu|Aey@afGp@m`EfAce@lLeq@dLmm@zA}PaAcb@{Luk@o@ef@tBygB`Eww@iBsZaIuOqZsQ{~@si@oo@oq@uWyYqJaVo^alBwOyn@aSgWiYqHsu@d@qn@a@sO}LyQy\oNuJ{s@a@_RsBiTmLoSuLkP}Zg`@wyBog@es@ya@ef@mVyTsVUcp@zJ_IxJqNdMa_@}EqScLkhAu{AoaCcdDsnAs|AwcBg}BqZeb@yAcI|BgHjGgBlLuJlUoYxBe[`Z_l@vd@gq@~IiY`NgZzF}b@gBmhBa@{YfD{WpTk_@zCcXaB}WIkQfGmWjNuq@vBigArCc`@hOog@lHe\~MaSvJihAwBqq@}Dw~@sEinA}Dyl@uB{NjDoElGuINkFeFcNgBaDcFqFeD`HmItQyB\uBwE_HkPwPs`@sQqb@_GiN_ExD{QxYaMe[{CqIqGfG}IlIwD~PeTveA{FhMeQcTiE_LSsE_C}CcGaDkPiFmNyFoDcFv@aFd@}C</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>12.1832363</lng>
+   </southwest>
+   <northeast>
+    <lat>52.5052855</lat>
+    <lng>13.4795476</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>gym</type>
+  <type>health</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ24EQT_BOqEcRcSqOZju_8ZA</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

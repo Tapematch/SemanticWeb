@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>12167</value>
+    <text>3 hours 23 mins</text>
+   </duration>
+   <distance>
+    <value>357671</value>
+    <text>358 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.5534823</lat>
+    <lng>8.5061631</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Brühlsbachstraße 2b, 35578 Wetzlar, Germany</end_address>
+  <location>Stadthallen - Wetzlar</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoFH~@}Gr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rY`t@fGnaC_b@|nAyJbtBcRfq@v@`SpbBvPbyD|a@rhBf\tqCmDh{Aqm@vnBeUd_GtCpiDsQ`zEwBzsA`k@ttAjM~q@ub@fmDoO~gDlMh|@`DvlBgiA`bE_i@|cD_{@vbColCdtD{x@tjB{IpbDq^haEaGztC_g@d}K`Fd_Ep[~nDrm@ppBh{@xxA~zAraJz\|jItn@nxHpp@dhFmCvsGrJxtBn\p`Bp|@p~CiKj{Egf@poD}cA`kCy`@fqBcIbqIs_@v_DzHl|Eo@j_Cix@v|BkVd_D{Ip{C{o@t`CidAfeBc~@nb@_rAcPkm@z@gd@pR_c@hi@q\~cAe}@hbIgdAn`Dke@blAmMztA~LpxExHvjD`k@bcDdC``BcW`uC}@hoDdYlwAqX|sD_h@|dDcDboBlhA~vCv{ArdAdY|y@|ZjY`s@bIp]ld@ps@rlBhQvwAsSz`ALps@na@hmDpk@rnBpQ`xAtMljBly@ncAba@v{@nb@tSpXxx@xw@~}Bx^f_@~b@vqAbi@vuAz[jkCrU|hCh\|cAtd@pk@fh@rJjY~cApWjh@tBp`AnJnu@kGxfAvPd{@`BpbBlIrpBv^~kCcA|wBuLzl@|G`cA~V~q@pO`}@pG|{AHdtA|Y|u@`|@n^f^~XdMlh@cApi@hO`m@vn@|lAtAj{Bh]dxAba@z~@va@hiBdKtx@wPljAtKbe@vl@d`Dlo@l|Cvs@psBdg@jaAdi@~bEkM~dChY|bA|l@pm@`_@fpDbXziCrc@nzAlnAfwDr_@x~@Wh}@nBddDkTfoB`B|nD}NjwCdn@noBrj@|_B~r@nq@px@vY`Zta@jmBffA~q@hn@l|@pgBxb@jlG`h@viD~bA~iE~x@lbDnAzuC~I~_C}Wbu@mr@dz@kf@tkAaFngApDvfBqNv{AsSl_BzGbvArn@j{AfL`dBjOluAr`AjrAjNfj@lHtHpa@gWvi@tCvw@zXnyAtr@vXzt@nMbeCqZzbFeKdeDqIdaAv_@rcBxM|VeDx_@tB`JdOtb@~X~XjGmOtKcDlHC</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.5534823</lat>
+    <lng>8.5026934</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJmZPBYDO0c0ERJK5jGvOsNvg</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

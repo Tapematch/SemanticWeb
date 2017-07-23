@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and A2</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>13074</value>
+    <text>3 hours 38 mins</text>
+   </duration>
+   <distance>
+    <value>351856</value>
+    <text>352 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.9124827</lat>
+    <lng>8.8256681</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Mühlendamm 4, 28857 Syke, Germany</end_address>
+  <location>Konzertsaal der Kreissparkasse Syke</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAaIdRgMeDgByb@gR_@oHiD}HqToO{f@~F{MmBwMcf@_f@oW_Geh@hLwLjJwEbO_VjJuc@rQ{d@aLgVeP}o@rWw_@nDoLcRlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFys@nbIwb@l`Bkk@`aBc~A|aE{{EnmGeaD``Ecn@pb@ig@bQ{hBdp@{b@zb@iTha@_V~z@gJf_AbAruEcF`kCoPvyAy[bkAsc@vy@m`Axx@mgAhQ{nAvGco@dZcp@~r@kaA|wBm|BpuD}wAzvCih@r`Cwb@rcCoo@jkAinAfgAcg@pfAk[z{AgUrfAwTji@y\z]q\rLm]?alA{]u_@wFi~@hDoj@{Awi@}QapB}x@mb@eCs_@zEgbBnv@a]jDe`@sHwvAiwAwh@wWqe@d@grAvh@m^lBmh@gIkzA}t@iu@qOcw@}@k~Ah_@scCzeBq|All@m{Bvj@idAnc@{}D~jC{dAt}@cR|d@{m@vsDie@vcCki@xxAyn@lbAqhAh_AgiA|]erAh@wgAuZy{Aut@}qA{Pct@iDwObp@rMhpA_@n|Ay_BtzGwh@xuCuCjeA~E|{EZnqFe[~aIgw@pfMcMncGy_@bbDZ`~FePjdBqS`bAqK`x@yEhfBcMteAid@x~Aw`AdbCoh@haAq\rj@}fA|gAs`@jx@i_@hjCsLnv@if@`zA}TnnAsOjdCw]|xA{cBdlGkXnsAmOhiCaK`wEl`@~|HmHdtQ}ClvDaO`qHeA~vC_r@hrFwn@lgEgi@reGqQ~_FaE~{E`^fhHeIxfFiBddCkKnw@s~AhyEcZvkBqRhbEsQjeHgQftCkd@`cC}}@h`FoZx_CiNzsF}d@hiIqZtvDw~@zoC{i@leAeYfj@{`@jsAmPbfA_Arx@lWhgDiAxcGoQnlDbEjrBjRbjC`[beDh@vXam@rhAodA|_EqfAvsD}k@xeBga@bo@ic@nrAcjB|wDsuArgBge@pKkSlRyQbf@qW~p@_TrTgUvQcJ|a@w~@fkGcn@jwDwy@`cDidBrwD}l@ltAqKjn@cQza@mXzU_q@twAaeBvaBolAvcAc[jFwn@mFi^xKoW`]ox@rnAwXth@sItjAn_@bdEf@~lCqTpiFeNzj@iWfQir@qLig@iCihCvfC}m@fo@qi@`}@gzCjeGgbCtr@sl@td@oG`SwMhFaaApp@i{CtqD}iAfbCe_AlzBez@fdC{yDjmE_g@rm@e\bOit@fvAyl@bTuh@jYks@xbA_Wh]v@tJtFw@SoA</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>8.8249863</lng>
+   </southwest>
+   <northeast>
+    <lat>52.9138930</lat>
+    <lng>12.3996343</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>bank</type>
+  <type>establishment</type>
+  <type>finance</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJQ3DbS-fasEcRpBN7v0Fz2Gc</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>20444</value>
+    <text>5 hours 41 mins</text>
+   </duration>
+   <distance>
+    <value>596201</value>
+    <text>596 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.5215512</lat>
+    <lng>6.7377176</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Strandbad Losheim am See, Zum Stausee 214, 66679 Losheim am See, Germany</end_address>
+  <location>Lucky Lake Festival</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHbyAtrAvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@jfDkP`SpbBts@vbHxV~mFwcA|nJ}LrdKhg@piDiTf`F~A`sIgoDvjNolCdtD{x@tjB{IpbDsf@dwI_g@d}Krb@doJ|iBjjE~zAraJplAldSpp@dhFmCvsGbh@jvEp|@p~Cqr@|kKweBh}FcIbqIwUd}Jo@j_Cix@v|BkVd_D{Ip{CeuB|fFc~@nb@_rAcPsrAlTq`AhnBmbCxcNys@~aD~LpxEzt@znI{TlfLdYlwAqX|sDcm@`uGlhA~vCv{ArdAbu@htArqApn@zeAjeEeSluBr`B~uJtMljBly@ncAd~AfjCr{B~pF~eAbbFrU|hC~aAnpBrbAroAds@~gKdi@r}FyNxeD`y@`qGfZbkC`|@n^ll@lbA||@peD~_@ptEzcAdiDbFfjDd}Ar}H|{A|uDxZ~hIfgAnqBx|ArvKlnAfwDz^b}Bw]v|Qdn@noBr~AlrC~aEtcCloBzvCxb@jlG`lBvtJn{@hyHjDbqA`q@p_ApeDxeBfkIxlG|cHvcEt{BplAnq@|dBp{@pZhgCuVbbGmk@~nDtmA|pAgOzvBza@|~BpkBfeCnl@`eJ`QzsDl`Gp{DvrB~jD|nAxwDubCds@ac@f~AfGbzBv~@dRjq@ra@nvHbmBfxGtWp_Atf@gRtzAd}@l}B|xBzj@n]rFvmAfU`hJsv@pgHviA~uEi[viDv_AhiGz_Dh|ElyCj_AjcEzjBbrDxbDfmBpe@|aGrObaC~lEftA~lB|cB|`@~wBr_@tvC|yClzCnnDfdA`MfvDox@p|Axn@`oAllC`}AzrG`w@tlCrnAl~E`cAvt@xZjnB`aBb~BxwBzq@beElY|uBzfBtm@x]Unw@|@hsC|nA`jLhg@vlJ|{A~yFtj@lyC}ApxCxRfdGk`B`_BqrBtyEumCzuIy}Bx_Dw}Adl@qa@zlArKhfCgb@rxB}~AnpCwy@j{I{pBiGgnAjfCqf@dlC_tBt}DqHt}E|cBz}EmIpiFit@nqFra@vzDym@n}AbHzRlsAb\lZh^rAhtAlxAnyE~aBdvC~^bb@v_An`@fTrrAtwA`dB`jBtyApm@zxAkH|{A_t@jlCqIzv@yh@tVqb@|kEsk@ffB</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.4182130</lat>
+    <lng>6.7377176</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>park</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJt0-VMm91lUcRqPvxNdY5Gmk</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

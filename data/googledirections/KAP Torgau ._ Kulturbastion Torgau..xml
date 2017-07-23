@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>B87</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>3648</value>
+    <text>1 hour 1 min</text>
+   </duration>
+   <distance>
+    <value>54147</value>
+    <text>54.1 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.5558242</lat>
+    <lng>13.0037419</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Str. der Jugend 14B, 04860 Torgau, Germany</end_address>
+  <location>KAP Torgau ._ Kulturbastion Torgau</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFKrBmBKoBbBmBpDiAzAi@He@CcAo@iFwEi@i@m@g@@gB@aB?aEKwIGcI_@uFHgExBuIt@mCJkBp@uENcBQYc@Mm@ImAqAiAcEcA{AyBmCu@eBq@_CkBmF]}AE}D^eL@i@}@TqBhAq@\]EoAeB{EcIm@i@iA[}H]iBg@eA}@iGiIEmBbBaFzDkKf@iCj@sBpA{BjA}Bj@}Bn@gGTwIl@}Ur@gZDwGu@oDwDoH_@wAc@}GQgFgBqMw@_GB_Bz@}DRm@a@eAoIaUqHqSwCeHiMs\kEcLg@_C{@kDwAuDeEyKaLmZwEgMoE}OgQoq@}Kwb@gP}l@yCeLsBoIeBaGkEmPiG}UqAqDkCcFiFeKi@cC]wBo@PwBl@{@@mDkAiAcAiAaBcEkLiE_KwCeFaDiEuKiNiC}GwAqI]sJBkHM}G]mD{@kEwAsE}ImQuX_g@eM}T}OkOeXyVqCiEsQka@uIqTqBgC}CwB_GkBgB_AmOcUsIgMmHiLoHmSgD_KcA_JaA{Ki@sDAgE\{F}AmHg@aBaAqAeHiDiFcAkCQmHgA_BcAyBaD_IiQsCmIyBgMc@kD]}Gc@iWcBwfA_@mJo@kHaCwNyDcM_CcF_DcF}DoEgFiEkD{CeCyCaBqCwCaHwMk]eD_JgAaEmBaNyA}K_ByHoH}[wEiWqF_YwH}ZuBgGoBaEcFuKcLca@}BsMyA_PuAeGyA{DuCmFaCaEoBqEyFgW_D{JuEsJaCeHoDyMaH}WeSuu@_A{Fe@mNUqRmCu`@}A}We@qEwBgJiBgIa@wC}AaRuAaGgFeOsEeJcJkPuLuReSqV}OaNsEkFcDcHkDsLiDkHiTw]mDeGaCuFeEiLgCeHqB}DeBcBaFoCsAyAeA_CcB{GuA}HqAiJ}@{KoB_YSmIEsSUuPe@}J_AiIaOecA_Gq_@oDsa@}@aLc@}S@{\HoIVoDfDsQ|CiOPwDGqAWqAs@gAcAcAy@_@qCmBuAqEkM}k@}Oqr@yIe`@mAmGkQ_w@yKcc@sXmgAoAyIKuHr@ci@DmKOaCeKod@yBiFeGmLwEqGkDuFcBuEsAaHsJsr@}BuOeWieBcAoKDcQYuEqA_MmC}NyCiIuCsGy@aEu@qDiD{JgCyQkDySiOofA}@_EoBuFqV}q@mAmDSkBXaG?yA_CeRi@yHuD_W_Ec\cAaKmBqNyEa_@mAeIkB_DM_AkAcHk@}DJ}CTaAjHcH~DmEtAu@@@@BBBFBFALQ?YeDmIy@gD}@oG</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>12.3694604</lng>
+   </southwest>
+   <northeast>
+    <lat>51.5576351</lat>
+    <lng>13.0037419</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <partial_match>true</partial_match>
+  <place_id>ChIJ_euUSH65p0cRj0sJrLXOgTI</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

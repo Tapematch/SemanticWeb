@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A7</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>18889</value>
+    <text>5 hours 15 mins</text>
+   </duration>
+   <distance>
+    <value>580780</value>
+    <text>581 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>47.6555116</lat>
+    <lng>9.5886925</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Waldesch 29, 88069 Tettnang, Germany</end_address>
+  <location>Regionalwerk Bodensee-Schlossgarten Open Air</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHbyAtrAvvChgDrrGxqEvuCpcCjgAjk@tgCfClpFti@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@foHmhAzfH_{Fb_CwEfz@z[hiBfjA~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrA`}Fb_BxaAxNdoAqzAtiCo_BntBfj@`nBp\xjAoiAxrB|Hh}CzDbrBhaAp{A~_Btv@toA~r@_IjXyz@jdAg}Ara@mK|mAfbAfbDij@~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@leH`aFdrAcRxbAxXpvAzSvgAntAtoCldEdhBxsEhr@`gExx@rgA`bAbErnEpsAtlAye@xo@dV`iFhF~lEjS`{ByPj}B`n@pd@t{CtlAx_IpqCpkAjdCx{@|lBcEvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@~fA`{CrdBbaBpoBx}E`eCzdFl~DhoChuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIli@x{Cbo@zeDffFzuI|pEtgKn~@vjRqpAlvJxw@~fI|JbtHtdAzoDjwA`tBvzBpcH`~@ngI_zAjvQh|A`oIc^tlEhHjsD`fArmJ~u@fgFve@`wEhsBjbEvWhdBbpB{e@lbDg}CryCbOns@bMx^rkBj|ArrBnjCh~Af|C`kDbgAxHdpBk|AzyAyWdbBrSbhBiCpdBfw@xfEmv@`oBzGnrAlx@xsBpsBtdAaUhn@g}Atr@}tAv~@HzpBgdB`tA{H`sAn_@viE`@hzBfhAb}BmKjxDa}Aj}AAj_BagAjgAme@hs@px@fbApk@laBiLnfH~}Ix`ChlGjtClfEhkDr\vtCmkClbDaiAzgCfyAtgEhhA`tCpc@hlE{FbwDyq@`eDg_ChgFEbyD_aAlaEMvuBwf@`lA~TfvCtpB`jC{kA~lC_tAzwEsHtsDta@vcAmh@nlBex@fy@pdBnvCv_CtxChlAlnAf{AjjCj_CxmBrlCbxB|cD`aCxrCliDgBhzAbe@twBpyClxBz~FjwDx{El|AtvDzb@vlC|i@dnDjcBxvA~fCju@~pC|_EvbCbbApeDjj@|oBuG|b@`rAuGltDaw@~aE_yBfqFs[rhE_a@jNsaA}r@ut@x^m`Ase@{fA~Sm@tY</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>47.5741559</lat>
+    <lng>9.5869173</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJjdPcGbwHm0cRq4W8Z-X1jkM</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

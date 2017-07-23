@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>10041</value>
+    <text>2 hours 47 mins</text>
+   </duration>
+   <distance>
+    <value>292078</value>
+    <text>292 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.0604946</lat>
+    <lng>9.2650339</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>34582 Borken, Germany</end_address>
+  <location>Kontrast Festival</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJpMp@|QLdYuA~P|I`f@hm@hLhLpPBxgA}u@`Uae@hPuIfcAqK~]mX~ZsCriA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{Are@j}Ar|A~uDb^j{AqBt~AkWdiBuBjuAtd@pcHuPhlJwOtyAqi@d_Aqa@xn@a^njBq_@duAcy@rr@miAZse@o@{a@hN}[l]mh@rkAkv@||@wkAtn@qa@bc@iuA`bAsi@bZkvAdZu{@tC{i@~K{y@nt@mj@`~AiPf|CmG`mEx\vfLJ|dFa`@tqDgcA`aEqSdhCwQfy@y\bj@mz@dbA_c@bx@mYpsBbWbsH|LheE_Qx~As@xx@|Sl{B~w@|sHjLv~C_n@`aFqXzoBe[z`Ai\`_A}F|g@fEpeBxNfhC{Zf`HqJl{B}g@dzAgJju@jAnaCCnbBwUfqAqOheB_Q|hCqTfpB~Cr~@dSh{@bY|r@fO~fAwLziBu]vrBbEzhBjPx{AgBluAaJblF}\fgDcGfvBxXfoAzb@f`A`l@`sBiBdfBg~@`qCqkA|lC{k@tnByFrwBzXhnBjp@tlAfl@x^p}@vOzu@pNdZrXbS`m@rDbl@vBp}@lXfz@|U|z@xEhcA_EfqA|Gnx@jZxq@vn@pw@hVpbBoExhBgYr}ChHv}AqEfaB`GrlAjiArvBfg@xjChBdaAoCrqCbYndCjOn`DiOpcDz@f{CtVxnA`M|xAi^fdCg^~|EsKtnDkZt{BR~zAha@z~B~]pbAr\d|@~Nj{@{WjqCsKnsAzLz~@fL`n@gAft@k^~}Ami@hfE~SxwAvZrgC`DrxAiJx|@eTh`Cyp@brAo|@zd@mj@f}@{u@rv@ehA|`Ao]n]}JnYwNVaEyLfCqF`UtNn}@~|@v]v[zq@tUjx@xXtc@vl@ln@xaBzb@rtBrg@|jCgUzwAsg@d~A_OdvArA|kAjNzl@hj@`cBxDvl@qFzi@Ybv@tW|t@~{A`{@z]zZ`T|s@rt@h}Cvm@fr@v`BtpBryB~nDjx@~[f`AwN|YrBlOjMnyA~}CfD~g@_^xc@{Qhq@qFtqA~DnvAxLxd@rJvG`\lXrI|V`TbaAxcBblBpt@jb@jt@jw@zZfNzk@pE|m@np@rcApWh^dR`Tx`@lPj[`]fR~U|\dLxm@bl@vqDle@rlAhLn}@bp@t|BlOrn@p]tf@pc@~Rlg@_Db{Auw@tb@sG~n@nFno@p_@~n@jz@zvAzyD~y@lqBtw@|g@tStI}HhDeIqx@bMowAjLsRpTeB`OaNEyGgQX</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.0575407</lat>
+    <lng>9.2343173</lng>
+   </southwest>
+   <northeast>
+    <lat>51.4902109</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>night_club</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJE3SQp8tgu0cRjo85Hp5R5ig</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

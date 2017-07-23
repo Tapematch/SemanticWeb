@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A72</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>3938</value>
+    <text>1 hour 6 mins</text>
+   </duration>
+   <distance>
+    <value>87275</value>
+    <text>87.3 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.7687264</lat>
+    <lng>12.8904971</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Wasserschloßweg 6, 09123 Chemnitz, Germany</end_address>
+  <location>Wasserschloss Klaffenbach</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJdAX|CRlFBnL`@lDSfM}A|JFvF^`CvAdEdFpJnNnG|F~QzU`EfFfF`E|ElArCC~DeApLuKvPsLd_@qQhHaI`Uae@vEqEtBgAzE{@hP]~Cm@rIcDzEi@|MOxF_@tDgAhOcLtMiKnGoBnRc@dLz@hZdGzO`BfPc@bl@_LdQmChHiDzEqE~I{OxE_IzDeEjFyD~C{A|GeB~FWhEVvFpAnG|ChOlLvFjCzFzA~YpAjQjAt`@|@rQ\hISzGoAjHeDhHcGvHoKhDuHvFmR`]srA|N{d@zOsb@pDcUzI_i@rIih@\cPkAe_@M_TjC_VlF_h@zFoWpMqc@dPcf@pCwFxUaRfU}Q|VwTxgAwbAnXuV|VoYdD_ErDqCzL_D`RaEnJ]~O_@jNi@bKHjHX|HMbBDbAzCrFnDd@kD`EaN|AkBpPkSrF}ExFaD`GqBzIcA|S^`]Hh]gAhSaBrTgDxOaF~LgGdReNtK}KxNeRnQiRjK}Hh\ySlH}H~KuRvEiM|EqTxCsXh@sPEgk@[ovALc`AvBaa@tCuWnIud@tNue@`LaUxOyTxJ}KvMsLbWeOlRgM`NiOhHuLxHsR|Hm[fB_MbCqZjI_iBfAkW~C{]xEsWbJgYlJeQzHgK~IkIxKiGrI{CbR{BxKXbMtBl]fJtU`FtLv@zQk@dDi@hMqDfL_Fj`@aWfO{GfS_ExWeD`E}@lD_AfSqH`UuIpSwB|GDhJlAdOdFvKnGxCvBjQxKjJ`D~KvB|Qf@bPoBrG}@xSiA|Yr@jQjCdNpDrNrEpLfCxKx@vJQrKcBjGsA|K}CdUoIx\aRdXqSxEeEnJsKjNqVlJqXhFkVnCeTtC_i@tBw]dDaUrCcMzH_U`HwMhGoInLwK~KkGfYoLzIoG|F}G|HeOzGgVfCkTl@yRSo]Le]xAuR`FqVbJiT~E{GnIgIrRiM`TwM`KmKfE_HbFiMjEkSlAsM^kMbAm\fC}QjBuHjGeOtGcJ`OeLlLyLdJoRzE}StDod@rCqTfGyStCeGbFkHlLiJ`LqDhU}@bw@gCtJiBhG{ChGsEbOcLrHwFbSeOjLwFpWoKdM_E~DGf[o@rGLx@`@b@zAMjBi@x@mCh@sEsVoF{]yJuo@u@cEn@kA|R_IlHsDjHwGtFyI~D}GnBn@bBuCbDqKjF|C`L|DdNrDzClAhGlFzIfItMrLlFdClN|OvKa]hFaQf@wHyAqHi@kB^u@vE\X{AdCcLzBQzCKfQvEpKxCtEwGdLwKp@_@@aAjBa@dADjD@rAaF~@T</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.7687264</lat>
+    <lng>12.3596278</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.8906120</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJK8JQU-9Ip0cRFDaGuD-Fw1k</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

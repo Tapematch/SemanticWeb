@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>11802</value>
+    <text>3 hours 17 mins</text>
+   </duration>
+   <distance>
+    <value>339872</value>
+    <text>340 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.4735552</lat>
+    <lng>9.3832918</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Mittelgasse 5, 36399 Freiensteinau/Nieder-Moos, Germany</end_address>
+  <location>Kirche Nieder-Moos</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdYuA~P|I`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoFH~@}Gr~Ah{AvvChgD~fCx}ArjC~rBvuCpcCjgAjk@tgCfCbfCp@pr@bIvu@~]vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rY`t@fGnaC_b@|nAyJbtBcRfq@v@`SpbBvPbyD|a@rhBf\tqCmDh{Aqm@vnBeUd_GtCpiDsQ`zEwBzsA`k@ttAjM~q@ub@fmDoO~gDlMh|@`DvlBgiA`bE_i@|cD_{@vbColCdtD{x@tjB{IpbDq^haEaGztC_g@d}K`Fd_Ep[~nDrm@ppBh{@xxA~zAraJz\|jItn@nxHpp@dhFmCvsGrJxtBn\p`Bp|@p~CiKj{Egf@poD}cA`kCy`@fqB^rxEcJnwBs_@v_DzHl|Eo@j_Cix@v|B}Qt_AmCn~A{Ip{C{o@t`CidAfeBc~@nb@_rAcPkm@z@gd@pR_c@hi@q\~cAe}@hbIgdAn`Dke@blAmMztA~LpxExHvjD`k@bcDdC``BcW`uC}@hoDdYlwAqX|sD_h@|dDcDboBlhA~vC~j@jc@vo@f`@dY|y@|ZjY`s@bIp]ld@ps@rlBhQvwAsSz`ALps@lY~}A`GhnApk@rnBpQ`xAtMljBly@ncAba@v{@nb@tSpXxx@xw@~}Bx^f_@~b@vqAbi@vuAz[jkCrU|hCh\|cAtd@pk@fh@rJjY~cApWjh@tBp`AnJnu@kGxfAvPd{@`BpbBlIrpBv^~kCcA|wBuLzl@|G`cA~V~q@pO`}@pG|{AHdtAbHrd@xPhP`|@n^f^~XdMlh@cApi@hO`m@`r@|`AdX~KbUiL`i@{bAj`@qKtZcg@pZ}aBzRsnAfUiTf`@_GhZ_\~S}bAjmAcgDjmAokAb{A}m@jcA{mBp{@cdAzaAeRdg@~Dlz@rZr_AfG|dBme@xr@fNpr@jZvyAue@nuAlHzj@}a@dgA{cCh}AunBpdA_a@ldCgCvkAip@ljAu@dgAvv@vr@llA|LfVmDt^`DtyAtVxeB`v@nyA|w@raCxu@dwBhu@hf@x_@~x@sFhD_IwEqQlRc^blAbLhf@nNnq@aIdl@ub@vkDqq@bkDtTtxCA||A`V~aChZ`_Ak[raBaKr|@~Fh`@yS`i@jKrUbMlV`ExXeE|^_n@fi@iYsC}SnK</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.4440969</lat>
+    <lng>9.3832918</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJOf7lwS7OvEcREwCm2SutiWE</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

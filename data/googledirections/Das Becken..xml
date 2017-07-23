@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4 and A5</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>16732</value>
+    <text>4 hours 39 mins</text>
+   </duration>
+   <distance>
+    <value>502677</value>
+    <text>503 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.3321845</lat>
+    <lng>8.1346019</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Diedesfelder Weg 88, 67434 Neustad, Germany</end_address>
+  <location>Das Becken</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAt`@nLdk@fG`f@hm@z]lLdoBufBfcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cDbvAviGjyAxmAfo@riBf_@rY`t@fGnaC_b@|nAyJjfDkP`SpbBts@vbHf\tqCmDh{Aqm@vnBeUd_GtCpiDsQ`zEwBzsA`k@ttAjM~q@ub@fmDaAheF`DvlBgsB~fJ_{@vbColCdtD{x@tjB{IpbDsf@dwI_g@d}Krb@doJ|iBjjE~zAraJz\|jItn@nxHpp@dhFmCvsGbh@jvEp|@p~CiKj{Egf@poD}cA`kCy`@fqBcIbqIs_@v_DzHl|Eo@j_Cix@v|BkVd_D{Ip{C{o@t`CidAfeBc~@nb@_rAcPsrAlTq`AhnBe}@hbIgdAn`Dys@~aD~LpxExHvjD`k@bcD}RbvF}@hoDdYlwAqX|sDcm@`uGlhA~vCv{ArdAbu@htA`s@bIp]ld@ps@rlBhQvwAeSluBna@hmDb~@tgEtMljBly@ncAba@v{@nb@tSpXxx@xw@~}BxbA~qBbi@vuAz[jkCrU|hC~aAnpBfh@rJjY~cAf[|iBbBh}BxSv~Cdi@r}FyNxeD|_@`vBbX~yCHdtA|Y|u@`|@n^ll@lbAdMrwAvn@|lAtAj{Bh]dxAzcAdiDdKtx@aDppBd}Ar}H|{A|uDdi@~bEkM~dChY|bA|l@pm@`_@fpDv|@jeFlnAfwDr_@x~@Wh}@{PltG{KhgIdn@noBrj@|_B~r@nq@rsAl|@jmBffA~q@hn@l|@pgBxb@jlG`lBvtJ~x@lbDnAzuCjDbqA`q@p_ApeDxeBfdEn_C~eChlCphB`~AjzDtdBt{BplAnq@|dBp{@pZhgCuVbbGmk@|hB`~@`eArN|pAgOzvBza@|~BpkBfeCnl@vwCjPhlET|{A~jB|vAltCp{DvrBxqArl@dxAha@xwDubCds@ac@f~AfGljFttB`tB`Yt_Euk@lmJcrAfiHj_AtoFho@zsDt|AnnGhkErn@rTx~BxB`uBhBvlA{Ox`G__Av|CtTnaJys@|rD|NdYp_ArQhfTvl@lmFww@nxCfHn_JcFpv@vVqR`aBsExrCvYbrHiQb|B{l@fi@vmA|aDxcDddBffAjdAtaCzX~kDfk@plB~bAhr@bpAl[|jBt`ADlo@[h`Co@nnAkKhc@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.3298153</lat>
+    <lng>8.1346019</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJo1QZxK9IlkcRoZ1P-73Zddc</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

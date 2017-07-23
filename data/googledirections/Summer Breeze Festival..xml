@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>12537</value>
+    <text>3 hours 29 mins</text>
+   </duration>
+   <distance>
+    <value>361268</value>
+    <text>361 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.0643756</lat>
+    <lng>10.3999185</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Flugplatzstraße 1, 91550 Dinkelsbühl, Germany</end_address>
+  <location>Summer Breeze Festival</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rY`t@fGnaC_b@|nAyJpqEqc@t|A{c@vmBcdAxx@cdAj~@_l@|~@wcAb_CwEfz@z[dw@jbAbq@zFdlAzoAxcBnwA`a@zTlj@_Bn}@o\t`@lFjvBbbBfjCr`BxfBhwAp`Ari@`pBpg@z|B`Yd_C`eAj^`Plb@g@doAqzAzt@}UzTs]|}@}i@h`Ap_@ds@tI|~@n[bn@`@hj@u_An_@yHvbA`U`o@cKjsAx\|hA}Vzz@hSfv@~l@p{A~_B`c@~[rRtr@~r@_IjXyz@jdAg}Ara@mK|mAfbAhe@oFvj@{^dpA}B~yCkwAzjCy|@nx@zTfaDnfB`_A`kAhi@fR|iBs_@`wA~g@zrApeAnyBnqBdrAcRxbAxXpvAzSzf@`[z_@lx@lfAbdCfhAh_AdhBxsEhr@`gExx@rgA`bAbEfuA`j@t|@d]tz@hJtlAye@xo@dV`iFhFtlBmAh_BxU`{ByPj}B`n@d_@jp@jDhjBxKhhCtc@px@d[||B~q@|Qnv@`J`g@pm@dbA|g@daAzRxk@bMb`AgSvp@lk@f[kC~Ukb@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@ht@dfAtQzsArdBbaBdfAvwAjh@`eCn\p`Bxx@rr@vm@toAzdAb]pxBdqBhuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIvYzl@tN|mBxNtdBh_@d`AndC~yD|{@|fAxc@|rAjyArfEzeA~yAto@`eBfTj|AkAv`D~XjqCrQfyEyr@v_Dw\tuExLvoD~i@fvC|JbtHtdAzoDjwA`tBpfAjyBds@diDdk@z`DzQreDwu@b{EhXw[|PoH~ItOtY{@lh@wRxiAvGdfAv^f`@aEf_@zLlRoIp_@gEhg@rYrr@bl@~~@n@jp@xFdS`QbA@hs@oApyAgTfoAiRe@laA~qAtjArf@lOx[fm@naAxY~V}Dz@pl@rc@neD|IrhAnJjW|h@|Tl`@D|QzUbOr{@zKlmGuBvcD{HpoAkDvRoGyH{Jwl@sFeD</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.0568742</lat>
+    <lng>10.3902017</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJgVpJBUzDmEcRjzzn_SGAYKI</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

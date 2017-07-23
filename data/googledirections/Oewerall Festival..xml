@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9, A10 and A11</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>10899</value>
+    <text>3 hours 2 mins</text>
+   </duration>
+   <distance>
+    <value>328305</value>
+    <text>328 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>53.2792208</lat>
+    <lng>14.1340009</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Dorfstraße 35, 17328 Penkun, Germany</end_address>
+  <location>Oewerall Festival</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAcBnI}EtGgMeDgByb@gR_@oHiD}HqToO{f@~F{MmBwMcf@_f@oW_Geh@hLwLjJwEbO_VjJuc@rQ{d@aLgVeP}o@rWw_@nDoLcRlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFiKnq@{PrNy|Aqp@qoA{j@cs@gDq~AlZeeA`r@sz@jR_|@lOwuBnImpBzg@o_AzPahBgWezAxa@_i@tMgVk@soAe_@maD{`AiiCe]{gKgiAqaAgNez@a_@cqAk~@eb@u^ghAgbCgc@cu@_p@m`@kuAmgAupAquBsfBicBqx@cb@ip@}m@_}@geCmhAcvDwk@es@{|@gt@yo@ei@co@_x@kcA{aCwViVclEwyAk[yRuScYid@gmAi[khAwYidBus@mxC}Pgj@ccAwgBgpAieB}b@ohA_t@atBiXa[gRkk@{Nap@u[a^gV_`@ea@{kAq`@mi@_|@qg@}`A{l@os@uu@smAssByh@ahAqiAqtBif@i{Ag[}s@mf@im@{jD{cEm]yf@y]m|A}q@uaEm{AmiCgg@ciC}h@sv@cz@u~@qeA}jAae@qc@yc@kLym@lKg`Abe@aSrHch@j@swAy\ys@oVo\vNcZnw@m~An_Eg]`|@_g@dmB{g@hiCsN|\sQpO}uAdHidBC{wAeIqq@ah@{^ok@}Og{@em@{tDoXyw@uNuxAmaAuiD_Ssk@iQgLgj@eBwf@gAse@oM_cC}y@{{@esA_m@mo@abAvCm_A|Ias@rB}aAc`@ehAaCgbAdQax@uGgiBum@gv@}C}h@zF{q@dK_eA{FodAcf@y`Amh@sqAqy@w^qY_y@i`@_xHiu@uQkLcJ_^nb@smFxEaqBkGmzAcJgdDtImtGMywBRw|@zNg}BvUe_D@itAgBc`D`R{gCza@etBfo@eeDjTsrFnMgw@rXyr@j}@ez@~yAydApd@ym@bh@sjAvg@ugCvQgwBri@}lCzNubAvSu`EaA}]eSgz@cSe[}w@gJocCiTysAyEguAfa@opDhzAi_Bro@qgA|G}eBaMee@uK{XyP}dA}|A{m@egA}_B_wC{iA}xC_cAi~BguA}~Aih@mYkuAe`@}iA}bAo~AivBs{@g_BwxEi~Jcj@{}@gg@gi@wfBocBwj@wZsfAqZaxBa[auBiYq|Coi@_pFclA{zDucAqv@wk@}aAasAo}B{}B{u@i_@a~@ofA}x@qu@g`BwhAyvB}uB}wBw{Dy}C}qFgeCqoEahBcwG{TomBhT_e@zL{]tSsRtWeO`JfA</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>12.1832363</lng>
+   </southwest>
+   <northeast>
+    <lat>53.2938763</lat>
+    <lng>14.1343607</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <partial_match>true</partial_match>
+  <place_id>ChIJ8x108lweqkcRf-mgsITeh0c</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

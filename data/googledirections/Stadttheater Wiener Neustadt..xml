@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>D1/E65</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>23904</value>
+    <text>6 hours 38 mins</text>
+   </duration>
+   <distance>
+    <value>643162</value>
+    <text>643 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>47.8126873</lat>
+    <lng>16.2408827</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Herzog Leopold-Straße 17, 2700 Wiener Neustadt, Austria</end_address>
+  <location>Stadttheater Wiener Neustadt</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAxrCnpAdoBufBf~Bsi@frCwIri@}`@gBojDkhAehCie@ygGkvBczBm}BgaHa_@geAhb@{yFbzBuoGhqBmkGry@u~GkJygGna@sdItrDqoNtsAwuG`aB{mDhqCq_K|bAg`Kr|@kyEryAcoBtgDwzCvaA}}DdeBcsLrrDuoO{Z}mC|BujGoWoh\aBykCx{@cFjzAmr@`LstF`f@o{BlmAsjCzr@ifEtzDktL|dAinHltBylD~oCkpBnzCoNrxAtuAndBjp@~uAy]`oFa`AvvBbXt|AyzAlm@ciGxm@_sCthAkkAlz@wrDns@eZbzAvi@z}@`fCla@|bC|tCjVhzD_zDhy@{n@fuA`FlmBr`DhiAxHxyAanBjZipCvsAqzAzrDneCd`BqPjbAovBbdC}dIfqFekGnmAecFjUqrChqB_jExaDi_CnwEwzF~hCsxAjiCcwDhvBgaExoF_cDvzAyv@lcB}yC`hBooDxbCyhAzwAq~@v{AebD~uBsuAls@qXz|BekEj_BhBfsCqf@zgAvuEjOf}Bfv@v`@~[qcAzq@iH|jCgpF|cBexH|zG_`K|vC{dJ`{BceEv~Bo~CdeB_kAzgAgzCl|Asl@jrAolJnpDkuGltA_xCblA{v@h|B}|Djr@gwEqRecCtm@s~@dyDetCpsAqxEt~AgaBvx@u_A|vDqt@xgForBliAmlI|Hy_F~}BguEbdBitGxq@e`BxrBos@t}@irFxs@iaIbPm~E|tAieBd~@m~Dt{AmeJh}By_EbyBq|H~kAqsGl`AkjEpWw`I`fAguT~aFwhXzuHa{QxeA_xH~{B{yGrq@w}IriAwpHh]uyE|gCqnE`yB{pExjBi~A~fC}aObxA{pOr`Fuj@brBp@dqAhbApkAvkDniCpvB|oIkSxaDrrAbfB`aBpxCoqAtk@{SjuAkkDhtAa`Cr{B_dBbkEkv@|bEgkAvjBaq@hfG{hBdtBq~@|vDfXtuEl|CnmEex@zx@u_Abv@dJhpC}FxzAod@j~AnwAbw@jd@n_A`DfjE`w@~{C~aDhnAxfD~qBrdBjcA|G~_A_XdkA|g@zuB~lAfsA|kCnqBzzChaDdo@np@kmA~bBq`CfjDbh@zhCiGlmAtbAw@raCt~Ali@rdEbzCrqAv{@zwAn`CvaChoBj_B`qC~c@|o@vH`xCd{DhuBpfBzUbcCstAv}Fsk@fhCxuAvzBhyDzqCrkHr`BdyChqCvuAl~Ivn@||DbeCtsBaG~zBkmAbh@{c@_S}jCsWkmBgCtC</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>47.8048723</lat>
+    <lng>12.3600035</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>16.6574873</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJjz1uwZHLbUcRgDp6BkW2Muo</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

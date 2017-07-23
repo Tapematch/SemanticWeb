@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A6</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>15722</value>
+    <text>4 hours 22 mins</text>
+   </duration>
+   <distance>
+    <value>473578</value>
+    <text>474 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>48.8008688</lat>
+    <lng>9.0898706</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Froschweg 31, 70499 Stuttgart, Germany</end_address>
+  <location>BAYE FALL FESTIVAL 04. - . August 2017 Stuttgart</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@riA~JrgAwUd[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBf_@rY`t@fGnaC_b@|nAyJfoHmhAvmBcdAxx@cdAh~BwpBb_CwEfz@z[dw@jbAbq@zF~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrAz|B`Yd_C`eAxaAxNdoAqzAtiCo_BntBfj@`nBp\hj@u_An_@yHvbA`U`o@cKjsAx\|hA}Vzz@hSfv@~l@p{A~_Btv@toA~r@_IjXyz@jdAg}Ara@mK|mAfbA`qAkf@dpA}B~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@|jDpnBnyBnqBdrAcRxbAxXpvAzSvgAntAlfAbdCfhAh_AdhBxsEhr@`gExx@rgA`bAbEfuA`j@jxBnh@tlAye@xo@dV`iFhFtlBmAh_BxU`{ByPj}B`n@d_@jp@jDhjBxKhhCtc@px@d[||B~q@|Qnv@`J`g@pm@dbA|g@daAzRxk@bMb`AgSvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@ht@dfAtQzsArdBbaBdfAvwAjh@`eCn\p`Bxx@rr@vm@toAzdAb]pxBdqBhuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIvYzl@tN|mBbo@zeDndC~yDv`BzzCjyArfEpvB``EzQb~Frk@rkJyr@v_Dw\tuExLvoD~i@fvC|JbtHtdAzoDjwA`tBpfAjyBds@diDdk@z`DzQreDwr@hpHgf@`eHxw@xqEnc@f|Bc^tlEhHjsDzx@ntDdLbxD~u@fgFve@`wEdi@bsBbiAfnAr_@d_BkMzvA{TbuEsNtsAnO~`Cj_C|bHdYlbIlv@~pDuLnxPxDliHxLzaHyDxzFge@xqDkw@~rGkxAbmIwq@zuI}^vgHfb@hzH`ZrtDf_BzeL~vAplApf@`rDfq@nt@dQ|bAiE`wEx]lkCT`[zs@kV`v@yQ|i@xUdmAtJvtAqHleCzhAp{Ch~Btv@jMnkAx}@dgCx`AriAly@dbBxc@zoBrVbdBlcBxnC`uDzf@nuBty@nv@nuApC|kB~u@`rEbyC`rBbiEr{@dfA`WgtBbPrQ`_@rg@l]nBna@oW@m@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>48.8008688</lat>
+    <lng>9.0769960</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJw_PgutXbmUcRoSE0u_rW1nE</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

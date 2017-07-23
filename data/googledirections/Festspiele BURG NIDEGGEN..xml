@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38 and A44</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>19179</value>
+    <text>5 hours 20 mins</text>
+   </duration>
+   <distance>
+    <value>543303</value>
+    <text>543 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.6891072</lat>
+    <lng>6.4787040</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Kirchgasse 10, 52385 Nideggen, Germany</end_address>
+  <location>Festspiele BURG NIDEGGEN</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuPhlJ}{BduHq_@duAcy@rr@}rCtMw|B~gDsdEzuCu}D~y@wdBnaAmj@`~AiPf|CjTxtRJ|dFa`@tqDywAfjI_oCt`FmYpsBbWbsHaCbeHhkAdjNjLv~C_n@`aF_zAvzG`UxnF{Zf`HqJl{B}g@dzAw^rmJqa@foFqTfpBdX|zBji@|zBwLziBqWr|EbMfrDaJblFae@n~GviBpdGiBdfBg~@`qCmxBr|F`Q|fFjp@tlAxjBpo@`qAdh@vXdzA|y@`yF|AvjCbjAjjBxOjlE}Oj|Fn@znDjiArvBpj@~lEoCrqCni@~eHmMx_Ivd@vhDi^fdCg^~|Ekf@jgK|mB~{H{WjqCf@jsC~IhcBk^~}Ami@hfEvo@l`FmZvwGyp@brAo|@zd@iaBztBsrB|yByTaLhYbGboClpB`}ApfAhrAlwErg@|jCgUzwAsw@juD~PxyBhj@`cBw@rwAzV`lB~{A`{@|r@xoAjcBppEj{Et`Hjx@~[f`AwNjj@~Pp{A|`Dx`AheBba@|EvQduCkTldFmhAbmGm\xvDoj@xfBk~AdmGgc@dxBoiAloB_lAx]inAgL_vAnTu_BrNqi@hqB_OflD}cA|tB}c@vdCgk@l|B{fA~dAwkBjd@yzAvgCy{BpcD_hAblLwqCpbOqkB`}EusA~uF{ZrlGcqA|fFs|@poHsxBr|Eoc@roFsAxpHch@~jEmBnxL|hAp``@nSphNhkAnsLtyA`wEpd@tqEd[foCaIbxF~JnoFbu@rxIm@tgIjRv`Lu@xfExa@bvCzI`}F_AvfHbe@fiEmMdfDwC~BvxBhaA~bC~rDdq@r}A~cBtkFl`AjiDraB|f@|hBruCh|BbiKblBd~AllBd~GdzA`rFxuBbxE`j@ncDdwA~}BvtB`h@zbAkMzi@dj@taBraD~jCeY~eBifCvbAfPvfAblA`sB}F`z@d`@t}@deBxTpbAr`AfqAlhA`t@zl@znCxv@|zAxl@h]pzAdd@|pAbqAz`BtyIxaBtrHnj@tqFlhAjbEpfD~rHdv@tfDzhAd{BztBfEbsBpFpmBn`@jqAeRzaAlh@nc@vuAflAjmC~kBmFf{AdH~|ChpB|vBio@bt@fcA~g@lh@nFd`AwDnaAtbBbkClk@hB~c@xm@yFzqAmSniAjOhgFfkBfvEjdBfiDxtAfgEpoAd|Fbl@fbGpg@zl@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.6891072</lat>
+    <lng>6.4787040</lng>
+   </southwest>
+   <northeast>
+    <lat>51.5971698</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJMZnmTUhuv0cRJ1z3Ye20Mvc</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

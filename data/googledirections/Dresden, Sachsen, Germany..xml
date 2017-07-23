@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>5021</value>
+    <text>1 hour 24 mins</text>
+   </duration>
+   <distance>
+    <value>122337</value>
+    <text>122 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.0504752</lat>
+    <lng>13.7372741</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Dresden, Germany</end_address>
+  <location>Dresden, Sachsen, Germany</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJbFl@lFBnL`@lDSfM}A|JFvF^`CvAdEdFpJnNnG|F~QzUhLhL|ElArIiApLuKvPsLd_@qQhHaI`Uae@vEqEpIcChUkArIcDxTy@nLgB~]mXnGoBnRc@dLz@hZdGzO`BfPc@bl@_LdQmChHiDlMcO~HqNrIoI~GoCdAtAC|CoBbDaBa@c@kH~@ip@Pkq@Nea@cAeZ{Gaf@qEqOkIuRyVw[mGmHiNuVgG{QgGu\_Ck_@?iWtAoZrAwe@}@sZkFm`@yLg_@qQcXqQ_Nmx@af@eH{H{DcHwH}WcNmmA{Gg_@_O_i@iLuYyWgg@io@seAgJuJkGiKwHcQwAaI@aQbDi{@~GgbA|IylAfIol@pI{_@tHaWhe@kgAda@u_AxOsf@pLaf@v[ezAxKke@lKs[`M_XbX}e@bLwX~FqSvTwqAnYevAvGko@|@oa@I{a@_C{mA}Agu@{BkfAQi{@tBg\jFe[rMcb@zKu_@|Eqa@l@yXg@_WyH_~@y@oVLo\jBm[`DcVpFuVbMoa@j\kaApVo`AfXkwAtMgl@zFiRbWao@tW}t@vKye@bHee@tJgz@nKsp@tI{^bN{b@xKcXp_@sp@`\qh@tS_f@vNuk@fd@y`DrLku@lJ{^dPya@bUq`@hUk^jUwc@lL}_@~I}i@rCkc@Z_[sAux@Cye@|@gVjG_l@lHu\~Sqq@fFiRxK_j@|N}nAtKsk@|Ko^rMwYnOaVv_@y`@vYo[vf@sz@vLcMvHoFzQaJhb@sOxVcNpOoOzIeNlNm_@nGm[nNi_AlJw_@zN_`@|Rsb@fM}]bIs^pGih@dKonBtIskAlYokBjNgeBdFqXxPsc@`NwY|IiXxJe`@|Ju[|MeYze@_t@hMs[`He^fCqe@h@yTvE}q@dCgVGmRuEiOqI}GyFeHeDcNw@kLDid@n@ub@_@mTiJqjAiBui@zAo]xGs_@jEe\p@kOs@}d@iHwe@uCwU_AcWdBw_AtCuqAKwcAcDubAyCal@Uo_@vBeq@Mkn@mDuqDeB{~C}@i`AoCcyAcLq~@iXijBmIqu@gCiq@DqTlA_AlAlAIpCuAt@eGuAwCqDg@qOrDiZv@aUcCcZjDsJrKuK~LcKtIiJvFgDpMeSzBsHYgQo@}ItBoTdCaWa@ua@{A{bA@qQg@}@kEcAAeUhB}OrDeJxG{LxFmNyF_Gi@gDx@mDlFyH~GuCxIaKmAwG^wAbGsNbDuRn@cd@zF~AvAxAH~AxCbExCrBbAk@Zj@oAjSyAlS</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.0496349</lat>
+    <lng>12.3596278</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>13.7467697</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJqdYaECnPCUcRsP6IQsuxIQQ</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

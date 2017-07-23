@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>B87</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>8021</value>
+    <text>2 hours 14 mins</text>
+   </duration>
+   <distance>
+    <value>136601</value>
+    <text>137 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.9422157</lat>
+    <lng>13.8975536</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Am Markt 1, 15907 Lübben (Spreewald), Germany</end_address>
+  <location>Paul-Gerhard-Kirche</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFKrBmBKoBbBmBpDsBdBsIkGuAyD@cHS{SU}L|Fi[qDcC}HsOaEiS^eL{@SqBhAoAVkHiLuLcByLoL`IeZtFkNdA_R`Beq@o@gMwEgKc@}GyByTw@_G~@}GoSgm@i^_bAo_@mfAe^guAqj@auBgM{WwBiFsDn@mDkAwIqQcOoX_PgWqBq^_EkZsc@my@eM}T}OkOeXyVmd@oaA}KcFuRcWsIgM}Qw`@kF_VkBoQZcMgEaNeHiDuJuAmKkCyLkVmGuWeBse@cBwfAqEqc@yMk[wUoUqU_k@{Ic_@s\_eB}Ogi@gSym@wEs^eIoTqFsKyFgWuJoVye@sfBiGqkA}A}W}CyPiFaa@}HgWm^go@eSqVqVmUoIwUsYcg@oVik@gIsFyCyEiI_j@cCmc@[ie@gRmyAoLebAaB_a@b@{l@dI}a@aAcLoGqEuAqEkM}k@qo@etCme@qkB{AoSr@ci@IoOeKod@wQi\kDuFwDwNqNicAeWieBwAid@_F}\yCiIeGgSiD{J}XcnB_\s_AaByGXaGiDy^gPwoAyEa_@mAeIeEcO_@{I`IeJlHwFLk@eDmIaGoY\gIaEkJuM}o@_FwI_eAsu@eVqVcGmKwK}a@_K_KeC_LxBk`@bBop@cBgO}p@glCoEmaAoAakAeJqfAiEuL_Zid@gh@gw@kb@uf@mWqZmEuKkDqFwQJcMaAgGoEwfBguCm_AazAoRiYom@y\ai@_Vk_As_@qD}A}GC{E}AeBgDsBwD}Zu_AoNqBmH{OaNgj@wHqZ{Gw_@Lgy@gDqL]_@wJoPs_@ki@}m@kz@of@yzAac@wxA{Kic@iNe}@oLme@{Lm_@oAqPNq\oCsQ{FmRiAaPlCmt@zKgj@tIat@`l@sdA~C_QPuJoEue@l@{aAsFwy@_Ied@sWom@sm@_t@_M}`@qTs_@qSmZ{e@iw@{d@ys@oNsWwPge@sEwEiR}GqSqIuNkPaZ_h@mb@waAsv@ukByOag@{K{tA_N_a@ah@{sAoM_^sVocAwNcr@wMi`AmBgjA}AoSsGsD}HmKui@yuB_Lmf@}CcW{Mms@c}@yxEeC_K_HgMeb@sSsQyHie@qTiLyPoFgTsPuhAmBmX^}VfNgw@jCgf@iEur@aQcw@aKo^a^ck@onAqwCg{@ssBgGyNOaQaK_j@oJ}d@yEwm@qTwyCaEq[wHkSuiAa`Acd@q_@oLoOcf@wl@}NsQeF[kC{CUyEAsHA{@o@uKSuHmBoCmA_EEmBEsB}B`AiCl@a@p@GdJA~A</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>12.3694604</lng>
+   </southwest>
+   <northeast>
+    <lat>51.9422157</lat>
+    <lng>13.9006308</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>church</type>
+  <type>establishment</type>
+  <type>place_of_worship</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJAXSrERP_B0cRulRxR5RA9Ew</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

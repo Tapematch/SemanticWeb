@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A71</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>9853</value>
+    <text>2 hours 44 mins</text>
+   </duration>
+   <distance>
+    <value>277101</value>
+    <text>277 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.2658686</lat>
+    <lng>10.0779623</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Kurhausstraße 2, 97708 Bad Bocklet, Germany</end_address>
+  <location>Kursaal Bad</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJpMp@|QLdYuA~P|I`f@hm@hLhLpPBxgA}u@`Uae@hPuIfcAqK~]mX~ZsCriA~JrgAwUd[}\lHlc@nE~lCe@h}EkWzlBmw@j}B{Px`BdHl{Are@j}Ar|A~uDb^j{AqBt~AkWdiBuBjuAvTjlC|NdvCuQlcHoFH~@}Gr~Ah{AvvChgD~fCx}ArjC~rBvuCpcCd_@nYdg@zPtgCfCbfCp@pr@bIvu@~]vnAtl@bj@zBvb@tKnwE~cCji@~^|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rYjWnKt[gCbeAiQj{@uO|nAyJbtBcRfq@v@`SpbBvPbyD|a@rhBf\tqCmDh{Aqm@vnBeUd_G}DxvArIvqARlrAgRrfCwBzsA`k@ttAjM~q@ub@fmDoO~gDlMh|@nHzt@mCzv@giA`bE_i@|cD_{@vbCy|@|qAunAfaB{x@tjB_K`|@b@neBuHfyA{T`gBaGztCgXdgEwM~tE`Fd_Ep[~nDrm@ppBh{@xxAvVh~@jGj}@zz@|cFlRt`DlIfiDbPzcDp]rsCrh@vuDwDrJ_D}FnKgq@tHeiAnR{g@phAodAliAeaAt{@uo@vv@cTl_AdB|pC`_Atd@bFb_AcJbtAkXxqA~Erx@_Ej`@Mfe@r[|d@|v@t]hR|oA~x@fi@fs@hb@rcApKz{AwRr{AQnaBlPjtBqBro@}Nrr@_u@`lBwPh_A`ExiAl`@vxAnKl~@nUzmExThgAvaBxdF|mA|bCpQbo@rWvaA`TzVpUxFzt@oCjp@aEbt@|@n]bz@j|@ztA`d@fh@vYnNjk@d_@zMn_A{LndAyLhpAqA|t@_Mfv@_ExkAbEhgBn[dgAhRb~Adc@zo@lXl~@h@x`C~Nxx@jb@lf@bd@lUtr@ve@pi@hD|v@f`@tUvDfd@eU~YkJd_@xKr\vIf_@eGfW`F|Ul[fM|s@pWxn@r}@hz@tj@lStc@vElg@}DjpAe{@lo@yKta@fCzeAhh@tv@jm@d\td@fZpy@~Qz~AlC|eD`c@x_EnUbu@re@x{@r~AxyAzl@dX|\dFbk@W`n@sMxtAkLhdArVna@vc@|_@j|@`Q|Wxa@xXvu@nI~xBbkAdu@vhAh~@ld@lV~WvUfp@b`@lwBp^rm@^|NoWph@uO`RiFz[`Gzf@mRbR`C`w@~s@f@l_@hDfE|C}DfGwBdYmE|j@kJ|m@sEld@yGnJlN}@pHqGbLdCxX_MhUwI_LprAiBnhCoWrxA_Cry@iG~[uTbx@ySfPaFfSmAvN</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.2490512</lat>
+    <lng>10.0779623</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>health</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJK4SPhw0do0cRhLoxhQoU2JE</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

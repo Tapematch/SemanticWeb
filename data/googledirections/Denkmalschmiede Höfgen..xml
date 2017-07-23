@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38 and A14</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>2204</value>
+    <text>37 mins</text>
+   </duration>
+   <distance>
+    <value>45959</value>
+    <text>46.0 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.2193280</lat>
+    <lng>12.7640519</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Teichstraße 12, 04668 Grimma, Germany</end_address>
+  <location>Denkmalschmiede Höfgen</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFOfCERjAD|CRnAL|CIjEDbFZjA@`BUfM}AbCOxFVvF^`CvAzArAhBpCpJnNlA`B`EzCjGfIrIrK`EfFrBnBrBpAnAf@lCd@rCC~@M~Bw@~B_BpHuHnFmEfIeF|P_IrJsErA}@z@o@jCqC`B_C~AmC|B_FfGaN~AmDzBcEzAgBzBiBtBgAjCo@nAKhP]~Cm@lCiAdEyAbBYvBO|MOxF_@tDgAjCwA|JkIvGsF|DuCrB}@zCq@|Gc@pI?nCLtGl@vDl@pTvEnHfAjFX~HCfF_@jFw@pH{AnFoAtS{DlL_BvCm@xCgAnCaBvBgBbBiBjDiFdAgAzAsCjBuDvBgDxCmDfAcApB}AzD{BbAU^@h@^Zt@J~@O|AaAvBm@j@u@@k@c@[gAGo@?sD@{ADcIv@ic@BgFOoD\sd@Nea@WmMk@wKsBwR{B_Nk@iCcA}DmCsI{CeIoDoH{ByDkDeF{EwFuF_GeBiBgDcEqC}D_C}DwEyJuBuFqCeJuCuMqB_NoAeNo@ePIiJH_L`@aLr@mMfAgUJoOSyMi@yKwAuNsCwPcE{OsByFaCqFmGeLeEuF}BgCgGsFiIkFg]gSqTkMsDmC}DyDgBaC{DcH_CcGcAgDsBqJy@}FqBeScDs[sCuTqCyPiCmMaEsPqBkHkE_NuEeMsEoK{KwT}JoQu`@}p@qFgJaFmHaCkCyAuAcBwAg@{@g@i@}@iAeDuGwHcQ_AaEW_CI{EJeJjAq`@vAwY~GgbAxFqx@bBgShCaU|DmVdDiPjDqNtHaW|FwO|G}OlTue@tPc_@tHoQxEaMhIiVnEiObD{LlGeXrK_g@bOer@lEeSjEeQ~EcPlDoJfDaIxG}MpP{YpFaKjGoNvCgI~AaF~CoLlDqPbDyRdJkl@jEeVfGkZhFyTpCyM~A_KtAoLv@oJh@kJd@eNLeGRsBb@sGx@mEnDqJb@y@LWbArA`BxB\h@J^?B?HDPNFFCf@\`EzFdAxAlAjABTPPRODS|@a@tFoDhOcHpIyDxCkCdCsBt@E`Bn@hA`AxA|B~@z@jAZ~FB`EC`@@C{CLoDLwBLkHLwMLiA~@\t@Ht@EpBQv@Gh@DnA~An@Xl@Mn@w@`A{Ch@qAdAu@lAi@`DiClEeAnB_@~DS|@e@fBaCfAiDt@uCzBsJ~@gP~@mHvAwHhBcJp@aIj@}OB_DpAs@hI}FlAeA`CwDv@gBr@gDj@wAdCeDtFiJpFkK~AkDh@c@n@KfASPf@XxAL~@L~CTfA</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2193280</lat>
+    <lng>12.3596278</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.7661764</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>restaurant</type>
+  <place_id>ChIJG1G0G8i-cUERF1dxgZroKhE</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

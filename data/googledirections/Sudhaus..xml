@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A6</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>17460</value>
+    <text>4 hours 51 mins</text>
+   </duration>
+   <distance>
+    <value>524642</value>
+    <text>525 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>48.4995740</lat>
+    <lng>9.0638629</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Hechinger Str. 203, 72072 Tübingen, Germany</end_address>
+  <location>Sudhaus</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHbyAtrAvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@foHmhApgDgiCh~BwpBb_CwEfz@z[dw@jbAbq@zF~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrAz|B`Yd_C`eAxaAxNdoAqzAtiCo_BntBfj@`nBp\xjAoiAxrB|HjsAx\|hA}VbrBhaAp{A~_Btv@toA~r@_IjXyz@jdAg}Ara@mK|mAfbA`qAkf@dpA}B~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@|jDpnBnyBnqBdrAcRxbAxXpvAzSvgAntAtoCldEdhBxsEhr@`gExx@rgA`bAbErnEpsAtlAye@xo@dV`iFhFtlBmAh_BxU`{ByPj}B`n@pd@t{CxKhhCtc@px@d[||B~q@|Qp~Arx@jdCx{@|lBcEvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@~fA`{CrdBbaBdfAvwAjh@`eCn\p`Bxx@rr@vm@toAzdAb]pxBdqBhuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIvYzl@tN|mBbo@zeDffFzuIjyArfEpvB``EzQb~Frk@rkJyr@v_Dw\tuExw@~fI|JbtHtdAzoDjwA`tBvzBpcH`~@ngI_zAjvQh|A`oIc^tlEhHjsDzx@ntDdLbxD~u@fgFve@`wEdi@bsBbiAfnAr_@d_BkMzvA{TbuEZtuEj_C|bHdYlbIlv@~pDuLnxPxDliHxLzaHyDxzFge@xqDkw@~rGkxAbmIwq@zuI}^vgHh}@|oNf_BzeL~vAplApf@`rDlcAlxBiE`wEx]lkCT`[zs@kV`v@yQ|i@xUdmAtJvtAqHleCzhAp{Ch~BdcCdlAdgCx`AriAly@dbBxc@zoBrVbdBlcBxnC`uDzf@nuBty@nv@lbEpz@`rEbyC`rBbiEbqB`uCd|@hyCbiB`kC`b@bWrVk\~lAaqAfrDcp@``Cc}G~`@izBlH_cEfTqoD~^kJdrAanAt_B{}@ne@umAtj@arDlpAcKnlAn`@ziB`b@ngArmCfhArhDfcCmd@bzAbV`n@|h@|yArrE{@v|AzrAbrCng@zm@~^jeC`Rnc@hp@oS^uF</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>48.4995740</lat>
+    <lng>9.0134212</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ_yL0vOv6mUcR-YMPLBphP1U</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

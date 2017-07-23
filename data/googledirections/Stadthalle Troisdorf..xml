@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>17000</value>
+    <text>4 hours 43 mins</text>
+   </duration>
+   <distance>
+    <value>489309</value>
+    <text>489 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.8179805</lat>
+    <lng>7.1474717</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Kölner Str. 167, 53840 Troisdorf, Germany</end_address>
+  <location>Stadthalle Troisdorf</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@jfDkP`SpbBts@vbHxV~mFqm@vnBeUd_G}LrdKwBzsA`k@ttAjM~q@ub@fmD~A`sIgsB~fJ_{@vbColCdtD{x@tjB{IpbDsf@dwI_g@d}Krb@doJ|iBjjE~zAraJplAldSpp@dhFmCvsGbh@jvEp|@p~CiKj{Egf@poDweBh}FcIbqIs_@v_DzHl|Eo@j_Cix@v|BkVd_D{Ip{C{o@t`CidAfeBc~@nb@_rAcPsrAlTq`AhnBe}@hbIgdAn`Dys@~aD~LpxExHvjD`k@bcD}RbvF}@hoDdYlwAqX|sDcm@`uGlhA~vCv{ArdAbu@htArqApn@zeAjeEeSluBna@hmDb~@tgEtMljBly@ncAba@v{@`|@nmAr{B~pFbi@vuAz[jkCrU|hC~aAnpBfh@rJjY~cAf[|iBbBh}BxSv~Cdi@r}FyNxeD`y@`qGHdtA|Y|u@`|@n^ll@lbAdMrwAvn@|lAtAj{Bh]dxAzcAdiDdKtx@aDppBd}Ar}H|{A|uDdi@~bEkM~dCfgAnqB`_@fpDv|@jeFlnAfwDz^b}Bw]v|Qdn@noBr~AlrC~aEtcCloBzvCxb@jlG`lBvtJ~x@lbDnAzuC~I~_CkkAhpBmm@dtC_IncEwJpvDrn@j{AfL`dBjOluAr`AjrAjNfj@~j@qMnbBp]nyAtr@fg@~zDqZzbFeKdeDqIdaAlb@zhBtPfbCxIrtBlYhcFjt@nmBkTbpDbiAtdEch@nwCvi@llA|fAjwB{PbyBt|AfeDr{@jtChm@`wA?`hDlx@roDz~A~cDjcAf{AdV`eBtsAfq@f|A`jBjaDv`Bla@|a@qLlu@cHxiHkn@xnCqCdzCqLrqEsy@`Ucs@vn@uyAz`Amn@hkDzAznBdg@|fAnL`~E}JluD}r@~iAyaBruAu{ArsAwo@~rAcs@h^mTxxAgz@~jBil@t{@iBjqCaS~gIoeB`pCo`A`pAg^vvAmObhDokAbuDodAvhGgzAtpD{gBbbBgcAvnEs|@d`Def@fnBk_ClsCe`Bp{EmcDleEgyAldA_nClLqxAnt@e{@mJqu@oeA}X|wCs_AvoDaj@x`Buc@qr@qn@pdCcQfl@g]rg@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.4008943</lat>
+    <lng>7.1474717</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJj9V-0UHevkcRylQSsh6_fI0</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

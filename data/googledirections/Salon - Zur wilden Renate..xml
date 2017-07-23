@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>7877</value>
+    <text>2 hours 11 mins</text>
+   </duration>
+   <distance>
+    <value>200374</value>
+    <text>200 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.4972197</lat>
+    <lng>13.4652272</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Alt-Stralau 70, 10245 Berlin, Germany</end_address>
+  <location>Salon - Zur wilden Renate</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFyBfB}EtGsBdBsIkGsA}MS{SuC_BqM~@}ECqAeD}HqToO{f@~F{Md@wLsC_@cf@_f@{QmIsDlAeh@hLyGv@}CrHwEbO_VjJuc@rQaOy@yTgJkLiM{H{A}o@rWsVhGcHyAsGwF{CkJlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFiKnq@{PrNaR}EwiAsi@qoA{j@qZcEqWZq|@vK_a@tMeeA`r@u]tJ}[tF_|@lO{u@hF{~@dBmpBzg@_h@~MoVzAyu@uLgq@qIge@nJ}s@hV_i@tMgVk@soAe_@maD{`AiiCe]{gKgiAqaAgNez@a_@cqAk~@eb@u^ghAgbCgc@cu@_p@m`@kuAmgAsj@aaAae@os@_v@_v@so@il@qx@cb@wXcRqVyZ_^c}@_^cgA{c@}wAyPau@wQcg@oS{[gWiV{|@gt@yo@ei@yUwSiXgc@kg@}pA_[}o@wViVclEwyAk[yRuScYid@gmAi[khAwYidBus@mxC}Pgj@ccAwgBgpAieBqUug@kLy_@s]miAkUsi@iXa[_LiVgEaT{Nap@u[a^gV_`@ea@{kAq`@mi@_|@qg@}`A{l@os@uu@_z@{pAsRwa@yh@ahAks@}iAeUsi@if@i{Ag[}s@mf@im@{jD{cEm]yf@kO_d@mMmw@_`@_kC}Puu@cNgYid@wn@g[ef@wJgXgPq_A_VqhAuJiSg]ib@cz@u~@qeA}jAae@qc@yc@kLaXrAwTxHg`Abe@aSrHiSxBySmAmj@mMel@kNkj@qMkVaLoHgSqTu|Aey@afGp@m`EfAce@lLeq@dLmm@zA}PaAcb@{Luk@o@ef@tBygB`Eww@iBsZaIuOqZsQ{~@si@oo@oq@uWyYqJaVo^alBwOyn@aSgWiYqHsu@d@qn@a@sO}LyQy\oNuJ{s@a@_RsBiTmLoSuLkP}Zg`@wyB_OqWoWsZya@ef@mVyTsVUcp@zJ_IxJqNdMa_@}EqScLkhAu{AoaCcdDsnAs|AwcBg}BqZeb@yAcI|BgHjGgBlLuJlUoYxBe[`Z_l@vd@gq@~IiY`NgZzF}b@gBmhBa@{YfD{WpTk_@zCcXaB}WIkQfGmWjNuq@vBigArCc`@hOog@lHe\~MaSxDwU|Dqq@iC_XPqX}Dw~@sEinA}Dyl@qBsGCgFjDoElGuINkFeFcNgBaDcFqFeD`HmItQa@`AwAc@uBwE_HkPwPs`@sQqb@_GiN_ExD{QxYaMe[{CqIqGfG}IlIwD~PeTveA{FhMeQcT}EcJ</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>12.1832363</lng>
+   </southwest>
+   <northeast>
+    <lat>52.5020682</lat>
+    <lng>13.4795476</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>night_club</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJxw-fVB5OqEcRtWYAqTCfqrs</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

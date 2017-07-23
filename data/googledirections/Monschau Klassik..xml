@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38 and A44</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>21007</value>
+    <text>5 hours 50 mins</text>
+   </duration>
+   <distance>
+    <value>586898</value>
+    <text>587 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.5538784</lat>
+    <lng>6.2396638</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Auf dem Schloß 4, 52156 Monschau, Germany</end_address>
+  <location>Monschau Klassik</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuPhlJ}{BduHuyAxhC}rCtMw|B~gDsdEzuCu}D~y@wdBnaAw{@h{FjTxtRu_@rwKywAfjI_oCt`FmYpsBbWbsHaCbeHhkAdjNjLv~C_n@`aF_zAvzG`UxnF{Zf`Hos@rvEw^rmJqa@foFqTfpBdX|zBji@|zBwLziBqWr|E`Bj_Lae@n~GviBpdGiBdfBg~@`qCmxBr|F`Q|fFjp@tlAxjBpo@`qAdh@vXdzA|y@`yF|AvjCbjAjjBxOjlE}Oj|Fn@znDjiArvBpj@~lEoCrqCni@~eHmMx_Ivd@vhDi^fdCg^~|Ekf@jgK|mB~{H{WjqCf@jsC~IhcBk^~}Ami@hfEvo@l`FmZvwGinB~wBiaBztBsrB|yByTaLhYbGboClpB`}ApfAhrAlwErg@|jCgUzwAsw@juD~PxyBhj@`cBw@rwAzV`lB~{A`{@|r@xoAjcBppEj{Et`Hjx@~[f`AwNjj@~Pp{A|`D|bBflBvQduCkTldFmhAbmGm\xvDoj@xfBk~AdmGgc@dxBoiAloB_lAx]inAgLuvDbd@qi@hqB_OflD}cA|tB}c@vdCgk@l|B{fA~dAwkBjd@yzAvgCy{BpcD_hAblLwqCpbOqkB`}EusA~uF{ZrlGcqA|fFs|@poHsxBr|Eoc@roFsAxpHch@~jEmBnxL|hAp``@nSphNhkAnsLtyA`wEpd@tqEb]zxRbu@rxIm@tgIjRv`Lb`@|}IzI`}F_AvfHbe@fiEmMdfDwC~BvxBhaA~bC~rDdq@r}A~cBtkFl`AjiDraB|f@|hBruCh|BbiKblBd~AllBd~GdzA`rFxuBbxE`j@ncDdwA~}BvtB`h@zbAkMzi@dj@taBraD~jCeY~eBifCvbAfPvfAblA`sB}F`z@d`@t}@deBlvAxtClhA`t@zl@znCrdBfyBpzAdd@|pAbqAz`BtyIxaBtrHnj@tqFlhAjbEpfD~rHdv@tfDzhAd{BztBfEjeE`VkF`eJpc@~gFxdBv~BxuAzlFtWtiBqQd_DBlbApt@t{AbqAp_E|vCfkKqXpuC`{AndLnCllLth@hgPxVhjHbm@`yBpiA~oE|@npApiB_Tl_BgZ|gB|uCjqCvfB`nA`t@z`BieC|aBohAlEaqAp\qj@hqB}m@bhBnXnlA_xCz`AkpDv_F}kBreBa}@ri@d{AsB|]re@zs@td@}T</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.5538784</lat>
+    <lng>6.1273081</lng>
+   </southwest>
+   <northeast>
+    <lat>51.5971698</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>lodging</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJt0YahQJ_v0cRGBEpd9WQo5I</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

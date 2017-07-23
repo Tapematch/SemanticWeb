@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A6</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>14224</value>
+    <text>3 hours 57 mins</text>
+   </duration>
+   <distance>
+    <value>420546</value>
+    <text>421 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.3118689</lat>
+    <lng>9.4688514</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Schloßstraße 17, 74249 Jagsthausen, Germany</end_address>
+  <location>Burgfestspiele Jagsthausen gGmbH</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAt`@nLdk@fG`f@hm@z]lLdoBufBfcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cD|d@jhAdp@j`EjyAxmAfo@riBf_@rY`t@fGnaC_b@|nAyJfoHmhAvmBcdAxx@cdAh~BwpBb_CwEfz@z[dw@jbAbq@zF~pDjhD`a@zTlj@_Bd_BaUraGvcExfBhwAp`Ari@`pBpg@z|B`Yd_C`eAxaAxNdoAqzAtiCo_BntBfj@|~@n[bn@`@hj@u_An_@yHvbA`U`o@cKjsAx\|hA}Vzz@hSfv@~l@p{A~_B`c@~[rRtr@~r@_IjXyz@jdAg}Ara@mK|mAfbA`qAkf@dpA}B~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@|jDpnBnyBnqBdrAcRxbAxXpvAzSvgAntAlfAbdCfhAh_AdhBxsEhr@`gExx@rgA`bAbEfuA`j@jxBnh@tlAye@xo@dV`iFhFtlBmAh_BxU`{ByPj}B`n@d_@jp@jDhjBxKhhCtc@px@d[||B~q@|Qnv@`J`g@pm@dbA|g@daAzRxk@bMb`AgSvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@ht@dfAtQzsArdBbaBdfAvwAjh@`eCn\p`Bxx@rr@vm@toAzdAb]pxBdqBhuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIvYzl@tN|mBbo@zeDndC~yDv`BzzCjyArfEpvB``EfTj|AkAv`D~XjqCrQfyEyr@v_Dw\tuExLvoD~i@fvC|JbtHtdAzoDjwA`tBpfAjyBds@diDdk@z`DzQreDwr@hpHgf@`eHxUrbC~`@dnAnc@f|Bc^tlEhHjsDzx@ntDdLbxD~u@fgFve@`wEdi@bsBbiAfnAr_@d_BkMzvAl@jkBiVvhBsNtsAnO~`Cj_C|bHlZryCg@xgDlv@~pDzLbzAuRxeE{FpvGxDliHxLzaHyDxzFge@xqDyHjdCqm@rmCkxAbmI}FvhDyi@blD}RfmDtNpR_GvmBko@nsAafAb_BuGf]mg@hSqYt\o~A^iStq@_[za@`@p_@yZbVeI`cAcNtkAgR|]oH{EsTrh@oJrE}OnLe_@wb@sYbMqc@bPuJdI_JmMsOuLkCrB</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.1727343</lat>
+    <lng>9.4649302</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJE05yvvwVmEcR4RWyKkT0N9M</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

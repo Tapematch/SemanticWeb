@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A93</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>8814</value>
+    <text>2 hours 27 mins</text>
+   </duration>
+   <distance>
+    <value>265281</value>
+    <text>265 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>49.6278457</lat>
+    <lng>12.1373725</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Weingasse 5, 92637 Weiden in der Oberpfalz, Germany</end_address>
+  <location>Salute Musikclub</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJpMp@|QLdYuA~P|I`f@hm@hLhLpPBxgA}u@`Uae@hPuIfcAqK~]mX~ZsCriA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{Are@j}Ar|A~uDb^j{AqBt~AkWdiBuBjuAtd@pcHuQlcHoFH~@}Gr~Ah{AvvChgD~fCx}ArjC~rBvuCpcCjgAjk@tgCfCbfCp@pr@bIvu@~]vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rYjWnKt[gCbeAiQj{@uO|nAyJpqEqc@t|A{c@vmBcdAxx@cdAj~@_l@|~@wcAb_CwEha@|B|W|Wpa@ru@rTvKbq@zFhWhLzs@pbAxcBnwA`a@zTlj@_Bn}@o\t`@lFjvBbbBfjCr`B`|@nd@vi@xq@p`Ari@`pBpg@fcAzErx@dRd_C`eAj^`Plb@g@doAqzAzt@}UzTs]p\g^j`@uJl[jDzc@dZds@tIv^pCd_@|VpXjGpTiFhj@u_An_@yHrd@bQb]|B`o@cKjsAx\|hA}Vhd@bCpUdOfv@~l@|_@xV`Yti@p`@n]`c@~[rRtr@`OxB|b@yLjXyz@z`@{a@nb@kz@ra@mKbZbOxr@br@he@oFvj@{^pa@`Erm@_Inq@ePhCaVaLaVk\caAqR{b@ic@qb@iLcf@Vwq@mH}{@}Wca@wg@whBku@{_Bup@mbBi]c~AoBkm@vGc{@}FifAy`@meBjIa[`PuQzUag@vc@kN~h@vW|b@lFbXaQlPyb@pk@{dDlXcs@tc@mh@bk@oUxa@qAlgAGtx@{TzbAx]`e@jAxe@{N`sAkzBphAutAdqAkk@tp@mNpg@acA`[ua@|Mij@|Rq{Ad]yT``@fRtg@db@t_@oQpi@}lBj\sAvVxm@dVve@hhA|Cnm@jaA`i@bkAtTvCbS_Lvd@c[liBqh@f}@vNrWsFhS}Sfn@_Ebl@c\rg@~Nxm@dBjd@|Vzk@yZ|yB{WnTmOfKq[fSg]dPmFhs@x^td@l]hTpAbb@qf@vk@yr@~_Ash@f[yUxKm\_KsbBdLadBxt@yz@flAcnApZ_u@tV_gAdm@i`A`o@sLlx@tCx{@x\dm@cDrjApGh}@lu@zkAt{Bfk@vl@|c@bS`cBfUxwAfbAxp@tAbs@{jAt\kYdb@c@tiA`x@r`BdcB|n@t]bx@aH|vAMtjAiUvX~C~i@l_@nbB~oAfg@vS~lBxo@pk@aVf{@w_Adl@uVd]iOrG~EbE`KsA~MIrIb\^rx@|Dxj@uAjKtL</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>49.6278457</lat>
+    <lng>11.7632563</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>restaurant</type>
+  <place_id>ChIJM4WJ_dc7oEcRj4TcgOuVr9c</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

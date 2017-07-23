@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<DirectionsResponse>
+    <status>OK</status>
+    <route>
+        <summary>Käthe-Kollwitz-Straße</summary>
+        <leg>
+            <duration>
+                <value>672</value>
+                <text>11 mins</text>
+            </duration>
+            <distance>
+                <value>4024</value>
+                <text>4.0 km</text>
+            </distance>
+            <start_location>
+                <lat>51.3397681</lat>
+                <lng>12.3730411</lng>
+            </start_location>
+            <end_location>
+                <lat>51.3248045</lat>
+                <lng>12.3302090</lng>
+            </end_location>
+            <start_address>Leipzig, Germany</start_address>
+            <end_address>Wachsmuthstraße 1, 04229 Leipzig, Germany</end_address>
+            <location>Täubchental</location>
+        </leg>
+        <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+        <overview_polyline>
+            <points>
+                qhjxHorojAPvCBnA@XMxACR]pBaAvEc@tByAzDy@rBl@t@|EzF@RXh@P`@X|@RnAH`AVnIBZFRlBdE|BhFB@F@j@xAtDrIbC|EtBrFxA~CzAbDpAfDfCvFN^`ClF`BnDXz@C|KOhRIdLBbEStN?DtC|AfCjAlHbEbFfCd@ZrAv@jCvAtEfCzBnA|AhA`@^EFuArT|@R
+            </points>
+        </overview_polyline>
+        <bounds>
+            <southwest>
+                <lat>51.3246457</lat>
+                <lng>12.3302090</lng>
+            </southwest>
+            <northeast>
+                <lat>51.3411406</lat>
+                <lng>12.3730411</lng>
+            </northeast>
+        </bounds>
+    </route>
+    <geocoded_waypoint>
+        <geocoder_status>OK</geocoder_status>
+        <type>locality</type>
+        <type>political</type>
+        <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+    </geocoded_waypoint>
+    <geocoded_waypoint>
+        <geocoder_status>OK</geocoder_status>
+        <type>establishment</type>
+        <type>point_of_interest</type>
+        <place_id>ChIJ1VTmRgv3pkcR_-jDOsgPV4Q</place_id>
+    </geocoded_waypoint>
+</DirectionsResponse>

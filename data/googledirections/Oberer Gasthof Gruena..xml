@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A72</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>3404</value>
+    <text>57 mins</text>
+   </duration>
+   <distance>
+    <value>84423</value>
+    <text>84.4 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.8097766</lat>
+    <lng>12.7711030</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Chemnitzer Str. 178, 09224 Chemnitz, Germany</end_address>
+  <location>Oberer Gasthof Gruena</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJdAX|CRlFBnL`@lDSfM}A|JFvF^`CvAdEdFpJnNnG|F~QzU`EfFfF`E|ElArCC~DeApLuKvPsLd_@qQhHaI`Uae@vEqEtBgAzE{@hP]~Cm@rIcDzEi@|MOxF_@tDgAhOcLtMiKnGoB|Gc@pI?dLz@hZdGzO`BfPc@bl@_LdQmChHiDzEqE~I{OxE_IzDeEjFyD~C{A|GeB~FWhEVvFpAnG|ChOlLvFjCzFzAhFh@tRf@jQjAt`@|@rQ\hISzGoAjHeDhHcGvHoKhDuHvFmR`]srA|N{d@zOsb@pDcUzI_i@pGo]`AyI\cPkAe_@M_TjC_VlF_h@zFoWpMqc@dPcf@pCwFxUaRfU}Q|VwTxgAwbAnXuV|VoYdD_ErDqCzL_D`RaEnJ]~O_@jNi@bKHjHX|HMbBDbAzCrFnDd@kD`EaN|AkBpPkSrF}ExFaD`GqBzIcA|S^`]Hh]gAhSaBrTgDxOaF~LgGdReNtK}KxNeRnQiRjK}Hh\ySlH}HbDqEzFcLvEiM|EqTxCsXh@sPEgk@[ovALc`AvBaa@tCuW|@gGpGm\tNue@`LaUxOyTxJ}KvMsLdNwI|GmDlRgM`NiOhHuLxHsR|Hm[fB_MbCqZjI_iBfAkW~C{]xEsWbJgYlJeQzHgK~IkIxKiGrI{CbR{BxKXbMtBl]fJtU`FtLv@zQk@dDi@hMqDfL_Fj`@aWfO{GfS_ExWeD`E}@lD_AfSqH`UuIpSwB|GDhJlAdOdFvKnGxCvBjQxKjJ`D~KvB|Qf@bPoBrG}@xSiAnLDlLl@jQjCdNpDrNrEpLfCxKx@vJQrKcBjGsA|K}CdUoIx\aRdXqSxEeEnJsKjNqVlJqXhFkVnCeTtC_i@tBw]dDaUrCcMzH_U`HwMhGoInLwK~KkGfYoLzIoG|F}G|HeOpD}KhBiIfCkTl@yRSo]Le]xAuR`FqV~B}GbFkK~E{GnIgIrRiM`TwM`KmKfE_HbFiMjEkSlAsM^kMbAm\fC}QjBuHjGeOtGcJ`OeL|FgFnDqEfEqH|C}HzE}StDod@v@mI~AmHjAaFpBwF|@u@jAQ`Bf@bBfDlC`\lAdUhFp}@vDl]rBrNjIj`@fG`TxFtMdGxJpHpI~H`GbVnMjHfGhJ`NhHtP`DbLpDdS`Gt]vCfKzI~TbIxUhC~KfFf]bDt_@|@tP_@jAs@Zq@@g@g@kAuLhE_BvFqAnL{GvBUvEz@pAI~@o@~FuK|Ae@t@NzKpJ`ClBx@BpIgCm@}IaB}ImA}E}BiS@cVEkK</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.8080159</lat>
+    <lng>12.3596278</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.8386726</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJRUfM6oE3p0cRV_w1d-LL98M</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A19</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>12527</value>
+    <text>3 hours 29 mins</text>
+   </duration>
+   <distance>
+    <value>386246</value>
+    <text>386 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>54.1418730</lat>
+    <lng>12.0750529</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>IGA Rostock GmbH 2003, Schmarl Dorf 40, 18106 Rostock, Germany</end_address>
+  <location>Parkbühne IGA Rostock</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAaIdRgMeDgByb@gR_@mR{YoO{f@~F{Mqi@wt@oW_G}u@tWw\nZuc@rQc|@g]}o@rWw_@nDoLcRtChLw\xiDcZfnI_a@nlJm`@vnFiKnq@{PrNy|Aqp@qoA{j@cs@gDq~AlZeeA`r@sz@jRwrD|Y}pDvy@ahBgWezAxa@g`AhLsoAe_@maD{`AiiCe]{gKgiAw|Bin@cqAk~@eb@u^ghAgbCgc@cu@_p@m`@kuAmgAupAquBsfBicB{iBaqA_}@geCmhAcvDsiBmhB}_BebBc{AeyCclEwyAap@}l@id@gmAav@umDus@mxCauA_sCgpAieB}b@ohA_t@atBqk@mgA{Nap@u[a^mx@{lBq`@mi@_|@qg@muBqcBmwBu|DqiAqtBif@i{AubAgbB{jD{cEm]yf@y]m|A}q@uaEm{AmiCgg@ciCadBivBqeA}jAae@qc@yc@kLym@lKg`Abe@e|@~ImlCit@o\vNcZnw@m~An_EgeAfjD{g@hiCga@nm@g{D`H{wAeIqq@ah@yo@wgBem@{tDeh@oqCmaAuiDie@{x@gj@eBkmAwO_cC}y@{iBscCobCtNas@rB}aAc`@ehAaCgbAdQax@uGgiBum@e`B|A{q@dK_eA{FodAcf@y`Amh@sqAqy@wxA{z@{pHyt@mTsKwUpG{T`qB}Wb{EiXlwAmdB|oEqm@tjCy]xcD}w@vdEcfAxtBekAvdAkc@zRmdBjSkvBr@iiAr]ws@fr@miBj|A}`Fb~BobAvzA}pBntCg_A`tCmr@hlBuuA`wBwbA`gBeiAxaA}mDznEq|AjuAy`BjtB{sAjjB{sBlz@wx@ji@i~@prAo_A|kCiw@nvAyz@dm@amAn\kbBjr@_w@jIscDgx@ejAdIwkAv]_tBeC{{AtT{zAkFgyCk|AsnC_mAoaBgLu{B`YgpBhPct@z]uiAfgAqtBpu@g`BdeAecB~dBorBbdDsoAj~@cqB`Cu~@yFms@rKa{Ad_Cah@r]kjAb_@whBzuCci@`p@qm@rLol@sTma@eo@kbBw|DccB}}AoiBwS_cEhjA__BkCuwA}b@q`Ahh@asA|h@}`AHcl@n\qmAh_B_x@tj@gmBre@aoAnr@cv@nw@kgAfn@w}@zDwiB_JeiAn_AgwAxoCed@`\_{@xNc`C`LmlBtvAcaBdcAqdBraCkrArkAm`BzF_qBnBgjBec@_|B|JstBpKgiEjYsyAm_@a_ArCes@`nAefAdjCy{AfhDsU|sAlUtmEcPhqA{JcCaNzQ</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>12.0750529</lng>
+   </southwest>
+   <northeast>
+    <lat>54.1418730</lat>
+    <lng>13.0135638</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>park</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJe_903VtWrEcROOyxmp6E4aw</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

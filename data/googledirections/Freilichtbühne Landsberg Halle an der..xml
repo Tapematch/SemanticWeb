@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>2270</value>
+    <text>38 mins</text>
+   </duration>
+   <distance>
+    <value>44350</value>
+    <text>44.4 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.5323532</lat>
+    <lng>12.1665400</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>06188 Landsberg, Germany</end_address>
+  <location>Freilichtbühne Landsberg Halle an der</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFKrBmBKc@PkApAmBpDiAzAi@He@CcAo@eEeDc@q@i@i@m@g@@gB@aB?aEKwIGcIKsAAS[?W?sAFmH\cD`@iEn@I@Ei@CKQq@_AsBq@oCSu@u@iBoB_FmAkCCUmBqDsEiKqDeP[{AI[Ha@Ps@N_@r@Iv@_A|AcFRyAPyER}EgAQ[BQ?]Q{A{A}RqToJyJi@a@oBu@oCc@aBe@cEuCmBoAw@]k@E[PkB`AuDRY?qCn@sBh@mBt@mEpAeKdCmCl@cDTu@H_AVs@l@q@jAa@xAU~A{@lGe@rBm@hAgAv@sEtBoIdD{DnAqMfEaHzBeBt@aBfAuBxAcBv@gB^iBFkBQcEoAoNoE{Aq@e@]gAgAiDyEe@m@mBgBmByAmAo@uA_@aAKuA?cBX_A\oAt@kA~@kB|AsDvB}\nK}NrEiCn@}APMKYIy@GmB]aBi@{@c@yAiAcAaAy@gAkAoBeAeCIuBHw@b@aAXUXIj@D`@ZXh@RdA@fAiAhJiA~KoAzLk@nFy@vJ?LBn@m@pFmCjXMlAeG~l@kFjh@aLhhAqBzTiA|Py@zTg@d^cD`hDoB`qBg@dTa@jL{@vQeA|PwJbwAqDnh@yEpq@uTx`DaEdj@uDva@eBbS{A~NY|@Ot@m@zBw@|Bw@|AsDtEuBzBoB~A}Ap@cAN{A@w@M}@OyDeB}Aq@_Bi@W?M@qFiCkIyDsUeLw`@kRcW}Lk`@aRgGoC}CmA{H}BqKuB_C[_Jq@wIMwDFaG`@kD\sQxBmUrCcNjBkHvAqIhCiE`BwFpCmGrD{d@d[mOdKmF`DuCtAmE~AwCz@sDr@eDl@_C`@}FfA_TlD{\~Fc^lGcLhBkFl@aF^qGZwQTua@ZcGDaJT_Il@{F|@{FpAwKtCcc@jLyo@hQuCv@OIi@@_BVeCj@}F`BmGdBkG~AiB\q@Gc@e@WaAAcARaAZg@ZOXCVHZV`@Rx@fAvBvCxGhJzFbH|FpFhLhJfDjDjBfCfCpExApDrBfHrAxHh@hFv@tKp@nIh@hExAzHbExRbQvy@f@xB@|AIrBK^y@nAQPg@Nc@Fc@G{@s@aAoBUeBf@[hC_ChDsCdB{AxA}A~@_ALB@GBKbAwAfCkGz@iBtAiBx@s@bB{@nAQr@EPJb@BrANvAv@h@b@jAlAzCtExAxAv@f@n@DnAJfFg@bJoAfCYl@UfAk@lAs@KWoAmD]qAE]YkGg@eAgBiCkLwOmCR[OQWOYCw@O}@Qg@MBEP</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>12.1527765</lng>
+   </southwest>
+   <northeast>
+    <lat>51.5573074</lat>
+    <lng>12.4000459</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>bus_station</type>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <type>train_station</type>
+  <type>transit_station</type>
+  <place_id>ChIJOfjDA7RnpkcR1IAtuJNvrVU</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

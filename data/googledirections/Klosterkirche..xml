@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A6</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>19647</value>
+    <text>5 hours 27 mins</text>
+   </duration>
+   <distance>
+    <value>569015</value>
+    <text>569 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>48.3461405</lat>
+    <lng>8.4036086</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Klosterpl., 72275 Alpirsbach, Germany</end_address>
+  <location>Klosterkirche</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHbyAtrAvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@foHmhAzfH_{Fb_CwEfz@z[dw@jbAbq@zF~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrA`}Fb_BxaAxNdoAqzAtiCo_BntBfj@`nBp\xjAoiAxrB|HjsAx\|hA}VbrBhaAp{A~_Btv@toA~r@_IjXyz@jdAg}Ara@mK|mAfbA`qAkf@dpA}B~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@|jDpnBnyBnqBdrAcRxbAxXpvAzSvgAntAtoCldEdhBxsEhr@`gExx@rgA`bAbErnEpsAtlAye@xo@dV`iFhF~lEjS`{ByPj}B`n@pd@t{CtlAx_IpqCpkAjdCx{@|lBcEvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@~fA`{CrdBbaBpoBx}E`eCzdFl~DhoChuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIli@x{Cbo@zeDffFzuI|pEtgKn~@vjRqpAlvJxw@~fI|JbtHtdAzoDjwA`tBvzBpcH`~@ngI_zAjvQh|A`oIc^tlEhHjsD`fArmJ~u@fgFve@`wEhsBjbEr_@d_BkMzvA{TbuEZtuEj_C|bHdYlbIlv@~pDuLnxPxDliHxLzaHyDxzFge@xqDwpCbaRuqAr~Rh}@|oNf_BzeL~vAplApf@`rDlcAlxBiE`wEx]lkCT`[zs@kVdoDtNvtAqHleCzhAp{Ch~BdcCdlAdgCx`AxlDf~AzoBrVbdBlcBxnC`uDzf@nuBty@nv@lbEpz@`rEbyC`rBbiEbqB`uCd|@hyCbiB`kC`b@bWrVk\~lAaqAfrDcp@f_AgtCb`@hXjvAxm@|qA|_GtlAhdGtbDbhAfeC~zF~oB`~@vkA`aA|qCmS`xCrw@tlCaCvkBtbC~lC|mFzpAldExoCdtC~iDh{DfjAj~AtdAnYzwAuOts@hb@x{@||CnrDx|Fm]xfAwYyo@uN~Ya]pu@ef@vHzeA|fE`U`bBbg@pa@n{AreBvd@tf@jDn}@a_B~yEwiAddBq]vm@p`@_Kzk@ngAtL~vAwItcBlMjxAu_@xbAvGt}CoBz@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>48.3248573</lat>
+    <lng>8.4036086</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>place_of_worship</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJhT_0PTrKkEcROD2cOu2rSWQ</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

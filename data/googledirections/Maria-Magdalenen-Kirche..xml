@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>10544</value>
+    <text>2 hours 56 mins</text>
+   </duration>
+   <distance>
+    <value>269962</value>
+    <text>270 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>53.1210175</lat>
+    <lng>13.4995746</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Martin-Luther-Straße 24, 17268 Templin, Germany</end_address>
+  <location>Maria-Magdalenen-Kirche</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAcBnI}EtGgMeDgByb@gR_@oHiD}HqToO{f@~F{MmBwMcf@_f@oW_Geh@hLwLjJwEbO_VjJuc@rQ{d@aLgVeP}o@rWw_@nDoLcRlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFiKnq@{PrNy|Aqp@qoA{j@cs@gDq~AlZeeA`r@sz@jR_|@lOwuBnImpBzg@o_AzPahBgWezAxa@_i@tMgVk@soAe_@maD{`AiiCe]{gKgiAqaAgNez@a_@cqAk~@eb@u^ghAgbCgc@cu@_p@m`@kuAmgAupAquBsfBicBqx@cb@ip@}m@_}@geCmhAcvDwk@es@{|@gt@yo@ei@co@_x@kcA{aCwViVclEwyAk[yRuScYid@gmAi[khAwYidBus@mxC}Pgj@ccAwgBgpAieB}b@ohA_t@atBiXa[gRkk@{Nap@u[a^gV_`@ea@{kAq`@mi@_|@qg@}`A{l@os@uu@smAssByh@ahAqiAqtBif@i{Ag[}s@mf@im@{jD{cEm]yf@y]m|A}q@uaEm{AmiCgg@ciC}h@sv@cz@u~@qeA}jAae@qc@yc@kLym@lKg`Abe@aSrHch@j@swAy\ys@oVo\vNcZnw@m~An_Eg]`|@_g@dmB{g@hiCga@nm@}uAdHidBC{wAeIqq@ah@{^ok@}Og{@em@{tDoXyw@uNuxAmaAuiD_Ssk@iQgLgj@eBwf@gAse@oM_cC}y@{{@esA_m@mo@abAvCm_A|Ias@rB}aAc`@ehAaCgbAdQax@uGgiBum@gv@}C}h@zF{q@dK_eA{FodAcf@y`Amh@sqAqy@w^qY_y@i`@_xHiu@uQkLcJ_^nb@smFxEaqBkGmzAcJgdDtImtGMywB~GufCvFaEsCnJg_@ax@m^ad@cYmKmUKez@d_@_x@~e@qM`W_Rj_@aNvGwOq@mNsKmT}WgY{L{s@_r@krBavBmi@aH{XnJcuAbq@_GcPsEeVePcv@}Og{@aWcfCy`@arCet@yyBig@urAaKuJmUfC_P}OeVwF}f@k@ed@cS{]u\sWe_@aMyIwDvJmJvTaNjQe[ru@kRdn@}Mtg@{MoMa_@cs@ak@xgAeSh`@qFRcCyC}PeWyHyP{Peg@wT{ZiVoEc|Ax[oZfNadAyKqq@eI_p@y[mDwT}Boi@{Ywg@iOtUuFdMmMfBwnAov@wb@wWkWas@sn@}{@efAibAkJoTkNkCcRzBg}@uh@ibAwkB}uBs~Dy|AuyAwl@gkAis@e_BkaAc_BcGgSwF~@eF|D</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>12.1832363</lng>
+   </southwest>
+   <northeast>
+    <lat>53.1210175</lat>
+    <lng>13.5008377</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJZ7Vt3RedqUcRJBLhfdHfXtY</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

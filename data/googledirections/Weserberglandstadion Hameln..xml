@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and A2</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>11608</value>
+    <text>3 hours 13 mins</text>
+   </duration>
+   <distance>
+    <value>309958</value>
+    <text>310 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.0931702</lat>
+    <lng>9.3768833</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Kuhlmannstraße 11, 31785 Hameln, Germany</end_address>
+  <location>Weserberglandstadion Hameln</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAaIdRgMeDgByb@gR_@oHiD}HqToO{f@~F{MmBwMcf@_f@oW_Geh@hLwLjJwEbO_VjJuc@rQ{d@aLgVeP}o@rWw_@nDoLcRlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFys@nbIwb@l`Bkk@`aBc~A|aE{{EnmGeaD``Ecn@pb@ig@bQ{hBdp@{b@zb@iTha@_V~z@gJf_AbAruEcF`kCoPvyAy[bkAsc@vy@m`Axx@mgAhQ{nAvGco@dZcp@~r@kaA|wBm|BpuD}wAzvCih@r`Cwb@rcCoo@jkAinAfgAcg@pfAk[z{AgUrfAwTji@y\z]q\rLm]?alA{]u_@wFi~@hDoj@{Awi@}QapB}x@mb@eCs_@zEgbBnv@a]jDe`@sHwvAiwAwh@wWqe@d@grAvh@m^lBmh@gIkzA}t@iu@qOcw@}@k~Ah_@scCzeBq|All@m{Bvj@idAnc@{}D~jC{dAt}@cR|d@{m@vsDie@vcCki@xxAyn@lbAqhAh_AgiA|]erAh@wgAuZy{Aut@}qA{Pct@iDwObp@rMhpA_@n|Ay_BtzGwh@xuCuCjeA~E|{EZnqFe[~aIgw@pfMcMncGy_@bbDfAxrBk@fjCePjdBqS`bAqK`x@yEhfBcMteAid@x~Aw`AdbCoh@haAq\rj@}fA|gAs`@jx@i_@hjCsLnv@if@`zA}TnnAsOjdCw]|xA{cBdlGkXnsAmOhiCaK`wEl`@~|HmHdtQ}ClvDaO`qHeA~vC_r@hrFwn@lgEgi@reGqQ~_FaE~{E`^fhHeIxfFiBddCkKnw@s~AhyEcZvkBqRhbEsQjeHgQftCkd@`cC}}@h`FoZx_CiNzsFsg@|wIkGzLfDaIrk@aAjmBd[hq@vUrYjX`HdY}B`oA`WpdBtDllCtT|pAsBtzAdElt@pV|s@zXteAbAb{@fOniAbO`vArIf}@aFjg@}DjMcNLwc@xI{F`_CnWlE|YtGrPzOhR~HfQdU|`@lq@jIrd@bWbe@rb@ln@j[hd@r[|k@e@p}@`Txj@tWbKdXc@dSaFx[dDvs@j[~VuJzYNfNaA`ViT`VwOpXm@xm@sGp^rFdg@~Whv@EnLkFrQxPdRpe@hGhn@tJn_Bz[leAnCvfAfIdi@vVtl@~Knt@nTf}BjNrWnw@h@|j@zOfc@he@pPrk@lu@ntDfFvk@jQfs@hNphArQxQfc@pPfhAlr@h_Atv@|aAhpAnMfWtIfz@t[jcBzOxsA`AtG~CwDpKqIlHnXpKGdT}LhHL</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>9.3746843</lng>
+   </southwest>
+   <northeast>
+    <lat>52.3986848</lat>
+    <lng>12.3996343</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <type>stadium</type>
+  <place_id>ChIJxzuJtGeOukcRPJVeuS8u2kQ</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>22613</value>
+    <text>6 hours 17 mins</text>
+   </duration>
+   <distance>
+    <value>647591</value>
+    <text>648 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>47.7365109</lat>
+    <lng>8.1657641</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Dr.-Rudolf-Eberle-Straße 3, 79862 Höchenschwand, Germany</end_address>
+  <location>Haus des Gastes Höchenschwand</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_E~Q~gQbyAtrAjjLbzJvuCpcC`pEro@lpFti@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@foHmhAzfH_{FjzDbUhiBfjA~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrA`}Fb_BxaAxNdoAqzAtiCo_BntBfj@`nBp\xjAoiAbqGxNbrBhaAp{A~_Btv@toA~r@_IjXyz@jdAg}AppBxu@fbDij@~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@leH`aF~uCtEpvAzSvgAntAtoCldEdhBxsEhr@`gExx@rgA`bAbErnEpsAn}BsN`wLtZ`{ByPj}B`n@pd@t{CtlAx_I|vGjhC|lBcEvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@`yBlNrg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@~fA`{CrdBbaBpoBx}E`eCzdFl~DhoChuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIli@x{Cbo@zeDffFzuI|pEtgKn~@vjRqpAlvJxw@~fI|JbtH`}C|dHvzBpcH`~@ngI_zAjvQh|A`oIyT`aK`fArmJ~u@fgFve@`wEhsBjbEfQ`wD{TbuEZtuEj_C|bHdYlbIlv@~pDuLnxPxDliHxLzaHak@rmLwpCbaRuqAr~Rh}@|oNf_BzeL~vAplApf@`rDlcAlxBiE`wEx]lkCT`[zs@kVdoDtNvtAqHleCzhAp{Ch~BdcCdlA~tH``DzoBrVbdBlcBxnC`uDpaB~lDlbEpz@`rEbyC`rBbiEbqB`uChfDjeHty@gD~lAaqAfrDcp@f_AgtCb`@hXjvAxm@|qA|_GtlAhdGtbDbhAfeC~zF~oB`~@vkA`aA|qCmS`xCrw@tlCaCvkBtbC~lC|mFzpAldExoCdtC~iDh{DfjAj~AtdAnYplCrQx{@||CnrDx|FfdBzcAb~Bpu@j~AdJvtBwRf~FefAdvCfwBvxA`qFndCxwBvkEbOpxDigAjrDusAdqD_fDx_Dhh@ttCvbAf{@tn@yJzxFb]r_EpmC`{AvzBmy@zsC|vAnpBoAn`AHt^~qBriBdqD~k@gK|XxnAnS|aA|`@oSt}@q{Aju@h~CpkAdaIbYp}EcGbvGgz@p}Dm@foDiLx_Czm@ffA`hCs^jXn`EbkChMnmAsUfaAth@nYh{Axe@wc@vUc_@zPds@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>47.7365109</lat>
+    <lng>8.1630854</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>cafe</type>
+  <type>establishment</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>restaurant</type>
+  <place_id>ChIJCzD_kMxekEcR749Dlmdu5Kg</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

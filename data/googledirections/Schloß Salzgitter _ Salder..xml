@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and B6/B6n</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>7748</value>
+    <text>2 hours 9 mins</text>
+   </duration>
+   <distance>
+    <value>205498</value>
+    <text>205 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>52.1359550</lat>
+    <lng>10.3367512</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Museumstraße 34, 38229 Salzgitter, Germany</end_address>
+  <location>Schloß Salzgitter _ Salder</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFyBfB}EtGsBdBsIkGuAyD@cHS{Si@gBkBFqM~@}ECqAeD}HqTaI{PmE_U~F{Md@wLsC_@cf@_f@{QmIsDlAeh@hLyGv@}CrHwEbO_VjJuc@rQaOy@yTgJkLiM{H{A}o@rWsVhGcHyAsGwF{CkJlCsCz@dAs@vN_Gbm@wTt{B}QbpBeGb}EoB`qBkEffAcWdsDm`@vnFys@nbI{Kpk@{Uzs@kk@`aBex@~|B}d@|cAkaAvrAws@d~@wdBpzBeaD``EeRnP}Z`Qig@bQqaAv[if@lS{b@zb@iTha@_V~z@gJf_AT`cCl@pqAcF`kCoPvyAy[bkAsc@vy@m^n`@_a@hWwb@jMuc@|Bwe@Ach@xGyZfLiS|LmWdUuWx\uc@b_Au\xw@m|BpuDcs@znAyc@~fAqUfz@wQjeAuShwAaNhk@mVtk@aXt^inAfgAcXhb@_Nfc@k[z{AgUrfAwTji@y\z]q\rLm]?alA{]u_@wFi~@hDoj@{Awi@}Q}~@_b@cp@}UsMiDUmCzEqGdAXmBbU_d@nnCy@bc@fBdXrMtx@~Ij|BqCdrAzCpo@bHhUbJlNp_An|@pNrYjv@hqDfT~fAzNjvBcAro@qJ|gAsYbcDcFtfA`Ddm@h\neBjLxo@jBvh@`Jth@nFpb@L`n@oL~|@ajArtGglAnhFiXdsBsFrkAe@b[pAzaBhSteDRzgAmDjz@gMleAkVnoAcXbsAiRtjAkDvqA`FddAnMfpBr@pfA{Eb}@oNngAsIfu@iErjAnB`fAvFbo@ji@jmClR|iA`Fxv@@btBqDdmCoL`kAkIp`@mOjf@kT~c@qk@dt@ui@vq@sa@`bA}L`j@oJzy@oGlbCqP``Ck`@taD{Spz@uWdn@{_AjtAoOt^eIt^yEpe@o@|g@Jdx@yG|u@_b@jyAaWpwAsQnf@aW~\iUxWwSr_@oM|`@iKlh@cT`{@yl@`gA{yAfiBgXtc@cTtl@cQ~cAyMniCcApbA|Bpl@PpUaEtEuBMkOsHkc@bDqL~AkQ~Gey@xg@_\bV{Ttg@w\ba@wYbPc^zDei@dNyUtHuR`Mc^r\knA|xAqt@zq@ch@p\}~Avu@erAdb@ymArVwhAjRi}@xTe|@vTyuAnU}TbAmXwAaf@wOy^mP_AqGtBk@fBxSBlEoExi@}Btb@mKbtBaLnbAyEbb@kMzi@wBj\^t_@z@bx@V|k@{IfqAqBln@w@|\h@tDh@@`BbAtCdXtLlmAlZxlCbBbT?nGnA|@lDtBbBC|FhCx@HOaB</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>10.3362566</lng>
+   </southwest>
+   <northeast>
+    <lat>52.1479508</lat>
+    <lng>12.4000215</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>museum</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ61_Vw5NQpUcR2yWbcZVU6tU</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

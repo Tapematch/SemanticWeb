@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>13353</value>
+    <text>3 hours 43 mins</text>
+   </duration>
+   <distance>
+    <value>360567</value>
+    <text>361 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.9371400</lat>
+    <lng>8.8796089</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Schloßpl. 7, 32756 Detmold, Germany</end_address>
+  <location>Stadthalle Detmold</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuPhlJwOtyAqi@d_Aqa@xn@a^njBq_@duAcy@rr@miAZohAxLkeA`jBkv@||@sdEzuC_aChu@u{@tC{i@~K{y@nt@mj@`~AiPf|CmG`mEx\vfLJ|dFa`@tqDgcA`aEqSdhCqo@jdBm~Ah{BmYpsBbWbsH|LheE_Qx~AhRfuD~w@|sHjLv~C_n@`aFwt@vqDgd@~gB`UxnF{Zf`HqJl{B}g@dzA{GzwDCnbBwUfqAqOheB_Q|hCqTfpBdX|zBji@|zBwLziBu]vrBbEzhBbMfrDaJblF}\fgDcGfvBviBpdGiBdfBg~@`qCmxBr|FyFrwBzXhnBjp@tlAxjBpo@`qAdh@vXdzAd\xxBv\f_C|AvjCbjAjjBhVpbBoExhBgYr}ChHv}An@znDjiArvBfg@xjChBdaAoCrqCni@~eHiOpcDz@f{Cvd@vhDi^fdCg^~|EsKtnDkZt{BR~zAh`AlbErl@pxB{WjqCsKnsAzLz~@~IhcBk^~}Ami@hfEvo@l`FgElvCeTh`Cyp@brAo|@zd@iaBztBehA|`Ami@~w@yTaLhYbGn}@~|@rpAlr@jx@xXtc@vl@hrAlwErg@|jCgUzwAsw@juD~PxyBhj@`cBw@rwAYbv@tW|t@~{A`{@|r@xoArt@h}Cvm@fr@v`BtpBryB~nDjx@~[f`AwNjj@~Pp{A|`Dx`AheBba@|EvQduCkTldFu\n_Dwj@rlBuZheBw@npAoj@xfBk~AdmGgc@dxBoiAloB_lAx]inAgL_vAnT_{@uFuc@hVqi@hqB_OflD}cA|tB}c@vdCgk@l|B{fA~dAwkBjd@yzAvgCadA|}@wv@rdB_d@dsD_c@|wFe{@|gC}j@oUgvAzf@iy@gAwi@me@wk@qI_Tub@cd@mnAi]{VkwBmK{s@tBkk@x[ggApd@ck@lCwf@}Vm_@xKs{@l|@e|@kBe|@nx@ec@d_@grArW{i@~`A}|@rv@sfA~qC}j@vdAmw@vn@yxAbNeyA_j@cv@uO_qAi@aS|[yGfGgHiNaYq_@iSyXcz@|Oe{AxY_oAvNquAvf@sRhWcr@vG_sBxiAkbAwo@ch@{QoHty@mZ~sAk\t`@k^oLuWdWsaAzYuh@n}Bwf@z{@kf@|p@wi@gp@_e@{e@{N|S_KsYnA}G</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2345941</lat>
+    <lng>8.8631682</lng>
+   </southwest>
+   <northeast>
+    <lat>51.9375432</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>city_hall</type>
+  <type>establishment</type>
+  <type>local_government_office</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ1cxQZJxEukcRT44MuQM1E2w</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

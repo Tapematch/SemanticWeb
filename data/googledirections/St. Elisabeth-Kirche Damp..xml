@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A7</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>19273</value>
+    <text>5 hours 21 mins</text>
+   </duration>
+   <distance>
+    <value>535681</value>
+    <text>536 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>54.5812101</lat>
+    <lng>10.0194638</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Seeuferweg 6, 24351 Damp, Germany</end_address>
+  <location>St. Elisabeth-Kirche Damp</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAiW~LgByb@gR_@mR{YoGwu@qi@wt@oW_G}u@tWmaAbm@c|@g]}o@rWgm@sLaXbwDc|@v{TguAfrPgnDleK{{EnmGeaD``Ei`EzeBex@deAga@f{BbAruEsWxeFm`AzeCm`Axx@iwC`Zg`BdnAkaA|wBkuElmIalAfeGy~BrsCocAlcDgUrfAqr@fhA_{@rLalA{]guDgWapB}x@acAtAgbBnv@g~@gCwvAiwAioAqVgrAvh@{gAyEkzA}t@mmBoQk~Ah_@scCzeB_yEdxAecGnoD{dAt}@_aAtyEuoAp}EkxBvbCgiA|]erAh@qdDkpAagCeVcAlaC_@n|Ay_BtzGmm@d|E~E|{EiZntPgw@pfM}m@rfLZ`~Fcx@xgImr@neDw`AdbC_nCzuD}`AtcE{iA`aFkn@h~E{cBdlGyh@x}EaK`wEl`@~|HmHdtQ_TnhNeA~vC_r@hrF_yA`nMsW~|L`^fhHeIxfFuNt|Ds~AhyEum@`oHsQjeHsv@hxG}}@h`Fyi@ttJcw@jvIigC`x@wnCppCq_Ark@_aAdKgbBtcA{zAjbB}gGdqD_sEbpC{vEpsFuqG`yEumFhlBafFh|@cbDblA{bB`@{pDox@_|GenA_~@mu@c`@{lAkjAe{Dg_DqcFw_B_~BclBowEcy@maDmoAqlCe~DkcHecDeQcjEycC_|BmWg`Cix@orCsaBeiCk`AiiBc{Bi}@{yEoo@}rB{t@}`AokA_t@mkASchCba@_vA~@kqBcv@}{AoLimHrmBknBpqCoy@lj@gqCpOie@h\ap@lvB{kB~uAw~Ch}C{mArzEgn@`fBc~@zMypA}u@e|BvwAkjCnKez@iYatAydBwe@gA_uAroD_n@bm@qzAk[au@{bAooAca@os@m[o_Adb@gi@l\ka@uVqzBukAuxBwa@sfCudAcdDf`@ubAlFcnByg@q|BkZkpFxiBg|Blv@cnAq@w|Ds|BolBiPavBzn@qaBlMaoEuhAqdDfBsiFlcBarE~MwrBxj@ojA{CgsCceAuhA{v@ogEcvBgdB{Gy}@xSw~AphBawAzyIymElgIo|Ep~Gc}A`oBypBnoAqqCpaCahBvtCku@bpAiaBkSsl@nLyk@uVch@}f@aa@e~AyiBodEo[k~@pAueBaT{yAkdBe{@iz@ms@k_@yu@gqAqbAue@jPol@vy@yaAjjAg[kh@st@}kCacAuiBagCa|E_y@qL}v@jNcr@w_AkZ}wB_XirBss@}jAaMqWaUkqAkJitFgHqn@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>9.6662183</lng>
+   </southwest>
+   <northeast>
+    <lat>54.5812101</lat>
+    <lng>12.3996343</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>church</type>
+  <type>establishment</type>
+  <type>place_of_worship</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJI1YPEAMds0cRmpYSyPZrgxQ</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

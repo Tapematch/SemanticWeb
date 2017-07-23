@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A7</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>19683</value>
+    <text>5 hours 28 mins</text>
+   </duration>
+   <distance>
+    <value>566035</value>
+    <text>566 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>54.6540501</lat>
+    <lng>9.1384703</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Norderweg 7, 25862 Joldelund, Germany</end_address>
+  <location>Gerd´s Juke Joint</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAiW~LgByb@gR_@mR{YoGwu@qi@wt@oW_G}u@tWmaAbm@c|@g]}o@rWgm@sLaXbwDc|@v{TguAfrPgnDleK{{EnmGeaD``Ei`EzeBex@deAga@f{BbAruEsWxeFm`AzeCm`Axx@iwC`Zg`BdnAkaA|wBkuElmIalAfeGy~BrsCocAlcDgUrfAqr@fhA_{@rLalA{]guDgWapB}x@acAtAgbBnv@g~@gCwvAiwAioAqVgrAvh@{gAyEkzA}t@mmBoQk~Ah_@scCzeB_yEdxAecGnoD{dAt}@_aAtyEuoAp}EkxBvbCgiA|]erAh@qdDkpAagCeVcAlaC_@n|Ay_BtzGmm@d|E~E|{EiZntPgw@pfM}m@rfLZ`~Fcx@xgImr@neDw`AdbC_nCzuD}`AtcE{iA`aFkn@h~E{cBdlGyh@x}EaK`wEl`@~|HmHdtQ_TnhNeA~vC_r@hrF_yA`nMsW~|L`^fhHeIxfFuNt|Ds~AhyEum@`oHsQjeHsv@hxG}}@h`Fyi@ttJcw@jvIigC`x@wnCppCq_Ark@_aAdKgbBtcA{zAjbB}gGdqD_sEbpC{vEpsFuqG`yEumFhlBafFh|@cbDblA{bB`@{pDox@_|GenA_~@mu@c`@{lAkjAe{Dg_DqcFw_B_~BclBowEcy@maDmoAqlCe~DkcHecDeQcjEycC_|BmWg`Cix@orCsaBeiCk`AiiBc{Bi}@{yEoo@}rB{t@}`AokA_t@mkASchCba@_vA~@kqBcv@}{AoLimHrmBknBpqCoy@lj@gqCpOie@h\ap@lvB{kB~uAw~Ch}C{mArzEgn@`fBc~@zMypA}u@e|BvwAkjCnKez@iYatAydBwe@gA_uAroD_n@bm@qzAk[au@{bAooAca@os@m[o_Adb@gi@l\ka@uVqzBukAuxBwa@sfCudAcdDf`@ubAlFcnByg@q|BkZkpFxiBg|Blv@cnAq@w|Ds|BolBiPavBzn@qaBlMaoEuhAqdDfBsiFlcBarE~MwrBxj@ojA{CgsCceAuhA{v@ogEcvBgdB{Gy}@xSw~AphBawAzyIymElgIo|Ep~Gc}A`oBypBnoAqqCpaCahBvtCieB`yDobCdvCayAjy@o_AflAkkC|fF_wCd`B{_BhgB{jCfvFkoB`uCcrDjmDg`Bl}@{bC}HofCbs@miCpeB}hG|`AinDhoBywCb}A}cB~Zau@p\hNhcB|b@h}AjnCz~Bb[hjCzFvhHj^`zJvaBddIsCdg@vJ|r@frAtIri@bLZxB</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>9.1384703</lng>
+   </southwest>
+   <northeast>
+    <lat>54.7331944</lat>
+    <lng>12.3996343</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>bakery</type>
+  <type>establishment</type>
+  <type>food</type>
+  <type>point_of_interest</type>
+  <type>store</type>
+  <place_id>ChIJ04PKco1is0cRQN0bZ8bA7ls</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

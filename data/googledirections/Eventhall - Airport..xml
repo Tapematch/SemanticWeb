@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A93</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>11700</value>
+    <text>3 hours 15 mins</text>
+   </duration>
+   <distance>
+    <value>352283</value>
+    <text>352 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>48.9770461</lat>
+    <lng>12.1562345</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Ernst-Frenzel-Straße 16, 93083 Obertraubling, Germany</end_address>
+  <location>Eventhall - Airport</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAt`@nLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJyoAfkF{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rY`t@fGnaC_b@|nAyJfoHmhAvmBcdAxx@cdAh~BwpBb_CwEfz@z[dw@jbAbq@zF~pDjhD`a@zTlj@_Bn}@o\t`@lFjvBbbBfjCr`BxfBhwAp`Ari@`pBpg@z|B`Yd_C`eAxaAxNdoAqzAtiCo_Bh`Ap_@ds@tI|~@n[bn@`@hj@u_An_@yHvbA`U`o@cKjsAx\|hA}Vzz@hSfv@~l@p{A~_B`c@~[rRtr@~r@_IjXyz@jdAg}Ara@mK|mAfbA`qAkf@dpA}Bnq@ePwGcm@k\caA{v@mfAqK{xAmH}{@}Wca@wg@whBku@{_Bup@mbBy`@olCXmbCy`@meBlZwm@zUag@vc@kN|lAd_@pi@{t@pk@{dDb}@q|A|mAaXlgAGtx@{TzbAx]zkAoL`sAkzBphAutAdqAkk@tp@mNpg@acA~i@_mA|Rq{Ad]yT``@fRtg@db@t_@oQpi@}lBj\sAvVxm@dVve@hhA|CpwAnmCxh@gGvd@c[liBqh@f}@vN|k@q[j{Acb@lvAdRjd@|Vzk@yZ|yB{WdfAuqAhnBx_AznAkzA~_Ash@`h@gs@_KsbBdLadB`bC}iCpZ_u@tV_gAdm@i`A`o@sLlx@tCx{@x\dm@cDrjApGh}@lu@zkAt{BdpAz`A`cBfUxwAfbAxp@tAbs@{jAz_AoZtiA`x@ppCzaC`pCoHtjAiUvcAld@vjCvdB~lBxo@pk@aVf{@w_Adl@uVpvAgQbzEk\nyA|~@`|@rcAh~Avw@lfAoBptAum@~cBktBj}BauDx`Au{@dtAgFfrA__@nhBvCl~At}@n}AztApwCd_Aln@pz@f{@`Az~@oRdrAdFdpCj@v|AmTlzBr`@fyCnzB|zAdj@ziBkz@j|@a@nxAj_@z_B~gAt_Bql@vh@mC~\tUnwApc@noAxr@b}AeN`z@kAt_Bxr@ffA`l@|eAgc@`m@aL`[bMveAjh@fgAQtk@eWb`@hMhh@n~@xa@rdAhe@~SblAjr@zl@oMts@jHgClKvQup@sWexJ}S_lCGwRdShIzz@_Nj`@hWd`@ua@qN}@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>48.9745609</lat>
+    <lng>11.7638676</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJq4il0o_Dn0cRU3gZ18fRmiE</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

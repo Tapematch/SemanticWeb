@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A7</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>18798</value>
+    <text>5 hours 13 mins</text>
+   </duration>
+   <distance>
+    <value>567837</value>
+    <text>568 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>47.6703439</lat>
+    <lng>9.5859688</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Schloßstraße 2, 88069 Tettnang, Germany</end_address>
+  <location>Neues Schloss Tettnang</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHbyAtrAvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@foHmhAzfH_{Fb_CwEfz@z[hiBfjA~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrA`}Fb_BxaAxNdoAqzAtiCo_BntBfj@`nBp\xjAoiAxrB|HjsAx\|hA}VbrBhaAp{A~_Btv@toA~r@_IjXyz@jdAg}Ara@mK|mAfbA`qAkf@dpA}B~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@|jDpnBnyBnqBdrAcRxbAxXpvAzSvgAntAtoCldEdhBxsEhr@`gExx@rgA`bAbErnEpsAtlAye@xo@dV`iFhF~lEjS`{ByPj}B`n@pd@t{CtlAx_IpqCpkAjdCx{@|lBcEvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@pcAaSnt@nb@rg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@~fA`{CrdBbaBpoBx}E`eCzdFl~DhoChuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIli@x{Cbo@zeDffFzuI|pEtgKn~@vjRqpAlvJxw@~fI|JbtHtdAzoDjwA`tBvzBpcH`~@ngI_zAjvQh|A`oIc^tlEhHjsD`fArmJ~u@fgFve@`wEhsBjbEvWhdBbpB{e@lbDg}CryCbOns@bMx^rkBj|ArrBnjCh~Af|C`kDbgAxHdpBk|AzyAyWdbBrSbhBiCpdBfw@xfEmv@`oBzGnrAlx@xsBpsBtdAaUhn@g}Atr@}tAv~@HzpBgdB`tA{H`sAn_@viE`@hzBfhAb}BmKjxDa}Aj}AAj_BagAjgAme@hs@px@fbApk@laBiLnfH~}Ix`ChlGjtClfEhkDr\vtCmkClbDaiAzgCfyAtgEhhA`tCpc@hlE{FbwDyq@`eDg_ChgFEbyD_aAlaEMvuBwf@`lA~TfvCtpB`jC{kA~lC_tAzwEsHtsDta@vcAmh@nlBex@fy@pdBnvCv_CtxChlAlnAf{AjjCj_CxmBrlCbxB|cD`aCxrCliDgBhzAbe@twBpyClxBz~FjwDx{El|AtvDzb@vlCn{@rkEpp@f{EnFb^jd@uCdq@lu@vRrlAd}@d_Arp@t|AbA`eBhNjxE_CnbA{[brAcq@nhDaGz}AhGb|@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>47.6570960</lat>
+    <lng>9.5859688</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJZRYRPIUHm0cRPpbtAQvjuo8</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

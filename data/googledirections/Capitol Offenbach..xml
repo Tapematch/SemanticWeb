@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4 and A5</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>13354</value>
+    <text>3 hours 43 mins</text>
+   </duration>
+   <distance>
+    <value>394046</value>
+    <text>394 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.1093213</lat>
+    <lng>8.7570056</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Kaiserstraße 106, 63065 Offenbach am Main, Germany</end_address>
+  <location>Capitol Offenbach</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAvM`L|QLdk@fG`f@hm@z]lLxgA}u@jf@wo@fcAqK~y@a]riA~JrgAwUd[}\lHlc@hDhkJkWzlBmw@j}B{Px`BdHl{AfcCjtGb^j{AqBt~Aa[p_Etd@pcHuQlcHoDsGr~Ah{AvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@vnAtl@zmApOzaG~cD|d@jhAdp@j`Eb^|h@fz@zc@fo@riBf_@rY`t@fGnaC_b@|nAyJjfDkP`SpbBvPbyD|a@rhBf\tqCmDh{Aqm@vnBeUd_GtCpiDsQ`zEwBzsA`k@ttAjM~q@ub@fmDoO~gDlMh|@`DvlBgsB~fJ_{@vbColCdtD{x@tjB{IpbDq^haEaGztC_g@d}K`Fd_Ep[~nDrm@ppBh{@xxA~zAraJz\|jItn@nxHpp@dhFmCvsGrJxtBn\p`Bp|@p~CiKj{Egf@poD}cA`kCy`@fqBcIbqIs_@v_DzHl|Eo@j_Cix@v|BkVd_D{Ip{C{o@t`CidAfeBc~@nb@_rAcPsrAlTq`AhnBe}@hbIgdAn`Dke@blAmMztA~LpxExHvjD`k@bcDdC``BcW`uC}@hoDdYlwAqX|sD_h@|dDcDboBlhA~vCv{ArdAdY|y@|ZjY`s@bIp]ld@ps@rlBhQvwAeSluBna@hmDpk@rnBpQ`xAtMljBly@ncAba@v{@nb@tSpXxx@xw@~}BxbA~qBbi@vuAz[jkCrU|hC~aAnpBfh@rJjY~cApWjh@tBp`AbBh}BxSv~Cdi@r}FcA|wBuLzl@|_@`vBbX~yCHdtA|Y|u@`|@n^f^~XdMlh@dMrwAvn@|lAtAj{Bh]dxAba@z~@va@hiBdKtx@wPljAtKbe@vl@d`Dlo@l|C|{A|uDdi@~bEkM~dChY|bA|l@pm@`_@fpDbXziCrc@nzAlnAfwDr_@x~@Wh}@nBddDkTfoB`B|nD}NjwCdn@noBrj@|_B~r@nq@px@vY`Zta@jmBffA~q@hn@l|@pgBxb@jlG`h@viD~bA~iE~x@lbDnAzuCjDbqA`q@p_ApeDxeBfdEn_C~eChlCphB`~AjzDtdBt{BplAnq@|dB|]f[r\UhgCuVbbGmk@|hB`~@`eArN|pAgOzvBza@dz@t~@vcAzk@feCnl@vwCjPhlETr`@fRpj@x}@fOni@hSug@pkA_s@bf@xu@pi@yElgAupChJyyA}DwbAbVck@`c@rBzWrGxa@cP`VkhAnX{d@na@aB`{Aoy@~m@k[_I{JoP{H}JvADcxAjNcF</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.1054995</lat>
+    <lng>8.6427081</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJ6SvjtA8OvUcR7iCKmVTq9X0</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9 and A19</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>14180</value>
+    <text>3 hours 56 mins</text>
+   </duration>
+   <distance>
+    <value>409800</value>
+    <text>410 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>54.2661675</lat>
+    <lng>12.4168132</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Flugplatzallee, 18311 Ribnitz-Damgarten, Germany</end_address>
+  <location>Pangea Festival</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAaIdRgMeDgByb@gR_@mR{YoGwu@qi@wt@oW_G}u@tWw\nZuc@rQc|@g]}o@rWw_@nDoLcRtChLw\xiDc|@v{Tm`@vnFe]baAy|Aqp@qoA{j@cs@gDq~AlZeeA`r@sz@jRwrD|Y}pDvy@ahBgWezAxa@g`AhLsoAe_@maD{`AiiCe]{gKgiAw|Bin@cqAk~@eb@u^ghAgbCgc@cu@_p@m`@kuAmgAupAquBsfBicB{iBaqA_}@geCmhAcvDsiBmhB}_BebBc{AeyCclEwyAap@}l@id@gmAav@umDus@mxCauA_sCgpAieB}b@ohA_t@atBqk@mgAqk@coAmx@{lBq}A_rAmuBqcBmwBu|DqiAqtBif@i{AubAgbB{jD{cEm]yf@y]m|A}q@uaEm{AmiCgg@ciCadBivBqeA}jA{iA}p@aoBpq@e|@~ImlCit@o\vNcZnw@m~An_EgeAfjD{g@hiCga@nm@g{D`H{wAeIqq@ah@yo@wgBem@{tDeh@oqCmaAuiDie@{x@gj@eBkmAwO_cC}y@{iBscCobCtNas@rB}aAc`@ehAaCgbAdQibDkv@e`B|A{q@dK_eA{FodAcf@y`Amh@sqAqy@wxA{z@{pHyt@mTsKwUpG{T`qBgq@psHmdB|oEqm@tjCy]xcD}w@vdEcfAxtBqoBrxAmdBjSkvBr@iiAr]ws@fr@miBj|A}`Fb~BobAvzA}pBntCg_A`tCmr@hlBuuA`wBwbA`gBeiAxaA}mDznEq|AjuAy`BjtB{sAjjB{sBlz@wx@ji@i~@prAo_A|kCiw@nvAyz@dm@amAn\kbBjr@_w@jIscDgx@ejAdIwkAv]_tBeC{{AtT{zAkFgyCk|AsnC_mAoaBgLu{B`YgpBhPy~BbfBqtBpu@g`BdeAecB~dBorBbdDsoAj~@cqB`Cu~@yFms@rKa{Ad_CmsBv}@whBzuCci@`p@qm@rLol@sTma@eo@kbBw|DccB}}AoiBwS_cEhjA__BkCuwA}b@stCfrA}`AHcl@n\qmAh_B_x@tj@gmBre@aoAnr@cv@nw@kgAfn@w}@zDwiB_JeiAn_AgwAxoCed@`\_{@xNc`C`LqnEzzCqdBraCkrArkAmrEjJgjBec@_|B|JstBpKgiEjYsyAm_@a_ArCmq@xn@ipBg|Au]{bAuw@_b@ysBm`AasAsn@kg@yoAooD{`MuhDuzLfVybBfGorCgU_{Ayl@ad@ccAmaBgq@dFsd@_EcXgCqIzPfPtoB{InzDbVvb@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>12.1834638</lng>
+   </southwest>
+   <northeast>
+    <lat>54.2708943</lat>
+    <lng>13.0135638</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>museum</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJhd0-KAbzrEcRwuzdUJcqR2E</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

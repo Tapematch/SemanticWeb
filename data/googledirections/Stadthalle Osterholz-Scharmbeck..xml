@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and A2</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>13148</value>
+    <text>3 hours 39 mins</text>
+   </duration>
+   <distance>
+    <value>386661</value>
+    <text>387 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>53.2194510</lat>
+    <lng>8.7959280</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Jacob-Frerichs-Straße 1, 27711 Osterholz-Scharmbeck, Germany</end_address>
+  <location>Stadthalle Osterholz-Scharmbeck</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAaIdRgMeDgByb@gR_@oHiD}HqToO{f@~F{MmBwMcf@_f@oW_Geh@hLwLjJwEbO_VjJuc@rQ{d@aLgVeP}o@rWw_@nDoLcRlCsCF|Pw\xiD}QbpBeGb}E{HhxDcWdsDm`@vnFys@nbIcoAnbEc~A|aE{{EnmGeaD``EmvAtt@{hBdp@ex@deAga@f{BbAruEcF`kCoPvyAy[bkAsc@vy@m`Axx@mgAhQ{nAvGco@dZcp@~r@kaA|wBm|BpuD}wAzvCalAfeGoo@jkAinAfgAcg@pfAk[z{AgUrfAqr@fhA_{@rLalA{]u_@wFi~@hDoj@{Awi@}QapB}x@acAtAgbBnv@a]jDe`@sHwvAiwAwh@wWqe@d@grAvh@{gAyEkzA}t@iu@qOcw@}@k~Ah_@scCzeBq|All@m{Bvj@idAnc@{}D~jC{dAt}@cR|d@{m@vsDie@vcCki@xxAyn@lbAqhAh_AgiA|]erAh@wgAuZy{Aut@}qA{Pct@iDwObp@rMhpA_@n|Ay_BtzGwh@xuCuCjeA~E|{EZnqFe[~aIgw@pfMcMncGy_@bbDZ`~FePjdBqS`bAkRj_DcMteAid@x~Aw`AdbCoh@haAq\rj@}fA|gAs`@jx@i_@hjC}s@pqC}TnnAsOjdCw]|xA{cBdlGkXnsAmOhiCaK`wEl`@~|HmHdtQ_TnhNeA~vC_r@hrFwn@lgEgi@reGsW~|L`^fhHeIxfFiBddCkKnw@s~AhyEcZvkBqRhbEsQjeHgQftCkd@`cC}}@h`FoZx_CiNzsFab@biHaTfl@}{@nQkjApe@oo@pe@g~A~iBq_Ark@_aAdKkp@vW{p@|j@{zAjbBclB|hAy`Ana@_yAvdA}rB|gAa_BdgAiaBv`CqtBxqBuqG`yEmjBx}@gbCnm@y~AxRgfCnh@urAhl@mnAx^{bB`@yeBgc@oj@~bAkhBfgEgkCziD_y@l_BctB~iGsyA|zEeaAdnG{x@t`EmuAzoG_zAtfGcf@t|CgOz}Dgp@|jCaw@nkAwiAnmAulCjzDglBluEcfAjsEoTvkDgDzlFii@|rE}NvqBk_@~{B{_AtkCo{@vtAgc@jRahAb_@u[xOwXbc@_Nrp@eEbsA|@`rAoHb{@kbBt|Ce_@tTq[tf@kw@|xCiFvhD}LntCs^z|Bww@duCez@lgBmOdKiiBcjA}i@c`@}n@w~@oo@ooAmR{VmHg`@zHghBvKm`AToI}WkTmWyFobBdHeWxWab@pq@{FlLmBbWjGp^uCdD</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3397681</lat>
+    <lng>8.7381522</lng>
+   </southwest>
+   <northeast>
+    <lat>53.2200383</lat>
+    <lng>12.3996343</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJlxDk6DgusUcRpjU543H2zzc</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

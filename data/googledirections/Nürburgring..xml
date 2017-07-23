@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A4</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>17323</value>
+    <text>4 hours 49 mins</text>
+   </duration>
+   <distance>
+    <value>495978</value>
+    <text>496 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.3338136</lat>
+    <lng>6.9472327</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Nürburgring Boulevard 1, 53520 Nürburg, Germany</end_address>
+  <location>Nürburgring</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuQlcHbyAtrAvvChgDrrGxqEvuCpcCjgAjk@tgCfCbfCp@hiBbh@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@jfDkP`SpbBts@vbHxV~mFqm@vnBeUd_G}LrdKwBzsA`k@ttAiTf`F~A`sIgoDvjNolCdtD{x@tjB{IpbDsf@dwI_g@d}Krb@doJ|iBjjE~zAraJplAldSpp@dhFmCvsGbh@jvEp|@p~Cqr@|kKweBh}FcIbqIs_@v_DzHl|Eo@j_Cix@v|BkVd_D{Ip{CeuB|fFc~@nb@_rAcPsrAlTq`AhnBe}@hbIgdAn`Dys@~aD~LpxEzt@znI{TlfLdYlwAqX|sDcm@`uGlhA~vCv{ArdAbu@htArqApn@zeAjeEeSluBna@hmDb~@tgEtMljBly@ncAba@v{@`|@nmAr{B~pF~eAbbFrU|hC~aAnpBfh@rJjY~cAf[|iBbBh}BxSv~Cdi@r}FyNxeD`y@`qGHdtA|Y|u@`|@n^ll@lbAdMrwAvn@|lAtAj{Bh]dxAzcAdiDdKtx@aDppBd}Ar}H|{A|uDdi@~bEkM~dCfgAnqB`_@fpDv|@jeFlnAfwDz^b}Bw]v|Qdn@noBr~AlrC~aEtcCloBzvCxb@jlG`lBvtJ~x@lbDnAzuC~I~_CkkAhpBmm@dtC_IncEwJpvDz{@l`EjOluAr`AjrAjNfj@~j@qMnbBp]nyAtr@fg@~zDqZzbFeKdeDqIdaAlb@zhBtPfbCxIrtBlYhcFjt@nmBkTbpDbiAtdEch@nwCvi@llA|fAjwB{PbyBt|AfeDr{@jtChm@`wA?`hDlx@roDz~A~cDjcAf{AdV`eBtsAfq@f|A`jBjaDv`Bla@|a@qLlu@cHxiHkn@xnCqCdzCqLrqEwmBxdAuyAz`Amn@hkDzAznBdg@|fAnL`~E}JluD}u@ngAaVbf@jSn_Brh@btEvVthFnLlvCjxBftFbeBzlAnB~z@gd@rbAz|@x~BhsAjxCniAj}@bs@`jDzp@x|AxBlz@u\zkDpRdnBq[poAkr@`qAkKbnB{bAvkBg`@v~DcLniBvZ`|A|i@lzDcHf~A}u@vvBqaBxq@t^~oAbC~uAgk@j_Bgh@xdDrT`cEiu@rgBzx@ppDxHffEv}AflBlw@xKtYthAxJzi@x{@`kAhpBb`Bxv@dhDny@l_BjRx]</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.3338136</lat>
+    <lng>6.9472327</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJWcUQkDatv0cRmljKcxvC24A</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

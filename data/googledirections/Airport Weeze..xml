@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A38 and A44</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>18581</value>
+    <text>5 hours 10 mins</text>
+   </duration>
+   <distance>
+    <value>534137</value>
+    <text>534 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.5979153</lat>
+    <lng>6.1503557</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Weeze Airport, Flughafen-Ring 1, 47652 Weeze, Germany</end_address>
+  <location>Airport Weeze</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_Etd@pcHuPhlJiz@zyCs`AhzCq_@duAcy@rr@}rCtMw|B~gDsdEzuC_aChu@u{@tCwdBnaAmj@`~AiPf|CjTxtRJ|dFa`@tqDywAfjI_oCt`FmYpsBbWbsHaCbeHhkAdjNjLv~C_n@`aF_zAvzG`UxnF{Zf`HqJl{B}g@dzAw^rmJqa@foFqTfpBdX|zBji@|zBwLziBqWr|EbMfrDaJblFae@n~GviBpdGiBdfBg~@`qCmxBr|F`Q|fFjp@tlAxjBpo@`qAdh@vXdzA|y@`yF|AvjCbjAjjBxOjlE}Oj|Fn@znDjiArvBpj@~lEoCrqCni@~eHmMx_Ivd@vhDi^fdCg^~|Ekf@jgK|mB~{H{WjqCf@jsC~IhcBk^~}Ami@hfEvo@l`FmZvwGyp@brAo|@zd@iaBztBsrB|yByTaLhYbGboClpB`}ApfAhrAlwErg@|jCgUzwAsw@juD~PxyBhj@`cBw@rwAzV`lB~{A`{@|r@xoAjcBppEj{Et`Hjx@~[f`AwNjj@~Pp{A|`Dx`AheBba@|EvQduCkTldFu\n_Dwj@rlBm\xvDoj@xfBk~AdmGgc@dxBoiAloB_lAx]inAgL_vAnTu_BrNqi@hqB_OflD}cA|tB}c@vdCgk@l|B{fA~dAwkBjd@yzAvgCadA|}@wv@rdB_hAblLgm@xiBm\b_Dmq@hqBsSheCqy@|qA_q@bjCusA~uF{ZrlGcqA|fFs|@poHsxBr|Eoc@roFsAxpHch@~jEmBnxL|hAp``@nSphNhkAnsLtyA`wEpd@tqEd[foCaIbxF~JnoFbu@rxIm@tgIjRv`Lu@xfExa@bvCzI`}F_AvfHbe@fiE{LhvDrn@l|Drr@f_EiQjkFtSxiEuoA|b@ilDz\efA`I{{BznBbSh}Bk|@vrIsCxpHwjAnrEwe@t}Djd@|dFtrAdaKxfAh`NnPpyEtx@vnFvVtxKlVvmEoThrBpf@nyCvcAxhFpFt{F`o@hlBdt@jh@`d@eGfs@kg@hn@rD`mAz{@hR|aBmBjwDwK|cAzT|eBx^ncB{FxmCoOhcEgfAb}ExUdpIsXnPgqAwa@eeB}Sa{A~sAecB|fE}gArqLg{At}K_wAbfF}iCtpFezA`mDg\ne@hd@vh@~f@jaC~VrbBpo@ttDuh@`eA~Jps@}QvuAjdAjyAzo@hFt\|ArH`WbD~b@mC~VoPbo@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.2345941</lat>
+    <lng>6.1503557</lng>
+   </southwest>
+   <northeast>
+    <lat>51.6366362</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>airport</type>
+  <type>establishment</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJqf-gOsVox0cRMrpHHD-OpMA</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

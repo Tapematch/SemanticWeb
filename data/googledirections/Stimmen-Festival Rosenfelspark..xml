@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9, A6 and A5</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>23592</value>
+    <text>6 hours 33 mins</text>
+   </duration>
+   <distance>
+    <value>713402</value>
+    <text>713 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>47.6075777</lat>
+    <lng>7.6667854</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Rosenfels Park, 79540 Lörrach, Germany</end_address>
+  <location>Stimmen-Festival Rosenfelspark</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojAzlAvT|dAvz@doBufBf~Bsi@frCwId[}\lHlc@hDhkJyoAfkFuGf}DfcCjtGpZ`{Da[p_E~Q~gQbyAtrAvvChgDrrGxqEvuCpcC`pEro@lpFti@r}Cf}@zaG~cDbvAviGjyAxmAfo@riBhtAza@lqEym@foHmhAzfH_{FjzDbUhiBfjA~pDjhDnlAzQd_BaUraGvcExfBhwArqDdrA`}Fb_BxaAxNdoAqzAtiCo_BntBfj@`nBp\xjAoiAxrB|Hh}CzDbrBhaAp{A~_Btv@toA~r@_IjXyz@jdAg}AppBxu@fbDij@~yCkwAzjCy|@nx@zTfaDnfBjiBh~A|iBs_@leH`aF~uCtEpvAzSvgAntAtoCldEdhBxsEhr@`gExx@rgA`bAbErnEpsAn}BsN`wLtZ`{ByPj}B`n@pd@t{CtlAx_I|vGjhC|lBcEvp@lk@fr@wf@rXkaAxm@}KzqAbg@fqBgg@`yBlNrg@`qClgAt{AfiAng@nuAeJddBgLvs@~d@~fA`{CrdBbaBpoBx}E`eCzdFl~DhoChuExfAlgDrpDf{GhaHxlDvqDxeBp_BpoAoIli@x{Cbo@zeDffFzuI|pEtgKn~@vjRqpAlvJxw@~fI|JbtH`}C|dHvzBpcH`~@ngI_zAjvQh|A`oIyT`aK`fArmJ~u@fgFve@`wEhsBjbEfQ`wD{TbuEZtuEj_C|bHdYlbIlv@~pDuLnxPxDliHxLzaHak@rmLwpCbaRuqAr~Rh}@|oNf_BzeL~vAplApf@`rDlcAlxBiE`wEv\v{CqeAnsGigBphHwXjuFrQtxFkiBzxGq}@pfBwBhmDas@`lL}[rxE_c@|oE{`DvcOckBdnLy[rsDlV`nCdZ|cH_`AxnEvmDltB|kDyKhmDjeAt}JjmFd_Dp^ftFjlFj{G`iE|lEv{FjsChYrqAhdHrxBjxCzaDdhAd}@feAhpC~~MvgF`tE||C|tEv|Ev_HdyFf|DnfFt`GbrFlnEjhEb~BreExtE~bHrbFltF|oFlfDzlAznEaNdqEdfCtvDx|GttEfeGrdFxXhjDlMthClhA`kHjmDhzD~LrtFmvAdnFgiD`yCsu@jyByrAfjBeQnhDpdCvoCt~DzkDvbEdxCjxIp_BjjJjjBd_Cn{Brw@`fDziBf_Gr_@dtEffCt|Ard@zrBgSbdCgmAvmBrVx}BpxCpgEWncC_zAftDsvFx`@}ZoTua@ik@{nEeWokDeLwmBf]}eAnt@yRpaA}wApOsS_P|l@NvgBdLbn@</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>47.6070518</lat>
+    <lng>7.5234903</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>park</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJR3rIouqwkUcRmqkKJSLecqM</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

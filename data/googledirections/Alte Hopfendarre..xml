@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A14 and B6/B6n</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>5460</value>
+    <text>1 hour 31 mins</text>
+   </duration>
+   <distance>
+    <value>138214</value>
+    <text>138 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>51.9286362</lat>
+    <lng>11.1401100</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Emersleben, 38822 Halberstadt, Germany</end_address>
+  <location>Alte Hopfendarre</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojATfFKrBmBKoBbBmBpDsBdBiBs@iFwEi@i@k@oC@cHS{Si@gBkBFqM~@iEn@Ss@qAeD}HqTaI{PmE_UtA}AhD}Jd@wLsC_@yUmWyK{KoBu@qFiAiJcGsDlAuMlB{HfCsOrDyGv@eBxBw@xDaB`KuB`C_VjJsVbIaLnGqEf@oHaBoNoEiEwCkLiMcDoAwCKcDv@{CtB_HtE}\nK}NrEuFt@cHyAsGwFqCuFIuBl@yB~AYz@dAs@vN_Gbm@wTt{B}QbpBaB`t@cD`hDoB`qBkEffAcWdsDuTx`DwJ|lAuO|bB_Gfs@c[hjD{Kpk@{Uzs@kk@`aBex@~|BiKdXsXvj@eXda@eh@pp@ws@d~@wdBpzBev@daAqXt]mpAd_BeRnP}Z`Qig@bQqaAv[oSbHyQhJcPlMwQlTiFfI_M`W}K|[aI`^aFl_@eCx^s@rj@hAlwAl@pqAw@bkAkD|~@eHnw@iGfa@eKrd@sOne@{LrXwUb`@oM~O}OnOiO~KuPhJsStHcNtCgRfBmPTwe@AcPbA_WtEyZfLiS|LmWdUuWx\wMnU}Trh@u\xw@or@|jA}hAriB{`@dq@gQt\}Qra@{Pjd@kMhb@eG|VwQjeAuShwAaNhk@mK`Y_JrQaXt^inAfgAgOhS{G~M_Nfc@k[z{AgUrfAyLv\}FrKqMxPgN`LsL`G}NpD}Mt@oNu@_TcFgQyFyd@}NuImB_UiCe[Vcb@pCcWLkRiBoOyDgYcL}~@_b@aW{KaXaI_LmBs@{@UmCX}A`EsDdAXTn@cCrSwYpdBgI|h@}@dPB|QfBdXpI`c@`CrTlEt`ApCtz@Utf@{Bnj@R|YfCrTbHhUbJlNp_An|@~F`JpFpNzSpaAna@vnBtIxa@pIdd@tKjvAdB~^BzUgAvXqJ|gAsYbcDeDta@}@~c@l@nUrBtVfM`s@`Nlq@jLxo@jBvh@vAvMhG|YnFpb@p@fWc@xUmCdZaHxa@wb@deCif@lnCoe@fuBwe@frByLft@oJ|}@sFrkAe@b[Gzj@xA~u@tKfcBrFlaAf@~a@Szd@mDjz@sC`[sHji@mGvZyAhBsBd@y@f@gDnIsXcWqQ{M{GcQwT{l@}BbDkCp@wDqAmEXaRbKmZ~j@o@f@eD[yA_AgCI_BvIwCbHsEpC{RhIyo@lXuoDt{Akf@pS{IvESdAUrBmAnHvB`DPhE]tELxg@x@~E\~AkAbAk@ReA?gHi@mEaA_LmEmUuK}A@iwAzmAoP`NgKpDwq@|Vsn@pUmPdGgBp@OcB</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>51.3396563</lat>
+    <lng>11.1396129</lng>
+   </southwest>
+   <northeast>
+    <lat>51.9286362</lat>
+    <lng>12.4000215</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>establishment</type>
+  <type>night_club</type>
+  <type>point_of_interest</type>
+  <place_id>ChIJVVVVBdCbpUcReZvgfCMxUrw</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>

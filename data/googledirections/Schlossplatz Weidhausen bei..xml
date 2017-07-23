@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><DirectionsResponse>
+ <status>OK</status>
+ <route>
+  <summary>A9</summary>
+  <leg>
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   
+   <duration>
+    <value>8080</value>
+    <text>2 hours 15 mins</text>
+   </duration>
+   <distance>
+    <value>207071</value>
+    <text>207 km</text>
+   </distance>
+   <start_location>
+    <lat>51.3397681</lat>
+    <lng>12.3730411</lng>
+   </start_location>
+   <end_location>
+    <lat>50.2029499</lat>
+    <lng>11.1392181</lng>
+   </end_location>
+   <start_address>Leipzig, Germany</start_address>
+   <end_address>Schloßstraße, 96279 Weidhausen bei Coburg, Germany</end_address>
+  <location>Schlossplatz Weidhausen bei</location></leg>
+  <copyrights>Map data ©2017 GeoBasis-DE/BKG (©2009), Google</copyrights>
+  <overview_polyline>
+   <points>qhjxHorojADnJpMp@|QLdYuA~P|I`f@hm@hLhLpPBh^iYnh@s[`Uae@hPuIfcAqK~]mX~ZsCng@`Iba@|@rgAwUd[}\rF`Jx@jXnE~lCe@h}EkWzlBmw@j}B{Px`BdHl{Are@j}Ar|A~uD~Rpk@bJxn@qBt~AkWdiBuBjuAvTjlC|NdvCuQlcHsAzD{CqD~@}Gr~Ah{Av~@f_A~vA`gB~fCx}ArjC~rBvuCpcCd_@nYdg@zPtgCfCbfCp@pr@bIvu@~]ls@fa@hZlJbj@zBvb@tKnwE~cCji@~^nUf`@lNbg@dp@j`EjMdZvOvMhi@|R|O|Ofo@riBf_@rYjWnKt[gCbeAiQj{@uO|nAyJpqEqc@t|A{c@~oAon@v\sTxx@cdAzUuUng@iU|~@wcArSaGnjBh@ha@|B|W|Wpa@ru@rTvKbq@zFhWhLzs@pbA`]z`@veAru@`a@zTlXnA~PoDn}@o\t`@lF~n@tl@jfAlt@fjCr`B`|@nd@vi@xq@xTrTvj@~S`pBpg@fcAzErx@dRd_C`eAj^`PpRxBzNaDhO{Kfh@_z@rUuRzt@}UzTs]p\g^j`@uJl[jDzc@dZv\|GlUv@v^pCd_@|VpXjGpTiF`SyUfV{h@|HmFpUkArd@bQb]|B`o@cKjsAx\pe@oGjb@mNfRiA`QlEpUdOfv@~l@|_@xV`Yti@p`@n]dWxLzJdNhEj^hLhS`OxB|b@yLjXyz@z`@{a@nb@kz@xNiIxQcAbZbOxr@br@xRv@nQgHjTcTjUwIpa@`ErJ|IrGsAm@|d@xN`qBxQxf@`RfPjQfY|I|c@n_@dx@eFv~@|CtWoBnXmIhu@gDxQbEp[t_@zbAh_@dm@xZnZnw@bwBjOz_@iBdm@`SrcAlDhsAtq@z{AxMf[pZ~HtVaCnJpRhN|r@lJ`o@hWj_AnJrb@Rhw@yCjd@qMdb@oPbAiLhNyWtIqJrAsG|JoAh^{Cpc@c@z\rFb[xKdNbXpLjTvMlGh[bC|i@hNh\pGf\wDxj@oF`o@{Qhd@yZvs@mYxUqKfTh@~~@kMxfAzO|dBhZ~N`UjTvRtA`[z^zTrd@nShL|p@ni@pMhVdZtT`ZbiBzNb{AyG|jBrSxt@dJhMdC~UjAtRp@Xrc@lKv_@np@tPn_@bJ|a@`B~OcH|U~Bzg@eA~l@jDpy@`G|d@eAfm@yKv{@o@teBsCn]tJrY_A~_@uJ|_@uDrw@MnXdSb}@lTngAzNre@nBv\mI~`@yUv\yNlRoAfElCfEb]hMlVtAnGnFh@O</points>
+  </overview_polyline>
+  <bounds>
+   <southwest>
+    <lat>50.2029499</lat>
+    <lng>11.1391366</lng>
+   </southwest>
+   <northeast>
+    <lat>51.3397681</lat>
+    <lng>12.3899206</lng>
+   </northeast>
+  </bounds>
+ </route>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>locality</type>
+  <type>political</type>
+  <place_id>ChIJcywPIBj4pkcRUvW0udKA35M</place_id>
+ </geocoded_waypoint>
+ <geocoded_waypoint>
+  <geocoder_status>OK</geocoder_status>
+  <type>route</type>
+  <partial_match>true</partial_match>
+  <place_id>ChIJrZpuc0vUo0cRJzxKpXQCt2E</place_id>
+ </geocoded_waypoint>
+</DirectionsResponse>
