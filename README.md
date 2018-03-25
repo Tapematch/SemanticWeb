@@ -38,7 +38,7 @@ Welche Festivals und Konzerte mit Interpreten aus dem Genre Alternative Rock und
 
 ## Abfrage / Erwartungen
 
-* SPARQL Abfrage  Suche alle Events
+* SPARQL Abfrage -> Suche alle Events
   * deren Interpreten einen Tag “Alternative Rock” besitzen
   * deren Location eine Anfahrtszeit von kleiner bzw. gleich zwei Stunden hat
 * Anzeige weniger passender Konzerte und Festivals
